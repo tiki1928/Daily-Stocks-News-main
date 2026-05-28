@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-05-28T18:43:23.143117",
+  "count": 20,
+  "news": [
+    {
+      "title": "Snowflake Jumps Most Since 2020 on Sales Outlook, Amazon Deal",
+      "description": "Snowflake Inc. shares surged by the most in more than five years after the software maker gave a stronger-than-expected annual outlook and signed a $6 billion multiyear agreement to use Amazon.com Inc.’s cloud services and chips.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-27/snowflake-raises-sales-outlook-touts-impact-of-ai-demand",
+      "publishedAt": "Wed, 27 May 2026 20:10:11 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "3ecd06fd3434b38ebc5d50e1652603da"
+    },
+    {
+      "title": "Salesforce Gives Lukewarm Outlook That Fails to Ease AI Fear",
+      "description": "Salesforce Inc. gave a revenue outlook for the current period that fell just short of analysts’ estimates, failing to ease the concerns of investors already worried about the possibility that artificial intelligence will disrupt the software business",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-27/salesforce-gives-lukewarm-outlook-that-fuels-disruption-fears",
+      "publishedAt": "Wed, 27 May 2026 20:06:30 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "89394d4fdc0fb1ee0f9e87e68f90969e"
+    },
+    {
+      "title": "限时加赠双月卡：百度网盘 SVIP 超级会员 14 月卡 189 元年内新低",
+      "description": "<p>百度网盘超级会员年卡官方售价 298 元，现直降至 189 元年内好价，限时加赠 2 个月；</p><p>到手共 14 个月，折合每月仅 13.5 元年内新低<strong>：</strong></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/RGvqfba\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"htt",
+      "url": "https://www.ithome.com/0/955/699.htm",
+      "publishedAt": "Wed, 27 May 2026 02:09:04 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "c20bdbb0f838c07ccc03d0b92dcb2341"
+    },
+    {
+      "title": "2026粤港澳大湾区车展前瞻：何以成为“湾区风向标”？",
+      "description": "<p style=\"text-align: left; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"font-family: 'Arial'; font-size: 11pt;\">2026年5月29日至6月7日，粤港澳大湾区车展将在深圳国际会展中心（宝安）举行。</span></p><p style=\"text-align: left; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"",
+      "url": "https://www.leiphone.com/category/industrynews/R6G0ZteT8JRCxgAK.html",
+      "publishedAt": "Thu, 28 May 2026 22:11:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "92525b825e27669a0cce3ca2ef53cb6b"
+    },
+    {
+      "title": "CFTC bid to vacate order against Winklevoss' crypto exchange 'very unusual': ex-agency chief",
+      "description": "Gemini's founders, Tyler and Cameron Winklevoss, were donors to the 2024 election campaign of President Donald Trump.",
+      "url": "https://www.cnbc.com/2026/05/28/gemini-cftc-winklevoss-crypto.html",
+      "publishedAt": "Thu, 28 May 2026 18:36:17 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "ff859b4ca5133318f00ed197f50a4b79"
+    },
+    {
+      "title": "拼多多推动生态治理常态化：上半年出台40余项举措 主动筑牢合规防线",
+      "description": "<p>AI技术应用越广泛，越要守住合规底线。近日，拼多多发布公告称，禁止平台商家发布及售卖AI押题、AI数据投毒、AI托管网络账号、AI起号、转售AI虚拟账号等相关服务、课程及工具。</p><p>以AI押题为例，治理范围不仅涵盖以AI押题工具为核心卖点的商品，更延伸至其他各类隐蔽化、变相化服务。比如，一些商家借语文、数学、英语等不同科目，售卖所谓的“押题卷”。此类商品一经发现，将从严处置。</p><p>这是拼多多本月第二次加码AI内容治理。5月中旬发布的《关于去除AI生成标识专项治理公告》指出，",
+      "url": "https://www.leiphone.com/category/industrynews/gguT0yJQDBSmeUmf.html",
+      "publishedAt": "Thu, 28 May 2026 18:24:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "ee0c707e545676ce3aa6e305c955c310"
+    },
+    {
+      "title": "Anthropic Raises at $965 Billion Valuation, Eclipsing OpenAI",
+      "description": "Anthropic PBC raised $65 billion in a funding round that valued the artificial intelligence company at $965 billion including the new investment, eclipsing rival OpenAI’s value for the first time.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/anthropic-raises-at-965-billion-valuation-eclipsing-openai",
+      "publishedAt": "Thu, 28 May 2026 18:22:16 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "174e2c23d827d3cdb3ff92bd441401a5"
+    },
+    {
+      "title": "腾讯云AI加速出海 ：Agent基建升级，WorkBuddy、Miora全球上线",
+      "description": "<p>5月28日，在香港Tencent Cloud Day 上，腾讯云宣布面向 Agent完成全栈升级，新升级 Agent Runtime构建覆盖运行、存储、记忆与安全访问的Agent Infra原生底座。腾讯云国际化进一步加速，腾讯 WorkBuddy、AI 创意工作室 Miora、大模型服务平台 TokenHub 正式面向海外市场开放。</p><p>腾讯公司高级执行副总裁、云与智慧产业事业群 CEO 汤道生表示，AI进入新阶段，企业最关心的不再是要不要用AI，而是怎么把AI Agent用到业",
+      "url": "https://www.leiphone.com/category/industrynews/50cgx7AdZ3LM8Ka1.html",
+      "publishedAt": "Thu, 28 May 2026 18:22:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "ea224061ab552d6867564eebcc3c8f90"
+    },
+    {
+      "title": "卓驭科技欧洲总部正式开业，多项核心业务进展发布！",
+      "description": "<p><span>德国布伦瑞克，2026年5月27日</span><span> — 卓驭科技（ZYT）今日在德国布伦瑞克（Braunschweig）正式举行欧洲总部开业仪式。</span></p><p><span><br /></span></p><p style=\"margin-top: 0; margin-bottom: 0;\"><span style=\"font-family: 'Times New Roman'; font-weight: bold;\">中国驻汉堡总领事馆经商处参赞王昊<",
+      "url": "https://www.leiphone.com/category/industrynews/4X5RtJYs2Gy4RyWj.html",
+      "publishedAt": "Thu, 28 May 2026 18:22:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "f27bd0cfb55e984da2dba57ea939c0b3"
+    },
+    {
+      "title": "AI Inference Demand Won't Stop Anytime Soon, Says Benchmark's Vishria",
+      "description": "Eric Vishria, partner at Benchmark, joins to discuss the high demand for fast AI inference and to give his outlook for the physical AI space as companies navigate constrains around compute, from memory and power to chip bottlenecks. He joins Caroline",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-28/ai-inference-demand-won-t-stop-anytime-soon-vishria-video",
+      "publishedAt": "Thu, 28 May 2026 18:02:24 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "a29b213795ecbd3983d84c959c9ca2fd"
+    },
+    {
+      "title": "Anthropic’s Growing Trust Problem",
+      "description": "Anthropic is trying to build the world’s most powerful AI while convincing governments and customers it can be trusted, explains Bloomberg Opinion columnist Parmy Olson. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-28/opinion-anthropic-s-growing-trust-problem-video",
+      "publishedAt": "Thu, 28 May 2026 18:01:06 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "71242397f6ef53c18a6dfac58cb65355"
+    },
+    {
+      "title": "Snowflake Jumps Most Since 2020 After Amazon Deal | Bloomberg Tech 5/28/2026",
+      "description": "Bloomberg’s Caroline Hyde and Ed Ludlow break down Snowflake's share moves after the software maker gave a strong outlook and signed a $6 billion deal with Amazon. Plus, Bloomberg News pulls back the curtains on Apple's revamped Siri design ahead of ",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-28/bloomberg-tech-5-28-2026-video",
+      "publishedAt": "Thu, 28 May 2026 17:54:28 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "c5aca9956836d190bf8983ca0aceeeed"
+    },
+    {
+      "title": "Maritime Tech Company Navier's First Major Commercial Rollout",
+      "description": "US-based maritime technology company Navier is deploying 100 electric vessels across the Maldives to build an inter-island transportation network linking airports, resorts, and local communities. The rollout marks a major milestone for electrified ma",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-28/navier-s-first-major-commercial-maritime-tech-rollout-video",
+      "publishedAt": "Thu, 28 May 2026 17:54:11 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "7d6b29ebaf8475ece8effd579bbc698a"
+    },
+    {
+      "title": "ICRA 2026 | 李飞飞团队：软物体移动操作新解法，“从刚到柔”的关键一步",
+      "description": "<p><br /></p><p>原文作者：深蓝学院</p><p>原文链接：https://zhuanlan.zhihu.com/p/2020641171664282025</p><p><br /></p><p style=\"text-align: justify;\"><span><img class=\"rich_pages wxw-img\" href=\"//mmbiz.qpic.cn/mmbiz_png/uwFbeBKoFGeLibPx7Ribh1koicNlPromrwK8hNjJtsoBpP",
+      "url": "https://www.leiphone.com/category/robot/sfkY58PVaS2MHomp.html",
+      "publishedAt": "Thu, 28 May 2026 17:51:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "a181e1a159ebf0077aa5e13c67512f24"
+    },
+    {
+      "title": "Oil prices turn lower as U.S.-Iran ceasefire extension awaits Trump approval",
+      "description": "Oil prices pulled back Thursday, erasing earlier gains, on a report that U.S. and Iranian negotiators reached an agreement to extend the ceasefire.",
+      "url": "https://www.cnbc.com/2026/05/28/oil-prices-us-strikes-in-iran-revive-strait-of-hormuz-turmoil-fears.html",
+      "publishedAt": "Thu, 28 May 2026 17:23:24 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "ff71fb30b60d0ff16f3d655a8d78a123"
+    },
+    {
+      "title": "Americans’ savings rate falls to lowest level since 2022 as inflation outpaces paychecks",
+      "description": "As inflation starts outpacing wages again, Americans have less money to put aside for emergencies and other savings goals.",
+      "url": "https://www.cnbc.com/2026/05/28/savings-inflation-americans-financial-stress.html",
+      "publishedAt": "Thu, 28 May 2026 17:14:45 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "01839d16b24caf4c9babe2d48bfce356"
+    },
+    {
+      "title": "BYD Debuts China’s Most Advanced EV Chip in Smart-Driving Push",
+      "description": "BYD Co., the world’s largest electric vehicle maker, unveiled a series of technology advances, including what it calls China’s first automotive-grade 4-nanometer chip for self-driving cars.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/byd-debuts-china-s-most-advanced-ev-chip-in-smart-driving-push",
+      "publishedAt": "Thu, 28 May 2026 17:09:35 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "2a6f9eb40ce2696500f0bc2d3dd5b4d2"
+    },
+    {
+      "title": "一个时间更早、热点更高的年中大促，和它带来的交易新节奏",
+      "description": "<p>2026年夏天还没到，一场围绕它的电商战事已经提前在海外悄然打响。<br /></p><p>亚马逊今年Prime Day从传统的7月提前至6月23日至26日，促销提报在3月24日就已全面开启。卖家的夏季备战周期整体前移了至少一个月。另一边，被业界认为是对标Prime Day的TikTok Shop年中大促也在6月18日启动，时间更早、跨度更长，覆盖美区、英国、欧盟四国、墨西哥和日本等多个市场。</p><p>这不是又一次行业内卷，真正让变化发生的，是今年夏天热点密度空前的集中：美加墨世界杯6",
+      "url": "https://www.leiphone.com/category/industrynews/RCvh604hK1zYqVlf.html",
+      "publishedAt": "Thu, 28 May 2026 17:04:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "4269aaec16a034fe8b237cdf8fdf61c2"
+    },
+    {
+      "title": "Best Buy stock climbs 15% on earnings beat as retailer aims to reinvigorate sales",
+      "description": "Best Buy reported better-than-expected earnings on Thursday as the company works toward turning around its sales slump.",
+      "url": "https://www.cnbc.com/2026/05/28/best-buy-bby-q1-2027-earnings.html",
+      "publishedAt": "Thu, 28 May 2026 17:03:18 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "91e381ddd1b004125fb52d74d2e651c1"
+    },
+    {
+      "title": "Anthropic Plans Wide Release of Mythos-Level AI Models in Weeks",
+      "description": "Anthropic PBC plans to widely release new artificial intelligence models in the coming weeks with cybersecurity capabilities comparable to Mythos, a technology the company previously said was too dangerous to make available to the general public.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/anthropic-unveils-new-flagship-ai-model-that-s-better-at-coding",
+      "publishedAt": "Thu, 28 May 2026 17:02:08 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "bf31f958e4541961b0ea05127e2db9a1"
+    }
+  ]
+}
