@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-05-29T18:41:12.573699",
+  "count": 20,
+  "news": [
+    {
+      "title": "Exxon warns oil inventories will hit dangerously low levels in weeks, forcing prices to shoot higher",
+      "description": "The price of physical Brent oil cargoes will spike to $150 to $160 per barrel once inventories hit all-time lows, Exxon executive Neil Chapman said.",
+      "url": "https://www.cnbc.com/2026/05/28/oil-inventory-exxon-strait-hormuz-iran-war.html",
+      "publishedAt": "Thu, 28 May 2026 22:25:04 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "4c069d0b2be084c85c96ed1cdc369bdd"
+    },
+    {
+      "title": "Gap shares tumble 14% as retailer cuts sales guidance after disappointing Old Navy performance",
+      "description": "Gap issued mixed results as sales at its largest brand, Old Navy, fell short of estimates.",
+      "url": "https://www.cnbc.com/2026/05/28/gap-gap-earnings-q1-2026.html",
+      "publishedAt": "Thu, 28 May 2026 22:01:01 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "7c10722ce5c3138f2e3e044185606b2f"
+    },
+    {
+      "title": "Costco says it saw 'record-breaking' gas volumes amid rising prices",
+      "description": "Costco saw \"recording-breaking volumes\" of gas sales and said rising fuel prices drove first-time members to its stations.",
+      "url": "https://www.cnbc.com/2026/05/28/costco-cost-q3-2026-earnings.html",
+      "publishedAt": "Thu, 28 May 2026 21:38:39 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "066bd9f9642c1a0b9c788bad0d3ede6f"
+    },
+    {
+      "title": "Dell Soars Most in Two Years on Outlook Fueled by AI Servers",
+      "description": "Dell Technologies Inc. shares surged the most in two years on Friday after the hardware maker gave an outlook for annual sales that far surpassed analysts’ estimates, fueled by demand for servers that power artificial intelligence work.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/dell-boosts-outlook-to-60-billion-in-ai-server-sales-this-year",
+      "publishedAt": "Thu, 28 May 2026 20:07:35 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "be4b976f075a6b08c85fec5f27202a78"
+    },
+    {
+      "title": "Solar Company Nextpower Hits All-Time High on AI Battery Deal",
+      "description": "Nextpower Inc. shares briefly touched an all-time high after the solar tracking provider agreed to buy battery company Prevalon Energy for as much as $365 million, marking the solar-tracking provider’s move into energy storage and the fast-growing AI",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/solar-company-nextpower-eyes-ai-s-power-needs-with-battery-deal",
+      "publishedAt": "Thu, 28 May 2026 20:05:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "dabcaa233376d20c7a516686bdeb16b3"
+    },
+    {
+      "title": "US Investors Back Brazil’s Pax in Bet on AI-Powered Policing",
+      "description": "A Brazilian artificial intelligence startup that helps police investigate violent crime is planning a rapid expansion at home, betting its technology is ready for wider use as Brazil confronts mounting public security concerns.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/us-investors-back-brazil-s-pax-in-bet-on-ai-powered-policing",
+      "publishedAt": "Thu, 28 May 2026 18:43:51 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "120a1fde1b12456896c57bed20fb9739"
+    },
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "vivo S60 系列的星光发布会，想讲的不止手机",
+      "description": "<section><section><section><section><section></section><section><section><section><section></section></section></section><section><span><span><span><span><span style=\"color: #000000;\">5月29日的晚上，我坐在</span></span></span></span></span><span><span><span><",
+      "url": "https://www.leiphone.com/category/industrynews/pAtBiYw3rnGoJZ0L.html",
+      "publishedAt": "Fri, 29 May 2026 22:21:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "501cc6cdc88536fc3899c8181a9930c0"
+    },
+    {
+      "title": "Iran war cost: Average U.S. household paying $450 more on gas and energy",
+      "description": "Higher energy costs can force consumers to raid their savings and lean more into debt to cover expenses.",
+      "url": "https://www.cnbc.com/2026/05/29/energy-costs-inflation-iran-war-trump.html",
+      "publishedAt": "Fri, 29 May 2026 18:39:57 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "ebb208840ab8f05c874e0887abcdade1"
+    },
+    {
+      "title": "Mercedes-Benz may be shut out of U.S. market under bill aimed at Chinese automaker ownership",
+      "description": "Mercedes-Benz's largest individual shareholder is BAIC, a Chinese state-owned automaker. Sources told CNBC that exemptions in the legislation would not apply.",
+      "url": "https://www.cnbc.com/2026/05/29/mercedes-benz-ban-congressional-bill-china-ownership.html",
+      "publishedAt": "Fri, 29 May 2026 18:37:42 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "065a83213f21b51cbb977703cbf3834a"
+    },
+    {
+      "title": "Tokens or humans? The new corporate trade-off",
+      "description": "AI is costing far more than companies expected, forcing CFOs into a new trade-off between tokens and humans and posing a risk the market hasn't priced in.",
+      "url": "https://www.cnbc.com/2026/05/29/-tokens-or-humans-the-new-corporate-trade-off.html",
+      "publishedAt": "Fri, 29 May 2026 18:24:45 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "5079a9fd03a611aa879d1f2bba787258"
+    },
+    {
+      "title": "As SpaceX IPO nears, traders think it's a near-certainty Musk becomes the first trillionaire",
+      "description": "With buzz about a record-shattering IPO for SpaceX, traders are confident Elon Musk will advance to trillionaire status before 2027.",
+      "url": "https://www.cnbc.com/2026/05/29/as-spacex-ipo-nears-traders-think-musk-will-be-the-first-trillionaire.html",
+      "publishedAt": "Fri, 29 May 2026 18:17:45 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "b319b9f6818a59bac3addaa8b28c0d46"
+    },
+    {
+      "title": "BOE's Bailey Says UK Banks Don't Have Access to Mythos",
+      "description": "Bank of England Governor Andrew Bailey says that British banks are still locked out of using Anthropic PBC’s powerful new AI tool. Speaking with Bloomberg's Stephanie Flanders at a central banking conference in Iceland, Bailey adds that banks are usi",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-29/boe-s-bailey-says-uk-banks-don-t-have-access-to-mythos-video",
+      "publishedAt": "Fri, 29 May 2026 18:13:35 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "14b81caa79e2f8896e34c51c23f1ee37"
+    },
+    {
+      "title": "Blue Origin warns of rocket explosion debris after failed New Glenn test at Cape Canaveral",
+      "description": "Jeff Bezos' rocket maker suffered a setback on Thursday as its New Glenn rocket went up in flames.",
+      "url": "https://www.cnbc.com/2026/05/29/blue-origin-new-glenn-rocket-explosion-florida-test-nasa-artemis.html",
+      "publishedAt": "Fri, 29 May 2026 17:59:55 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "80ab928510d8f40a49fb36b011a4d2d4"
+    },
+    {
+      "title": "BOE's Bailey on AI Risks, Private Credit and Crypto",
+      "description": "Bank of England Governor Andrew Bailey discusses the emerging risks from frontier AI models, the recent concerns about the private credit market and the central bank's stablecoin proposals. He speaks with Bloomberg's Stephanie Flanders at a central b",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-29/boe-s-bailey-on-ai-risks-private-credit-and-crypto-video",
+      "publishedAt": "Fri, 29 May 2026 17:54:49 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "40d1848b0774b2e209f76036f683aee8"
+    },
+    {
+      "title": "Dell's earnings blowout makes clear now is not the time to go against the AI grain",
+      "description": "Don't fight the tape.",
+      "url": "https://www.cnbc.com/2026/05/29/dells-earnings-blowout-makes-clear-now-is-not-the-time-to-go-against-the-ai-grain.html",
+      "publishedAt": "Fri, 29 May 2026 17:47:47 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "7923821935b3ae8d702cc88f0e35f1d0"
+    },
+    {
+      "title": "BOE’s Bailey Says UK Banks Still Lack Access to Mythos",
+      "description": "Bank of England Governor Andrew Bailey said that British banks are still locked out of using Anthropic PBC’s powerful new AI tool, calling for a international approach to fighting cybersecurity threats.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-29/bank-of-england-s-bailey-says-uk-banks-still-lack-mythos-access",
+      "publishedAt": "Fri, 29 May 2026 17:45:56 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "fa515bda9f20bb58a06c67687e8f3615"
+    },
+    {
+      "title": "我所知道的胡峥楠",
+      "description": "<section><section><section><section><section><section><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260529/6a195ded24585.png?imageMogr2/quality/90\" /></section></section></section></section></section></section>",
+      "url": "https://www.leiphone.com/category/transportation/LOcgOlT3BSp5NFyI.html",
+      "publishedAt": "Fri, 29 May 2026 17:42:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "09ee8c60efa16d13f42bc097f498f626"
+    }
+  ]
+}
