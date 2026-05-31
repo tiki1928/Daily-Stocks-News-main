@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-05-31T14:58:35.940907",
+  "count": 20,
+  "news": [
+    {
+      "title": "Dell Soars Most Since 2018 on Outlook Fueled by AI Servers",
+      "description": "Dell Technologies Inc. shares surged the most since the company returned to the public markets in December 2018, lifted by an outlook for annual sales that far surpassed expectations on demand for servers that power artificial intelligence work.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/dell-boosts-outlook-to-60-billion-in-ai-server-sales-this-year",
+      "publishedAt": "Thu, 28 May 2026 20:07:35 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "33674784789cd05632f36fe881c5e6d4"
+    },
+    {
+      "title": "Solar Company Nextpower Hits All-Time High on AI Battery Deal",
+      "description": "Nextpower Inc. shares briefly touched an all-time high after the solar tracking provider agreed to buy battery company Prevalon Energy for as much as $365 million, marking the solar-tracking provider’s move into energy storage and the fast-growing AI",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/solar-company-nextpower-eyes-ai-s-power-needs-with-battery-deal",
+      "publishedAt": "Thu, 28 May 2026 20:05:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "dabcaa233376d20c7a516686bdeb16b3"
+    },
+    {
+      "title": "US Investors Back Brazil’s Pax in Bet on AI-Powered Policing",
+      "description": "A Brazilian artificial intelligence startup that helps police investigate violent crime is planning a rapid expansion at home, betting its technology is ready for wider use as Brazil confronts mounting public security concerns.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/us-investors-back-brazil-s-pax-in-bet-on-ai-powered-policing",
+      "publishedAt": "Thu, 28 May 2026 18:43:51 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "120a1fde1b12456896c57bed20fb9739"
+    },
+    {
+      "title": "去掉 VAE 之后，商汤用 8B 参数重新定义了开源生图的上限",
+      "description": "<section style=\"text-align: left; margin: 0px 16px; line-height: 1.75em; display: block;\"><span style=\"text-align: justify; line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;\">雷峰网文章 开源一周多，</span><s",
+      "url": "https://www.leiphone.com/category/industrynews/hBRYpm9vvt6sWbhJ.html",
+      "publishedAt": "Sun, 31 May 2026 16:14:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "9603384f1f54b4ed8193ed5b0f726623"
+    },
+    {
+      "title": "GenFlow 4.0，终于挖开百度网盘的富矿",
+      "description": "<section style=\"text-align: left; margin: 0px 16px; line-height: 1.75em; display: block;\"><span style=\"text-align: justify; line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;\">雷峰网讯 2026 年 4 月 27 日，",
+      "url": "https://www.leiphone.com/category/industrynews/lDqYfGMVuIQmMV88.html",
+      "publishedAt": "Sun, 31 May 2026 16:11:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "c3f8fc427074d7840dece97b9db20a48"
+    },
+    {
+      "title": "看屏幕、用键鼠，我的 OpenClaw「睁眼」了",
+      "description": "<section style=\"text-align: left; margin: 0px 16px; line-height: 1.75em; display: block;\"><span style=\"font-family: Arial, Helvetica, sans-serif; font-size: 15px; letter-spacing: 0.5px; text-align: justify;\">雷峰网讯 2026 年 5 月 11 日，本地 AI 智能体框架 OpenClaw ",
+      "url": "https://www.leiphone.com/category/industrynews/uV7OmZjvBiOcHxFD.html",
+      "publishedAt": "Sun, 31 May 2026 16:08:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "b02c41f9dd0a9005ff7c64f3d57e3375"
+    },
+    {
+      "title": "四道题评测 Qwen3.7-Max：从空间推理到 3D 建模，它离 Agent 更近了吗？",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><br /></section><p style=\"text-align: justify; margin: 16px 16px 24px; line-height: 1.75em;\"><span lang=\"EN-US\"><span style=\"text-align: justify; line-height:",
+      "url": "https://www.leiphone.com/category/industrynews/fWQzQKY9BezOu5is.html",
+      "publishedAt": "Sun, 31 May 2026 16:05:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "14daef3a79b68b96af7d0c7b44f8d14d"
+    },
+    {
+      "title": "古尔曼：全新 Apple TV 和 HomePod mini 预计今秋发布，Siri 遥控器或迎来更新",
+      "description": "<p>IT之家 5 月 31 日消息，彭博社记者马克 · 古尔曼今天在最新一期《Power On》通讯透露，苹果准备在今年秋季推出新一代 Apple TV 和 HomePod mini，两款设备将升级芯片，<strong>不过 Apple TV 可能还会配备新版 Siri Remote 遥控器</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsup",
+      "url": "https://www.ithome.com/0/957/893.htm",
+      "publishedAt": "Sun, 31 May 2026 14:48:35 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "5a6c430d011d2e6f61154da7f4cce98f"
+    },
+    {
+      "title": "为老父亲做的桌面 Agent，不小心在 GitHub 霸榜一周",
+      "description": "<section style=\"text-align: left; margin: 0px 16px; line-height: 1.75em; display: block;\"><span style=\"text-align: justify; line-height: 1.75em; font-size: 15px; letter-spacing: 0.5px; font-family: Arial, Helvetica, sans-serif;\">雷峰网讯 5 月 14 日，OpenHum",
+      "url": "https://www.leiphone.com/category/industrynews/PzHnE8Ws2NDiVqrk.html",
+      "publishedAt": "Sun, 31 May 2026 14:44:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "18199d6344a409b7e46ef219097b4d32"
+    },
+    {
+      "title": "百度智能云 DuMate 测评：办公 Agent 教我用 Claude Code，效果如何？",
+      "description": "<section style=\"text-align: left; margin: 0px 16px; line-height: 1.75em; display: block;\"><span style=\"font-family: Arial, Helvetica, sans-serif; font-size: 15px; letter-spacing: 0.5px; text-align: justify;\">雷峰网讯 百度针对企业级场景设计的桌面级 AI 智能体 DuMate 于今年 3 月",
+      "url": "https://www.leiphone.com/category/industrynews/XwxzXl7mJVCNfRzh.html",
+      "publishedAt": "Sun, 31 May 2026 14:41:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "2acfa4288f65f137f4b7b02040144291"
+    },
+    {
+      "title": "编程脚手架狂揽 20 万星，Agent 基础设施成 GitHub 新战场",
+      "description": "<section style=\"text-align: left; margin: 0px 16px; line-height: 1.75em; display: block;\"><span style=\"font-family: Arial, Helvetica, sans-serif; font-size: 15px; letter-spacing: 0.5px; text-align: justify;\">雷峰网讯 近日，GitHub Trending 榜首的「obra/superpowe",
+      "url": "https://www.leiphone.com/category/industrynews/ScqpEp2yKaj6j71g.html",
+      "publishedAt": "Sun, 31 May 2026 14:35:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "08d1a66119b2deb69e46ca21927e3a27"
+    },
+    {
+      "title": "单核 1243 分、多核 3569 分，天玑 7500 芯片现身 Geekbench",
+      "description": "<p>IT之家 5 月 31 日消息，搭载天玑 7500 芯片的 vivo S60 元气版手机（型号 V2572A）前天现身 Geekbench 跑分数据库，测得单核 1243 分、多核 3569 分成绩。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/5/da235fbd-8971-4507-9d48-f5f2d788088a.jpg?x-bce-process=i",
+      "url": "https://www.ithome.com/0/957/891.htm",
+      "publishedAt": "Sun, 31 May 2026 14:31:16 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "1823d746c46587665785b4cf26d33bdd"
+    },
+    {
+      "title": "排名第九、国内第二，DeepSeek V4 凭什么让人又爱又恨？",
+      "description": "<p style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><span style=\"font-family: Arial, Helvetica, sans-serif; font-size: 15px; letter-spacing: 0.5px; text-align: justify; background-color: #F6F8FF;\"><br /></span></p><p",
+      "url": "https://www.leiphone.com/category/industrynews/YpMEgldEnok4fRSn.html",
+      "publishedAt": "Sun, 31 May 2026 14:31:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "0fae23db73c46fcd36bf9a6bee13bab4"
+    },
+    {
+      "title": "索尼 IMX681 + 第一代骁龙 AR1：雷鸟 V3 智能眼镜 1799 → 973 元新低",
+      "description": "<p>雷鸟 V3 AI 拍摄眼镜发布于 2025 年 1 月 7 日，标准版官方定价 1799 元。</p><p>京东 618 大促期间，按下方步骤下单，叠加 15% 国补后仅需 973.86 元：</p><ul class=\" list-paddingleft-2\"><li><p>领 9 折消费券：<a href=\"https://u.jd.com/R6FECca\" target=\"_blank\">点此查看</a>。</p></li><li><p>限时立打 9.6 折。</p></li></u",
+      "url": "https://www.ithome.com/0/957/888.htm",
+      "publishedAt": "Sun, 31 May 2026 14:15:48 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "718e35f7b43bba96adb86a68932b0f62"
+    },
+    {
+      "title": "古尔曼：苹果智能眼镜推迟至 2027 年底发布，瞄准 200~500 美元价位及更广阔的传统眼镜市场",
+      "description": "<p>IT之家 5 月 31 日消息，在今天最新的 Power On 时事通讯中，彭博社的马克 · 古尔曼（Mark Gurman）提到了有关苹果智能眼镜的一系列消息。</p><p>他表示，苹果公司正在将目光投向眼镜市场，试图复制 Apple Watch 对传统手表行业带来的冲击。</p><p>苹果认为智能眼镜的潜在市场规模远超 Apple Watch—— 后者目前年收入估计为 170 亿美元（IT之家注：现汇率约合 1153.75 亿元人民币）。</p><p>苹果的目标并非仅仅与 Meta 等",
+      "url": "https://www.ithome.com/0/957/887.htm",
+      "publishedAt": "Sun, 31 May 2026 14:05:49 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "df419bf526403d1f5a7079c0ec5d6114"
+    },
+    {
+      "title": "大 1 匹 2299 → 1505 元：小米 2026 款米家空调巨省电 Pro 国补新低",
+      "description": "<p>小米米家巨省电 Pro 空调 2026 款开售于 2026 年 3 月 6 日，大 1.5 匹发售价为 2499 元。</p><p>京东 618 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 1504.54 元：</p><ul class=\" list-paddingleft-2\"><li><p>领 2000-200 元空调券：<a href=\"https://coupon.m.jd.com/coupons/show.action?linkKey=AAROH_xI",
+      "url": "https://www.ithome.com/0/957/886.htm",
+      "publishedAt": "Sun, 31 May 2026 14:03:40 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "65e48b13e9f8537d1f02cb61e57b3a16"
+    },
+    {
+      "title": "错过后悔等半年：漫步者 S2000MKIII 蓝牙音箱 1105 元国补探新低",
+      "description": "<h3>【京东活动可能随时变更，需以实付款为准】</h3><p>漫步者 S2000MKIII 蓝牙音箱发售于 2019 年 6 月，今年日常售价为 1780 元。</p><p>京东 618 大促期间，按下方步骤下单，叠加 5% 官方直降 + 10% 国补后仅需 1196.9 元：</p><ul class=\" list-paddingleft-2\"><li><p>领 9 折消费券：点击下方卡片，跳转后可在详情页商品标题下方领取。</p></li><li><p>满 800-80 元 PLUS 专享",
+      "url": "https://www.ithome.com/0/957/882.htm",
+      "publishedAt": "Sun, 31 May 2026 13:48:19 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "d6ff54bfc997cdf57ae3293156e9e4e0"
+    },
+    {
+      "title": "我所知道的郎咸朋",
+      "description": "<section><section><section><section><section><section><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260531/6a1bc798590eb.jpg?imageMogr2/quality/90\" /></section></section></section></section></section></section>",
+      "url": "https://www.leiphone.com/category/transportation/4iLiqAZc2eam6IDF.html",
+      "publishedAt": "Sun, 31 May 2026 13:34:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "246ee91ccb78ae3e878b06209a690de6"
+    },
+    {
+      "title": "I climbed the vertical height of Mount Everest in 36 hours—it turned me into 'a new version of myself'",
+      "description": "\"I'm proud to say I earned the coveted Red Hat, awarded to participants who finish the event. But that was never the real prize,\" says Kristy Ellmer, a managing director and senior partner at BCG.",
+      "url": "https://www.cnbc.com/2026/05/31/i-climbed-the-vertical-height-of-mount-everest-in-36-hourswhat-i-learned.html",
+      "publishedAt": "Sun, 31 May 2026 13:30:01 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "2f20c23171ee104e3d0d089b22ac2858"
+    },
+    {
+      "title": "中国品牌张雪机车 WSBK 阿拉贡站稳守积分，德比斯两回合正赛均列第八",
+      "description": "<p>IT之家 5 月 31 日消息，5 月 30 日至 31 日，2026 赛季世界超级摩托车锦标赛（WSBK）西班牙阿拉贡站在阿尔卡尼斯赛道展开激战。</p><p>在世界量产组（WorldSSP）的比拼中，中国摩托车制造商“张雪机车”车队的法国车手瓦伦丁 · 德比斯驾驶 53 号战车，在前后两回合正赛中均取得第八名。</p><p>其中在第一回合正赛中，德比斯从激烈角逐中脱颖而出拿下第八；次日第二回合比赛，他从第十位起步，一度落至第十三名，随后凭借稳定的节奏逐步反超，在倒数第二圈时完成超越上到",
+      "url": "https://www.ithome.com/0/957/880.htm",
+      "publishedAt": "Sun, 31 May 2026 13:15:01 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "92c70c4be0850ae0fa2ca53a81f7eaf3"
+    }
+  ]
+}
