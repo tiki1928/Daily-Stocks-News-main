@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-06-03T20:41:41.637513",
+  "count": 20,
+  "news": [
+    {
+      "title": "NUS 余浩泳教授：外骨骼的轻量化与任务感知丨ICRA 2026",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260603/6a202b1314037.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/MCcFD9ZyKWLuFSwB.html",
+      "publishedAt": "Wed, 03 Jun 2026 21:27:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "191b2dc24db87447fd69f8d0619aa96f"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman meets with lawmakers, Trump officials in DC",
+      "description": "President Donald Trump signed an executive order about AI this week, which Altman voiced support for.",
+      "url": "https://www.cnbc.com/2026/06/03/open-ai-altman-congress-trump-eo.html",
+      "publishedAt": "Wed, 03 Jun 2026 20:28:59 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "63b986befe0797487f1010697a189610"
+    },
+    {
+      "title": "博通 2026 财年第二财季归母净利润 93.10 亿美元，同比增长 87.51%",
+      "description": "<p class=\"v-focus\"> IT之家 6 月 4 日消息，博通今日发布 2026 财年（2025 年 11 月 3 日～2026 年 11 月 1 日）第二财季（2026 年 2 月 2 日～2026 年 5 月 3 日）报告：</p><ul class=\"list-paddingleft-2 v-focus\"> <li> <p> <strong>营业总收入</strong>： 221.87 亿美元，同比增长 47.88% </p> </li> <li> <p> <strong>毛利",
+      "url": "https://www.ithome.com/0/959/583.htm",
+      "publishedAt": "Wed, 03 Jun 2026 20:24:38 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "1b75b8edb5d84a728fd22646bc8b53d3"
+    },
+    {
+      "title": "Broadcom’s Outlook Lets Down Investors Primed for a Blowout",
+      "description": "Broadcom Inc. delivered a disappointing forecast for artificial intelligence chip revenue, signaling that the company is progressing more slowly than anticipated in the burgeoning industry.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/broadcom-outlook-disappoints-investors-seeking-ai-fueled-blowout",
+      "publishedAt": "Wed, 03 Jun 2026 20:20:31 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "18baac4ce59f5336607503b48f789689"
+    },
+    {
+      "title": "CrowdStrike Hits Projections, Signals Resilient Cyber Demand",
+      "description": "CrowdStrike Holdings Inc. projected revenue figures that were broadly in line with analysts’ estimates as concern continues to mount in government and industry over the threat of hackers armed with powerful artificial intelligence tools.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/crowdstrike-hits-projections-signals-resilient-security-demand",
+      "publishedAt": "Wed, 03 Jun 2026 20:10:12 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "1b2f5ba24fcd238cabbb0fa2e4c7c257"
+    },
+    {
+      "title": "Senate GOP strips up to $1B for Trump ballroom security from immigration enforcement bill",
+      "description": "GOP leaders reportedly privately concluded that the funding proposal risked derailing the broader immigration bill, both politically and procedurally.",
+      "url": "https://www.cnbc.com/2026/06/03/senate-gop-trump-ballroom-security-funding-immigration-bill.html",
+      "publishedAt": "Wed, 03 Jun 2026 20:06:25 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "ad0d86ca9a5d7f303f90fd2427470f26"
+    },
+    {
+      "title": "AI CapEx Rush Seen as Continuing as Market Stresses Bubble Up",
+      "description": "The AI-driven boom will ease up at some point in the future but not yet, Diameter Capital Partners co-founder and Managing Partner Scott Goodwin said at the Bloomberg Global Credit Forum on Wednesday.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/ai-capex-rush-seen-as-continuing-as-market-stresses-bubble-up",
+      "publishedAt": "Wed, 03 Jun 2026 19:45:36 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "cb9272dc12327612863104d9dd0061e7"
+    },
+    {
+      "title": "AI Euphoria in Old World Auto Stocks Gets a Nod From Wall Street",
+      "description": "Investors betting that more old-world auto companies are in line to benefit from the boom in artificial intelligence got another stamp of approval from Wall Street.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/ai-euphoria-in-old-world-auto-stocks-gets-a-nod-from-wall-street",
+      "publishedAt": "Wed, 03 Jun 2026 19:45:31 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "b4b40c83e4180a234b245c4b47ee0741"
+    },
+    {
+      "title": "Nvidia’s RTX Spark Sets Up Fight Over the Soul of Windows PCs",
+      "description": "The future of the personal computer is a hot topic again, courtesy of Nvidia Corp.’s announcement this week with Microsoft Corp. The leader in AI hardware is taking another run at making the central component for laptops, promising to bring the bigge",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/nvidia-s-rtx-spark-sets-up-fight-over-the-soul-of-windows-pcs",
+      "publishedAt": "Wed, 03 Jun 2026 19:27:48 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "3ff042d902c49e0f3a3d43d80f83cf6e"
+    },
+    {
+      "title": "AI Data Center Parts Maker Xnrgy Said to Mull $10 Billion Sale",
+      "description": "The owners of Xnrgy Climate Systems, a closely held manufacturer of heating an cooling parts for AI data centers, are considering a sale that could value the company at as much as $10 billion, according to people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/ai-data-center-parts-maker-xnrgy-said-to-mull-10-billion-sale",
+      "publishedAt": "Wed, 03 Jun 2026 19:27:03 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "5ca61f2bbdf44d3dcd4cf496b14a4430"
+    },
+    {
+      "title": "DoubleLine's Cohen Warns of AI Bubble Coming to Credit Markets",
+      "description": "Robert Cohen, director of global developed credit at DoubleLine, says artificial intelligence debt will almost certainly reach bubble levels during a panel at the Bloomberg Global Credit Forum in New York. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-03/doubleline-s-cohen-warns-of-ai-bubble-coming-to-credit-video",
+      "publishedAt": "Wed, 03 Jun 2026 19:07:32 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "aa6202bb689474628da4af69780cb224"
+    },
+    {
+      "title": "BofA CEO Moynihan on Affordability, Lending and AI Spending",
+      "description": "Bank of America CEO Brian Moynihan discusses consumer spending trends amid rising inflation, affordability issues and the impact of AI on the banking industry. He speaks with Bloomberg's Dani Burger at the Forbes Iconoclast Summit in New York. (Corre",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-03/bofa-ceo-moynihan-on-affordability-lending-and-ai-video",
+      "publishedAt": "Wed, 03 Jun 2026 18:56:58 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "1e805043077a482de205375625cb4c0b"
+    },
+    {
+      "title": "Alphabet Upsizes Equity Offering to $85B for AI Spending",
+      "description": "Bloomberg Intelligence's Matthew Palazola joins Scarlet Fu on \"Bloomberg Deals.\" Google parent Alphabet upsized its equity raise to $84.75 billion from the $80 billion it announced just two days earlier in a bid to help fund growing artificial intell",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-03/alphabet-upsizes-equity-offering-to-85b-for-ai-spending-video",
+      "publishedAt": "Wed, 03 Jun 2026 18:42:58 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "6247ed184220a0e9348891433468dad4"
+    },
+    {
+      "title": "Uber slashes people division by nearly a quarter. CEO says 'changes are necessary'",
+      "description": "Uber said the cuts were not driven by AI, which has allowed many tech businesses to cut costs and automate workloads.",
+      "url": "https://www.cnbc.com/2026/06/03/uber-layoffs-people-division-ai.html",
+      "publishedAt": "Wed, 03 Jun 2026 18:39:25 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "e9af5ce115d9f121d6a2a6101b74d427"
+    },
+    {
+      "title": "How Duke Energy Plans to Meet AI Demand",
+      "description": "Duke Energy President Harry Sideris says the utility is focused on keeping power affordable for customers while meeting surging demand from AI and data centers. Sideris spoke with Bloomberg’s Tyler Kendall at the Edison Electric Institute Conference ",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-03/how-duke-energy-plans-to-meet-ai-demand-video",
+      "publishedAt": "Wed, 03 Jun 2026 18:37:58 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "0669fe6139f79b81eec6ef5bd98d600d"
+    },
+    {
+      "title": "AI Financing Is an Arms Race, Says GoldenTree's Tananbaum",
+      "description": "GoldenTree Asset Management Founder and CIO Steven Tananbaum says he expects credit to continue to languish, though there are some pockets of opportunity, and adds that the financing of AI is an arms race. He sat down with Lisa Abramowicz at the Bloo",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-03/ai-financing-is-an-arms-race-goldentree-s-tananbaum-video",
+      "publishedAt": "Wed, 03 Jun 2026 18:23:18 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "e9602102860ce8f73d073c661f0bb3e5"
+    },
+    {
+      "title": "DoubleLine’s Cohen Says AI Bubble Is Coming to Credit Markets",
+      "description": "Artificial intelligence debt will almost certainly reach bubble levels eventually, given the history of periods of heavy investments in areas like railroads and the internet, said DoubleLine portfolio manager Robert Cohen.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/ai-bubble-is-coming-to-credit-markets-doubleline-s-cohen-says",
+      "publishedAt": "Wed, 03 Jun 2026 18:18:50 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "fc17072f056c5e0238622e051033f5bc"
+    },
+    {
+      "title": "SpaceX Rejects Another Wall Street Convention Ahead of IPO",
+      "description": "SpaceX plans to offer shares at $135 apiece to raise $75 billion in its IPO, rejecting yet another Wall Street convention by setting a fixed price ahead of the marketing phase of the deal. Bloomberg's Katherine Doherty joins Caroline Hyde and Ed Ludl",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-03/spacex-rejects-more-wall-street-convention-ahead-of-ipo-video",
+      "publishedAt": "Wed, 03 Jun 2026 18:10:53 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "4766bf02dc1d36f12a3a41e1703360db"
+    },
+    {
+      "title": "SpaceX To Target $75B in IPO at $135 Per Share | Bloomberg Tech 6/03/2026",
+      "description": "Bloomberg’s Caroline Hyde and Ed Ludlow discuss SpaceX's plan to offer shares at $135 apiece to raise $75 billion in its IPO, rejecting yet another Wall Street convention by setting a fixed price ahead of the marketing phase of the deal. Plus, Palo A",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-03/bloomberg-tech-6-03-2026-video",
+      "publishedAt": "Wed, 03 Jun 2026 18:00:48 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "892e5f44ac64ea27c5f0f9f441039d9f"
+    },
+    {
+      "title": "OpenAI CEO to Share Oversight Ideas in Wake of Trump AI Order",
+      "description": "OpenAI Chief Executive Officer Sam Altman will push his vision for public-private collaboration on artificial intelligence during a visit to Washington on Wednesday, part of a broader policy agenda that also includes creating a vehicle to pass AI’s p",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/openai-ceo-to-share-oversight-ideas-in-wake-of-trump-ai-order",
+      "publishedAt": "Wed, 03 Jun 2026 17:55:04 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "1eec8ee5709ae27327e0b81444e5a80d"
+    }
+  ]
+}
