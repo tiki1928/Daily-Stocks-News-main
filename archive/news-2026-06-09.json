@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-06-09T17:30:21.361989",
+  "count": 20,
+  "news": [
+    {
+      "title": "Trump says U.S. must 'respond' after Iran shoots down helicopter over Hormuz Strait",
+      "description": "The latest clash with Iran over the Strait of Hormuz came as President Donald Trump repeated that a deal with Tehran could be reached within days.",
+      "url": "https://www.cnbc.com/2026/06/09/trump-iran-helicopter-hormuz-strait.html",
+      "publishedAt": "Tue, 09 Jun 2026 17:17:39 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "bd83b29601a4b1ab9060cf9159b58521"
+    },
+    {
+      "title": "Firefly CEO Sees Moon Mission Boom",
+      "description": "Firefly Aerospace CEO Jason Kim joins Bloomberg Open Interest to talk about why the space economy is entering a major growth phase, powered by NASA’s moon-base ambitions, rising national security demand, and the need for reliable rocket access. He sa",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-09/firefly-ceo-sees-moon-mission-boom-video",
+      "publishedAt": "Tue, 09 Jun 2026 17:15:24 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "9e7e1b8e7ee01e969d2ff66b00fd1738"
+    },
+    {
+      "title": "How Jim Cramer views Apple on Day 2 of its post-WWDC keynote pullback",
+      "description": "\"We're not going to trade Apple. That's an own, don't trade,\" Jim Cramer said. Still, \"you cannot call the bottom here.\"",
+      "url": "https://www.cnbc.com/2026/06/09/how-jim-cramer-views-apple-on-day-2-of-its-post-wwdc-keynote-pullback.html",
+      "publishedAt": "Tue, 09 Jun 2026 17:13:10 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "a71072c2bc77db978cb879469844208d"
+    },
+    {
+      "title": "Anthropic releases Mythos-like AI model to the public two months after private rollout rocked Wall Street",
+      "description": "Anthropic said the broad release is possible because of new safeguards that block responses in specific high-risk areas.",
+      "url": "https://www.cnbc.com/2026/06/09/anthropic-mythos-claude-fable-5.html",
+      "publishedAt": "Tue, 09 Jun 2026 17:03:52 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "165be46836dafbce08d5c63232903dc7"
+    },
+    {
+      "title": "Anthropic Releases Mythos-Like Model Without Cyber Capabilities",
+      "description": "Anthropic PBC is widely releasing a version of Mythos that will be blocked from carrying out cybersecurity tasks, months after warning that the powerful artificial intelligence model could spot and exploit vulnerabilities in critical software.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/anthropic-releases-mythos-like-model-without-cyber-capabilities",
+      "publishedAt": "Tue, 09 Jun 2026 17:00:33 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "b7f898dbc9b2a54bda2ff14ceb940a51"
+    },
+    {
+      "title": "Rivian is betting on its R2 EV to turn the automaker into a household name like Tesla",
+      "description": "The R2 SUV is meant to transform Rivian from a niche EV manufacturer that sells luxury vehicles into a more mainstream brand like U.S. EV leader Tesla.",
+      "url": "https://www.cnbc.com/2026/06/09/rivian-r2-suv-tesla-competition.html",
+      "publishedAt": "Tue, 09 Jun 2026 16:55:05 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "0f42849acf3cd9ea2355b7afda2aa56a"
+    },
+    {
+      "title": "Apollo, Blackstone Fund AI Boom",
+      "description": "Apollo and Blackstone are teaming up on a massive $35 billion AI financing deal that could reshape how artificial intelligence infrastructure gets funded. Bloomberg’s Emily Graffeo joins Bloomberg Open Interest to explain why Wall Street is creating ",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-09/apollo-blackstone-fund-ai-boom-video",
+      "publishedAt": "Tue, 09 Jun 2026 16:54:29 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "f3a221c5a3fe2e016dcba6b153d91283"
+    },
+    {
+      "title": "美团发布AI浏览器Tabbit 1.0，可自动执行各类任务",
+      "description": "<p>6月9日，美团旗下GN06团队宣布AI原生浏览器Tabbit 1.0正式上线。Tabbit是浏览器形式的AI入口，内置多款头部大模型，用户输入需求后，Tabbit可自动执行跨软件、跨网页等各类复杂任务。据介绍，Tabbit标准版永久免费，Windows、macOS同步上架，移动端也已开启测试。用户可前往官网（www.tabbit.com）下载使用。</p>",
+      "url": "https://www.leiphone.com/category/industrynews/l1NRaMPNtbIamRZp.html",
+      "publishedAt": "Tue, 09 Jun 2026 16:48:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "09db0c7d9501cb8f2a62c1bdd456e10e"
+    },
+    {
+      "title": "Apple WWDC 2026 Recap: What’s Coming to iPhone, Mac and Other Devices",
+      "description": "Apple Inc. unveiled a new artificial intelligence strategy on Monday at its annual Worldwide Developers Conference, aiming to provide practical improvements and features that the company believes everyday consumers will actually use.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/apple-wwdc-2026-recap-everything-coming-to-iphone-mac-apple-watch-and-more",
+      "publishedAt": "Tue, 09 Jun 2026 16:39:23 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "e111c4c0a5c9e572670bc8c13763855d"
+    },
+    {
+      "title": "OpenAI Confidentially Files for IPO as Tech Rivals Compete for Cash",
+      "description": "OpenAI filed confidentially for an IPO, as the race heads to Wall Street. Tom Mackenzie breaks down why 2026 is turning into the year of megacap tech listings. (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-09/openai-confidentially-files-for-ipo-video",
+      "publishedAt": "Tue, 09 Jun 2026 15:55:37 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "b75d643b5b5f12088f8cd02c3dfdb7ff"
+    },
+    {
+      "title": "从诺奖项目到生成式药物设计，Latent Labs 创始人 Simon Kohl：AI 正在让生物学进入「可编程时代」 | CVPR 2026",
+      "description": "<p style=\"margin-top: 24pt; margin-bottom: 24pt;\"><br /></p><p style=\"margin-top: 0px; margin-bottom: 0px; text-align: center;\"><img border=\"0\" src=\"https://static.leiphone.com/uploads/new/images/20260609//6a27c44a27221.jpg?imageMogr2/quality/90\" /><",
+      "url": "https://www.leiphone.com/category/ai/KDFY44S9EzFIKxVD.html",
+      "publishedAt": "Tue, 09 Jun 2026 15:49:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "d8fe66b10d36caa7959e7c36d6daf5ce"
+    },
+    {
+      "title": "谷歌发布实时语音互译模型 Gemini 3.5 Live Translate：可识别 70 余种语言，谷歌翻译 App 就能用",
+      "description": "<p>IT之家 6 月 9 日消息，北京时间 9 日（今天）晚间，谷歌正式发布<strong>最新的实时语音互译音频模型</strong> Gemini 3.5 Live Translate，迈出实时翻译的下一步。</p><p>Gemini 3.5 Live Translate <strong>可自动识别 70 多种语言，并生成流畅、自然的翻译语音，同时保留说话者的语调、语速和音高</strong>。</p><p style=\"text-align: center;\"><img class=\"n",
+      "url": "https://www.ithome.com/0/962/143.htm",
+      "publishedAt": "Tue, 09 Jun 2026 15:33:16 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "f4f31877f671791d0025a27c38cbda80"
+    },
+    {
+      "title": "Asia’s Largest Outsourcer to Slow Hiring as AI Reshapes Industry",
+      "description": "Tata Consultancy Services Ltd., Asia’s largest outsourcer, will reduce hiring going ahead as it steps up the use of artificial intelligence agents, marking a pivotal shift in India’s labor-intensive outsourcing industry.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/asia-s-largest-outsourcer-to-slow-hiring-as-ai-reshapes-industry",
+      "publishedAt": "Tue, 09 Jun 2026 15:32:09 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "34d505d94f321872538e7d18776e9896"
+    },
+    {
+      "title": "微软 AI CEO 苏莱曼改口，收回“AI 将于 18 个月内取代大部分白领工作”言论",
+      "description": "<p>IT之家 6 月 9 日消息，据科技媒体 The Verge 今天报道，微软 AI 部门 CEO 穆斯塔法 · 苏莱曼正在淡化此前的“AI 将取代白领工作”言论。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/2/09370aa0-cdd7-4496-8ef8-38a907d5949d.jpg?x-bce-process=i",
+      "url": "https://www.ithome.com/0/962/142.htm",
+      "publishedAt": "Tue, 09 Jun 2026 15:29:04 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "b25edbe2d404c708f22bc3ab860d24aa"
+    },
+    {
+      "title": "Apple shares slide after big Siri AI reveal",
+      "description": "Apple unveiled new artificial intelligence software at WWDC, highlighted by its long-awaited update to Siri.",
+      "url": "https://www.cnbc.com/2026/06/09/apple-stock-siri-ai-reaction.html",
+      "publishedAt": "Tue, 09 Jun 2026 15:26:56 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "74f142517e4da0137f9c66c9bd95e489"
+    },
+    {
+      "title": "Meta Ordered by EU to Halt WhatsApp Curbs on AI Rivals",
+      "description": "Meta Platforms Inc. has been ordered by the European Union to temporarily halt policies that allegedly block rival AI firms from operating on its WhatsApp messaging service for businesses.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/meta-ordered-by-eu-to-halt-whatsapp-curbs-on-ai-rivals",
+      "publishedAt": "Tue, 09 Jun 2026 15:21:39 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "cad8e9a5af868468c2740c2916bfdb74"
+    },
+    {
+      "title": "罗永浩谈苹果 iOS 27“挤牙膏”，称希望新 CEO 别再这样了",
+      "description": "<p>IT之家 6 月 9 日消息，罗永浩今日转发了博主 @李大锤同学 的 iOS27 上手体验视频，并发文：“哇，哇靠，哇塞，好多创新啊。赶紧退休吧，<strong>希望新的 CEO 别再这样了</strong>。”</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/6/8abe282d-0c6c-4848-9d83-dac06a6",
+      "url": "https://www.ithome.com/0/962/140.htm",
+      "publishedAt": "Tue, 09 Jun 2026 15:17:57 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "85440fa4a44e7f8713a6e158a01437bd"
+    },
+    {
+      "title": "Energy Secretary Chris Wright says traffic in Strait of Hormuz is rising 'very meaningfully'",
+      "description": "Wright said that describing the volume of oil exports out of Hormuz as increasing is a \"fair statement.\"",
+      "url": "https://www.cnbc.com/2026/06/09/chris-wright-hormuz-oil-iran-trump.html",
+      "publishedAt": "Tue, 09 Jun 2026 15:16:59 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "4bc3f1bf4e88081201149f98f310b2c7"
+    },
+    {
+      "title": "SpaceX IPO Draws Orders for Multiple Times the Shares Available",
+      "description": "SpaceX’s initial public offering has attracted demand from institutional investors for multiple times the available shares, according to people familiar with the matter, as the Elon Musk-led rocket, satellite and artificial intelligence firm’s debut ",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/spacex-ipo-draws-orders-for-multiple-times-the-shares-available",
+      "publishedAt": "Tue, 09 Jun 2026 15:14:46 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "8d1e05c7d0f8df7843b7d7a044e8d417"
+    },
+    {
+      "title": "AI Selloff a ‘Wake-Up Call’ for Investors, Wells Fargo Says",
+      "description": "Friday’s technology-driven selloff was a “wake-up call” for investors, according to Wells Fargo &amp; Co., which said it has highlighted the risks of piling into the artificial-intelligence trade.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/ai-selloff-was-a-wake-up-call-for-investors-wells-fargo-says",
+      "publishedAt": "Tue, 09 Jun 2026 15:12:59 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "e147e02210589b935f6ddb2c0468cc15"
+    }
+  ]
+}
