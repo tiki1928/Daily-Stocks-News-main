@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-06-24T11:45:04.522639",
+  "count": 20,
+  "news": [
+    {
+      "title": "360发布“中国版Mythos”图龙锋 周鸿祎：漏洞发现能力正成为新的战略能力",
+      "description": "<p>在今日开幕的ISC.AI 2026（第十四届互联网安全大会）上，360集团创始人周鸿祎正式发布360 AI安全“倚天屠龙”两大核心能力：漏洞自动化挖掘智能体“图龙锋”和网络安全自动化防御系统“仪天阵”。同时，360联合飞腾、麒麟等信创、安全、云计算、大模型和算力等产业伙伴，共同发起“磐石之盾”安全协作计划。</p><p>近期，Anthropic宣布限制内部最强模型Mythos对外开放，引发全球安全行业广泛关注。早在该模型问世初期，曾引发美国一众网络安全巨头股价集体暴跌。</p><p>周鸿祎",
+      "url": "https://www.leiphone.com/category/industrynews/t81MR1roNriefQ6v.html",
+      "publishedAt": "Wed, 24 Jun 2026 15:00:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "4a30dd071d9690663a56472bf3313703"
+    },
+    {
+      "title": "阿里QoderWork推“峰谷Token”，夜间使用Qwen3.7低至2折",
+      "description": "<p>6月23日晚，阿里QoderWork推出“峰谷Token”，Agent在每晚 22:00到次日08:00运行可自动享受优惠，其中Qwen3.7-Max模型低至2折。这是国内首个上线“峰谷Token”的Agent产品，将大幅降低用户的使用成本。例如，用户可在白天设定好定时任务、或者睡前提交长程任务指令，选择Qwen3.7模型，让Agent自动跑完全流程，早上起来验收即可。据介绍，夜间折扣产品涵盖QoderWork、Qoder Desktop等产品。</p><p style=\"text-ali",
+      "url": "https://www.leiphone.com/category/industrynews/fnvQGe0cc0EAX1bK.html",
+      "publishedAt": "Wed, 24 Jun 2026 12:03:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "a070af9ada4094d45e9c5f4b82661133"
+    },
+    {
+      "title": "只改一行代码让 GCC 性能暴涨 12%，适用于现代英特尔与 AMD 处理器",
+      "description": "<p>IT之家 6 月 24 日消息，英特尔软件工程师 Lili Cui 发现，在 GNU 编译器套件（GCC）的通用 x86 调优代码中修改一行参数，即可为现代英特尔和 AMD 处理器带来可观的性能提升。</p><p>该补丁已于今日被合并至 GCC Git 主线仓库中，预计将随 2027 年发布的 GCC 17 稳定版一同推出。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.c",
+      "url": "https://www.ithome.com/0/968/151.htm",
+      "publishedAt": "Wed, 24 Jun 2026 11:38:31 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "cac240a2e16b45918cb7b26081e489af"
+    },
+    {
+      "title": "South Korea’s biggest chipmaker SK Hynix plans to raise $29 billion via Nasdaq listing",
+      "description": "The company plans to issue 17.79 million new shares at a value of 45.45 trillion won ($29.65 billion).",
+      "url": "https://www.cnbc.com/2026/06/24/sk-hynix-nasdaq-adr-listing-south-korea.html",
+      "publishedAt": "Wed, 24 Jun 2026 11:34:30 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "05b1caa14ef71b15d17199bd51bffb25"
+    },
+    {
+      "title": "Tech companies would have to pay AI data center energy costs under bill moving in Congress",
+      "description": "A House subcommittee may advance legislation Wednesday to make tech companies pay the energy costs for operating data centers to power AI.",
+      "url": "https://www.cnbc.com/2026/06/24/ai-data-centers-tech-companies-congress-energy-costs.html",
+      "publishedAt": "Wed, 24 Jun 2026 11:28:36 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "1c61c4d9eb6b58c666595279efacab38"
+    },
+    {
+      "title": "Micron Earnings to Be ‘Gut Check Moment’ for Markets, Dan Ives Says",
+      "description": "Dan Ives, global head of tech research and senior equity analyst at Wedbush Securities, discusses the importance of Wednesday’s earnings from Micron Technologies, tech spending on capex and the AI buildout, and how he views public-private partnership",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-24/micron-to-be-gut-check-moment-for-markets-dan-ives-video",
+      "publishedAt": "Wed, 24 Jun 2026 11:25:08 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "c8b74d4d78abbe3fd6eef6171a6f4f4d"
+    },
+    {
+      "title": "存储巨头上市估值冲万亿；大厂不隐藏身份抢数千台B300；Day0适配竞争变味；京东芯片核心成员创业拿亿元融资｜算力情报局Vol.12",
+      "description": "<p style=\"margin-top: 0px; margin-bottom: 0px; text-align: center;\"><br /></p><p style=\"text-align: left; margin-top: 16pt; margin-bottom: 6pt;\"><span style=\"font-family: 'Arial'; font-size: 16pt; font-weight: bold;\">大厂开始直接抢卡：B300被数千台扫货</span></p><p ",
+      "url": "https://www.leiphone.com/category/chips/B9OrnyYJ8xX88loZ.html",
+      "publishedAt": "Wed, 24 Jun 2026 11:25:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "34fc1d99d4b041da901d170e1ae441c6"
+    },
+    {
+      "title": "独家丨首周锁单超1.3万台，小鹏GX还未到大爆的程度",
+      "description": "<section><section><section><section><section></section><section><section><section><section></section></section></section><section><span><br /></span></section><p style=\"text-align: justify; margin-bottom: 24px; line-height: 1.75em;\"><span><span style",
+      "url": "https://www.leiphone.com/category/transportation/GuMr52kfBBLLfvF1.html",
+      "publishedAt": "Wed, 24 Jun 2026 11:20:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "a31aa034f928e5725972700d8ecf6d39"
+    },
+    {
+      "title": "剧版《三体》原班人马回归，电视剧《三体 · 大史》官宣",
+      "description": "<p>IT之家 6 月 24 日消息，今天下午，@腾讯视频 官微宣布，腾讯视频自制剧集《三体 · 大史》即将上线并同步开启预约。</p><blockquote><p>《三体》电视剧原班人马，强势回归！<br />当危机席卷而来，当真相层层剥开，当全世界都在怀疑动摇，只有他们，坚定的选择站在人类这一边！</p></blockquote><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://qimg.ithome.co",
+      "url": "https://www.ithome.com/0/968/149.htm",
+      "publishedAt": "Wed, 24 Jun 2026 11:13:26 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "25332c8e5264a72ba9c9c060ff527528"
+    },
+    {
+      "title": "Lingyi iTech Raises $1.1 Billion With Shares Priced at Maximum",
+      "description": "China’s Lingyi iTech Guangdong Co. raised HK$8.3 billion ($1.1 billion) after pricing its Hong Kong listing at the maximum price, with strong investor demand leading the company to reject more than 100 orders, according to people familiar with the ma",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/lingyi-itech-raises-1-1-billion-with-shares-priced-at-maximum",
+      "publishedAt": "Wed, 24 Jun 2026 11:07:12 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "0a1c86c4c027d144637cfaaddddf8390"
+    },
+    {
+      "title": "芯片5倍涨价、碳酸锂翻番，五大车企高管交底：价格战走到头了丨重庆论坛观察",
+      "description": "<section><section><section><section><section></section><section><section><section><section></section></section></section><section><span><br /></span></section><p style=\"text-align: justify; line-height: 1.75em; margin-bottom: 24px;\"><span><span style",
+      "url": "https://www.leiphone.com/category/transportation/7dBfrkDbL4iRpLn1.html",
+      "publishedAt": "Wed, 24 Jun 2026 11:05:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "f08dddea7b7b373092b2eb011e3114b4"
+    },
+    {
+      "title": "Fight Against Child Predators Gets Short Shrift While Cases Explode in AI Era",
+      "description": "Budgets for investigators are falling behind as AI floods the internet with images",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-24/online-child-sex-abuse-in-ai-era-shows-shortage-of-funding-to-fight-back",
+      "publishedAt": "Wed, 24 Jun 2026 11:02:01 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "e1daa0057a1880895f501ae787bc7f8e"
+    },
+    {
+      "title": "新增智感握姿接听、个性化待机屏保等功能，华为 MatePad Mini 平板获鸿蒙 6.1.0.125 SP20 更新",
+      "description": "<p>IT之家 6 月 24 日消息，华为 MatePad Mini 平板现已获推鸿蒙 6.1.0.125 SP20 更新。本次更新主要增加个性化待机屏保、智感握姿接听等功能，并优化手写笔防误触设置。</p><p>IT之家附本次更新亮点如下：</p><h2>桌面与个性化：</h2><p>新增待机屏保功能，可自定义切换数字时钟、萌宠时钟、氛围播控；数字时钟支持自定义字体颜色和样式，萌宠时钟支持点击或隔空手势互动；氛围播控支持舞台灯光效果，营造沉浸式光影氛围。</p><p style=\"text-a",
+      "url": "https://www.ithome.com/0/968/147.htm",
+      "publishedAt": "Wed, 24 Jun 2026 11:01:58 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "4e03384d2dea86225efec1c1cd0501d6"
+    },
+    {
+      "title": "Waymo Charging Partner Terawatt Raises Up to $300 Million in Debt",
+      "description": "Terawatt Infrastructure Inc., a company that provides chargers for electric cars and counts Waymo as a customer, said it is borrowing as much as $300 million from banks to support the acquisition and development of charging facilities in the US and a",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/waymo-charging-partner-terawatt-raises-up-to-300-million-in-debt",
+      "publishedAt": "Wed, 24 Jun 2026 11:00:17 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "5e5f7a07a833ec4670fee1ee2415e3fd"
+    },
+    {
+      "title": "美团副总裁陶雪璇回应“大众点评好评泛滥、数据不准”：团队已深刻反思",
+      "description": "<p>IT之家 6 月 24 日消息，据新浪科技，在今天举行的大众点评必吃榜 10 周年盛典期间，美团副总裁、点评事业部总经理陶雪璇谈到了行业对大众点评“好评泛滥”“数据不准”等质疑。</p><p>她对此回应称，团队对此<strong>进行了深刻反思</strong>：“在评价的真实、全面、丰富三个维度上，优先级是否出了问题，以及是否对商家店内邀评的约束和治理有所放松。”</p><p>她还表示，尽管面临市场交易的激烈竞争，大众点评去年还是坚定发起了星级评分体系的升级，“顶着竞争压力也在推进”。<",
+      "url": "https://www.ithome.com/0/968/146.htm",
+      "publishedAt": "Wed, 24 Jun 2026 11:00:08 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "c88f17fa48da3f4a212c05c36ec6ba6a"
+    },
+    {
+      "title": "Meta, Microsoft Lead $850 Billion Boom in Data Center Leases",
+      "description": "Meta Platforms Inc. and Microsoft Corp. each committed tens of billions of dollars in additional data center leases in their most recent quarters, adding to the massive sums the industry is spending on artificial intelligence.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/meta-microsoft-lead-850-billion-boom-in-data-center-leases",
+      "publishedAt": "Wed, 24 Jun 2026 11:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "060216c9dc18c91b2468530c76f00f93"
+    },
+    {
+      "title": "SK Hynix Seeks to Raise $29 Billion in US Listing to Meet AI Chip Demand",
+      "description": "SK Hynix Inc. is planning to raise $29.4 billion (45.45 trillion won) in a landmark US listing and expects trading to start on July 10, according to a regulatory filing on Wednesday. The deal, depending on the exchange rate, could be among the top fi",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-24/sk-hynix-seeks-to-raise-29-billion-in-us-listing-video",
+      "publishedAt": "Wed, 24 Jun 2026 10:59:01 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "6f1cc244df2896e479378a10234df233"
+    },
+    {
+      "title": "独家丨清研精准完成数亿元 B3 轮融资，目标打造物理 AI 数据基础设施",
+      "description": "<p style=\"text-align: left; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260624/6a3b441e7bf97.jpg?imageMogr2/quality/90\" style=\"width: 100%; display: inl",
+      "url": "https://www.leiphone.com/category/industrynews/ATSs1siQdN2RCpgn.html",
+      "publishedAt": "Wed, 24 Jun 2026 10:54:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "41689829c0fe013e2a5a2a173ff23b0e"
+    },
+    {
+      "title": "直降 1 万元：宇树科技宣布 R1 机器人 2.99 万元起现货开售",
+      "description": "<p>IT之家 6 月 24 日消息，宇树科技去年 7 月推出了其双足人形机器人新品 UnitreeR1，起售价为 3.99 万元。宇树科技官方刚刚宣布将 Unitree R1 系列的价格下调至 2.99 万元起，且现货发售。</p><p>该产品定位为消费级入门人形机器人，整机重量约 25 千克，具备 26 个关节自由度，并集成了语音和图像多模态大模型，支持用户自行开发与改制。</p><p style=\"text-align: center;\"><a class=\"ithome_super_pl",
+      "url": "https://www.ithome.com/0/968/145.htm",
+      "publishedAt": "Wed, 24 Jun 2026 10:49:30 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "372751892975c222262e77b972784160"
+    },
+    {
+      "title": "豆包专业版上线：接入全新豆包2.1 Pro大模型 专注复杂工作任务场景",
+      "description": "<p>6月24日，豆包正式宣布推出豆包专业版。该服务基于最新的豆包2.1系列大模型，面向复杂办公和生产力场景，提供更高的复杂工作场景使用额度，并上线全新的办公任务模式。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260624/6a3b438681d03.png?imageView2/2/w/740\" /></p><p>豆包&nbsp;2.1&nbsp;是",
+      "url": "https://www.leiphone.com/category/industrynews/DEnSlUn7Axou7Rq6.html",
+      "publishedAt": "Wed, 24 Jun 2026 10:41:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "32b96c1684e8e1652017765f96228da6"
+    }
+  ]
+}
