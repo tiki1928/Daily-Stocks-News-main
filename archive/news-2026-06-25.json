@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-06-25T11:40:37.016115",
+  "count": 20,
+  "news": [
+    {
+      "title": "Micron is tech's new margin king as memory crisis pushes company past Nvidia and Meta",
+      "description": "Micron said in its earnings report that its gross margin jumped to 84.9% from 39% a year ago.",
+      "url": "https://www.cnbc.com/2026/06/24/micron-is-techs-margin-king-memory-crisis-pushes-it-past-nvidia-meta.html",
+      "publishedAt": "Wed, 24 Jun 2026 22:33:45 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "0bd2189f1071b7c34079fd475c914067"
+    },
+    {
+      "title": "Trump meets defense CEOs as Iran operations strain U.S. missile stockpiles",
+      "description": "The White House is pressing major defense firms to expand missile and munitions output as Iran talks and weapons stockpile concerns put new pressure on the Pentagon’s industrial base.",
+      "url": "https://www.cnbc.com/2026/06/24/trump-defense-contractors-boeing-lockheed-honeywell-weapons-production-iran.html",
+      "publishedAt": "Wed, 24 Jun 2026 22:12:00 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "1335a23b58bee363a661192904223ba1"
+    },
+    {
+      "title": "物理AI的船票，藏在世界模型里",
+      "description": "<section><section><section label=\"Powered by 135editor.com\"><section><section><section><section><section style=\"text-align: center;\"><img class=\"rich_pages wxw-img\" height=\"733\" src=\"https://static.leiphone.com/uploads/new/images/20260625/6a3c95e52ea",
+      "url": "https://www.leiphone.com/category/transportation/G2qSdvIbBYQ13ERf.html",
+      "publishedAt": "Wed, 24 Jun 2026 22:05:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "6eddf26aad1917f738e5aef1375b21ef"
+    },
+    {
+      "title": "White House requests $87.6 billion supplemental spending for Iran war, farm aid",
+      "description": "White House Office of Management and Budget Director Russell Vought asked House Speaker Mike Johnson for billions in extra spending for the Iran war.",
+      "url": "https://www.cnbc.com/2026/06/24/iran-war-supplemental-trump-congress.html",
+      "publishedAt": "Wed, 24 Jun 2026 21:55:39 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "76d9a555722ad22fdafb45f781f79633"
+    },
+    {
+      "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
+      "description": "The announcements followed the release of the Federal Reserve's annual stress test, which found that all 32 large banks weathered a hypothetical recession.",
+      "url": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
+      "publishedAt": "Wed, 24 Jun 2026 21:42:05 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "081f6d36633b7935ea6d516e53f1ab91"
+    },
+    {
+      "title": "Chipmakers Rally With Traders Piling In After Micron Results",
+      "description": "Semiconductor stocks are surging in early trading as Micron Technology Inc.’s strong results underscored how artificial intelligence is driving rapid profit growth.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/micron-and-qualcomm-lift-chipmakers-amid-rapid-ai-growth",
+      "publishedAt": "Wed, 24 Jun 2026 21:18:44 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "a3c5550273e792dc98342247ae5d089b"
+    },
+    {
+      "title": "Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities",
+      "description": "The letter, which was obtained by CNBC, claims Alibaba carried out \"the largest known distillation attack on Anthropic to date.\"",
+      "url": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html",
+      "publishedAt": "Wed, 24 Jun 2026 21:18:44 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "33ca78d90cd15d101ae0862aa01499be"
+    },
+    {
+      "title": "Qualcomm Jumps as Data Center Sales Seen at $15 Billion by 2029",
+      "description": "Qualcomm Inc. shares jumped in premarket trading after the chipmaker forecast annual sales of more than $15 billion from artificial intelligence components in data centers by fiscal 2029.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/qualcomm-projects-data-center-chip-sales-of-15-billion-by-2029",
+      "publishedAt": "Wed, 24 Jun 2026 20:54:43 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "7d1be5423d43aa1dccf3ac327970cf30"
+    },
+    {
+      "title": "Identity theft victims face 'unconscionable' IRS delays, report says",
+      "description": "Victims currently face wait times of almost two years to resolve their cases, according to the National Taxpayer Advocate.",
+      "url": "https://www.cnbc.com/2026/06/24/identity-theft-victims-face-unconscionable-irs-delays-report-says.html",
+      "publishedAt": "Wed, 24 Jun 2026 20:50:28 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "643bb0f3a848ed01d2b2c6006fa7a4b7"
+    },
+    {
+      "title": "Qualcomm stock pops 15% after chipmaker almost doubles projection for 2029 non-handset revenue",
+      "description": "Qualcomm's primary business has been smartphones, which accounted for two-thirds of the company's product revenue in it's most recent quarter.",
+      "url": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html",
+      "publishedAt": "Wed, 24 Jun 2026 20:44:53 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "66c389a45fd9103e25dd85fe344a68a8"
+    },
+    {
+      "title": "Trump cancels signing of bipartisan housing bill ahead of tense meeting with GOP senators",
+      "description": "President Donald Trump abruptly canceled the signing of a bill aimed at increasing housing affordability an hour before he was due at the Capitol for the ceremony.",
+      "url": "https://www.cnbc.com/2026/06/24/trump-cancels-housing-bill-signing-save-america-act.html",
+      "publishedAt": "Wed, 24 Jun 2026 20:35:48 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "afb75e8c895c709340fa93fcf08522c9"
+    },
+    {
+      "title": "Micron Soars After AI-Fueled Forecast Shatters Estimates",
+      "description": "Micron Technology Inc., the largest US maker of computer memory chips, surged in premarket trading after its quarterly sales forecast crushed Wall Street estimates, signaling that an AI-fueled growth run remains strong.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/micron-sales-forecast-tops-estimates-on-insatiable-memory-demand",
+      "publishedAt": "Wed, 24 Jun 2026 20:05:37 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "f2c6a6cc5c1140c2bf7ab059dca79082"
+    },
+    {
+      "title": "Cerebras CEO says margin forecast was 'misunderstood' as stock plummets after earnings",
+      "description": "AI chipmaker Cerebras has a staggered lock-up expiration that includes some shares becoming available for trading this week.",
+      "url": "https://www.cnbc.com/2026/06/24/cerebras-cbrs-stock-earnings.html",
+      "publishedAt": "Wed, 24 Jun 2026 20:01:14 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "3cf748782cf855f6a1c3e1ae4092b9ef"
+    },
+    {
+      "title": "Anthropic Accuses Alibaba of ‘Illicitly’ Accessing AI Models",
+      "description": "Anthropic PBC accused Chinese technology giant Alibaba Group Holding Ltd. of waging a large-scale effort to “illicitly” access its Claude artificial intelligence model using thousands of fraudulent accounts that undermine the US AI developer’s decisi",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
+      "publishedAt": "Wed, 24 Jun 2026 19:36:41 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "596febd17c1f5f5e44ae9007cbe9ecc6"
+    },
+    {
+      "title": "别让 AI 碰生产环境！Reddit 火爆血泪贴，痛诉 AI 如何一刀切断数据库生命线",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260624/6a3bba8caad3b.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/yanxishe/oG2mZO3y4nGNbORu.html",
+      "publishedAt": "Wed, 24 Jun 2026 19:10:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "c5e8ef7e1533e74d172d7c902ac9522d"
+    },
+    {
+      "title": "Energy secretary says U.S. has ended Iran's ability to close Strait of Hormuz",
+      "description": "Some 72 ships loaded with 19 million barrels of oil have passed through Hormuz in the past 24 hours, Energy Secretary Chris Wright said.",
+      "url": "https://www.cnbc.com/2026/06/24/iran-strait-hormuz-oil-chris-wright-energy-secretary.html",
+      "publishedAt": "Wed, 24 Jun 2026 19:07:26 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "ef93a5ed3a267b833ca660a92b5df38e"
+    },
+    {
+      "title": "百度智能云发布百度千帆Token Plan企业版，提供GLM-5.2等模型",
+      "description": "<p>6月24日消息，百度智能云正式发布企业级AI生产力订阅服务——百度千帆Token Plan企业版，面向企业提供统一采购、统一管理、统一运营的AI资源服务，帮助企业以固定预算、统一管理的方式高效使用AI能力，加速AI在组织内部的规模化落地。</p><p>﻿</p><p>据介绍，百度千帆已率先完成智谱GLM-5.2适配并接入Token Plan企业版服务体系，企业用户和开发者无需复杂部署与调优，即可在长程任务处理、复杂推理、Coding等场景中便捷调用该模型。</p><p>﻿</p><p>随着",
+      "url": "https://www.leiphone.com/category/industrynews/He2ajsw4G5vP9m2R.html",
+      "publishedAt": "Wed, 24 Jun 2026 18:58:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "16df2d9dfbe7c48b55873e76be134fef"
+    },
+    {
+      "title": "360发布“中国版Mythos”图龙锋 周鸿祎：漏洞发现能力正成为新的战略能力",
+      "description": "<p>在今日开幕的ISC.AI 2026（第十四届互联网安全大会）上，360集团创始人周鸿祎正式发布360 AI安全“倚天屠龙”两大核心能力：漏洞自动化挖掘智能体“图龙锋”和网络安全自动化防御系统“仪天阵”。同时，360联合飞腾、麒麟等信创、安全、云计算、大模型和算力等产业伙伴，共同发起“磐石之盾”安全协作计划。</p><p>近期，Anthropic宣布限制内部最强模型Mythos对外开放，引发全球安全行业广泛关注。早在该模型问世初期，曾引发美国一众网络安全巨头股价集体暴跌。</p><p>周鸿祎",
+      "url": "https://www.leiphone.com/category/industrynews/t81MR1roNriefQ6v.html",
+      "publishedAt": "Wed, 24 Jun 2026 15:00:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "4a30dd071d9690663a56472bf3313703"
+    },
+    {
+      "title": "阿里QoderWork推“峰谷Token”，夜间使用Qwen3.7低至2折",
+      "description": "<p>6月23日晚，阿里QoderWork推出“峰谷Token”，Agent在每晚 22:00到次日08:00运行可自动享受优惠，其中Qwen3.7-Max模型低至2折。这是国内首个上线“峰谷Token”的Agent产品，将大幅降低用户的使用成本。例如，用户可在白天设定好定时任务、或者睡前提交长程任务指令，选择Qwen3.7模型，让Agent自动跑完全流程，早上起来验收即可。据介绍，夜间折扣产品涵盖QoderWork、Qoder Desktop等产品。</p><p style=\"text-ali",
+      "url": "https://www.leiphone.com/category/industrynews/fnvQGe0cc0EAX1bK.html",
+      "publishedAt": "Wed, 24 Jun 2026 12:03:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "a070af9ada4094d45e9c5f4b82661133"
+    },
+    {
+      "title": "存储巨头上市估值冲万亿；大厂不隐藏身份抢数千台B300；Day0适配竞争变味；京东芯片核心成员创业拿亿元融资｜算力情报局Vol.12",
+      "description": "<p style=\"margin-top: 0px; margin-bottom: 0px; text-align: center;\"><br /></p><p style=\"text-align: left; margin-top: 16pt; margin-bottom: 6pt;\"><span style=\"font-family: 'Arial'; font-size: 16pt; font-weight: bold;\">大厂开始直接抢卡：B300被数千台扫货</span></p><p ",
+      "url": "https://www.leiphone.com/category/chips/B9OrnyYJ8xX88loZ.html",
+      "publishedAt": "Wed, 24 Jun 2026 11:25:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "34fc1d99d4b041da901d170e1ae441c6"
+    }
+  ]
+}
