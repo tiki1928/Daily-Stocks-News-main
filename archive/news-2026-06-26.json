@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-06-26T11:44:50.183070",
+  "count": 20,
+  "news": [
+    {
+      "title": "Chan Zuckerberg Initiative's Biohub to open new rare disease funding round",
+      "description": "Chan Zuckerberg Initiative's Biohub will offer new grants to the rare disease community while expanding its AI drug repurposing partnership with Every Cure.",
+      "url": "https://www.cnbc.com/2026/06/25/chan-zuckerberg-biohub-rare-disease-funding.html",
+      "publishedAt": "Thu, 25 Jun 2026 23:47:49 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "411263b2047ce2906a207fae055b0cc9"
+    },
+    {
+      "title": "China’s Hardware Tech Stocks Look to Earnings to Sustain Rally",
+      "description": "Chinese hardware technology stocks have been on a tear. The next challenge is showing the earnings to back it up.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/china-s-hardware-tech-stocks-look-to-earnings-to-sustain-rally",
+      "publishedAt": "Thu, 25 Jun 2026 23:30:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "e63518efab2a5cdafd03bddea883a048"
+    },
+    {
+      "title": "Apple Supplier Lingyi Rises in HK After $1.1 Billion Debut",
+      "description": "Lingyi iTech Guangdong Co. a Chinese electronic supplier for Apple Inc. and Tesla Inc., rose in its Hong Kong debut after raising HK$8.3 billion ($1.06 billion) in a share sale, part of the city’s busiest month for listings this year.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-supplier-lingyi-set-for-hk-debut-after-1-1b-offering",
+      "publishedAt": "Thu, 25 Jun 2026 23:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "dfa468128346ecafacc451933b4c8d96"
+    },
+    {
+      "title": "ON Semiconductor strikes $7 billion deal for Synaptics in physical AI push",
+      "description": "ON Semiconductor said the deal bumps up its total addressable market by $30 billion, to $243 billion by 2030.",
+      "url": "https://www.cnbc.com/2026/06/25/on-semi-synaptics-deal-physical-ai.html",
+      "publishedAt": "Thu, 25 Jun 2026 22:59:43 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "11a98583e1250181b8700b556c353574"
+    },
+    {
+      "title": "Trump Administration Asks OpenAI to Stagger AI Model Release",
+      "description": "The Trump administration has asked OpenAI to stagger the release of an upcoming powerful artificial intelligence model, according to a person familiar with the matter, nearly two weeks after rival Anthropic PBC suspended its most capable offerings fr",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/trump-administration-asks-openai-to-stagger-release-of-ai-model",
+      "publishedAt": "Thu, 25 Jun 2026 22:00:54 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "235e89495998d9b1b2fcd4b391f31033"
+    },
+    {
+      "title": "Pentagon Sees Bigger Role for AI in Setting Military Targets",
+      "description": "The Pentagon has quietly revised its doctrine on how the US military picks its targets in battle, opening the way for artificial intelligence to make critical wartime decisions in the future.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/pentagon-sees-broader-role-for-ai-in-setting-military-targets",
+      "publishedAt": "Thu, 25 Jun 2026 20:54:23 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "fe74e37dc95817b645939529678b587f"
+    },
+    {
+      "title": "Wendy's turns lower as meme rally fails to extend to a second day",
+      "description": "The stock's volatile run appeared largely disconnected from company fundamentals and instead reflected a burst of social media enthusiasm.",
+      "url": "https://www.cnbc.com/2026/06/25/wendys-shares-soar-for-a-second-day-as-retail-investors-pile-into-their-new-meme-darling.html",
+      "publishedAt": "Thu, 25 Jun 2026 20:27:33 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "44f355d98d73cd989e2d42a4d5dc79e0"
+    },
+    {
+      "title": "Microsoft lifts price of Xbox consoles due to soaring component costs",
+      "description": "Microsoft said it's increasing the price of Xbox game consoles after Apple announced price hikes for MacBooks and iPads.",
+      "url": "https://www.cnbc.com/2026/06/25/microsoft-lifts-price-of-xbox-consoles-due-to-soaring-component-costs.html",
+      "publishedAt": "Thu, 25 Jun 2026 20:17:18 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "bce5ea4b8f83d59d195aa11a1c2f69fc"
+    },
+    {
+      "title": "Judge blocks Trump's rule limiting federal student loans for certain grad school borrowers",
+      "description": "A federal judge temporarily blocked Trump's limits on how much certain graduate students can borrow. That policy was set to go into effect July 1.",
+      "url": "https://www.cnbc.com/2026/06/25/judge-blocks-trumps-rule-limiting-student-loans-for-grad-students-.html",
+      "publishedAt": "Thu, 25 Jun 2026 18:47:36 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "ff36b0d920fb226be05fd6b1ee330d35"
+    },
+    {
+      "title": "Supreme Court limits Roundup cancer suits against Bayer's Monsanto",
+      "description": "Glyphosate, used in Roundup weedkiller, is the most commonly utilized herbicide in agriculture, and it has long been linked to cancer claims.",
+      "url": "https://www.cnbc.com/2026/06/25/glyphosate-roundup-bayer-supreme-court-case-monsanto.html",
+      "publishedAt": "Thu, 25 Jun 2026 18:19:35 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "715ae5124df150d66645bb92a2a2d38c"
+    },
+    {
+      "title": "Judge says lawsuit against Trump DOJ 'anti-weaponization' fund will proceed",
+      "description": "Acting Attorney General Todd Blanche originally set up the fund as part of a settlement of a lawsuit by President Donald Trump against the IRS.",
+      "url": "https://www.cnbc.com/2026/06/25/trump-doj-fund-lawsuit-blanche.html",
+      "publishedAt": "Thu, 25 Jun 2026 18:05:48 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "35a8c5fcb4d394fe17c9c952ef9ebf5b"
+    },
+    {
+      "title": "GameStop’s CEO just sacrificed a $35 billion pay package. Here’s how it could impact his effort to buy eBay",
+      "description": "Ryan Cohen has shared few details on how he'll move forward with his $56 billion offer for eBay since the company rejected the proposal in May.",
+      "url": "https://www.cnbc.com/2026/06/25/gamestops-ceo-sacrificed-pay-it-could-impact-the-effort-to-buy-ebay-.html",
+      "publishedAt": "Thu, 25 Jun 2026 12:07:50 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "74e9796397f16af19e9abacfaf08773a"
+    },
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "31.98万元~34.98万元，腾势N8L闪充版正式上市",
+      "description": "<p>6月23日，腾势N8L闪充版正式上市，官方指导价31.98万元~34.98万元。本次，腾势N8L闪充版推出闪充尊荣型、闪充旗舰型2个版本，标配第二代刀片电池与闪充技术、易三方、天神之眼 5.0、云辇-A智能空气车身控制系统，并首搭超级智能体「迪迪虾」等领先科技，带来「闪充」「安全」「操控」「体验」四大无可替代，是家庭豪华大六座首选，美好出行，「家」倍精彩！</p><p><img border=\"0\" src=\"https://static.leiphone.com/uploads/new/",
+      "url": "https://www.leiphone.com/category/transportation/c3LqX3eKnZMSvGBO.html",
+      "publishedAt": "Fri, 26 Jun 2026 16:49:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "3486975843b17ae304f863a4f038097b"
+    },
+    {
+      "title": "全网疯抢体脂秤背后，阿福找到了健康AI的正确打开方式",
+      "description": "<p>“一代人有一代人的鸡蛋要领”，这次轮到了体脂秤。</p><p>6月25日，蚂蚁阿福发起的“科学减重1亿斤”健康行动正式上线，同时向全网发放“骨折价体脂秤”。除了9.9元快递费，网友只需1分钱就能领到手，参与科学减重。</p><p>社交平台上，晒单和讨论同步发酵，抢到的人晒出订单截图，纷纷表示“已下单”“等发货”“真香”；没抢到的在评论区急得团团转，追问领取方式，反复确认阿福真的给出了“地板价”。</p><p><img border=\"0\" src=\"https://static.leiph",
+      "url": "https://www.leiphone.com/category/healthai/TzDqHHO6ZgMXs0is.html",
+      "publishedAt": "Fri, 26 Jun 2026 16:33:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "814702a6afeff349c865f07e895bb749"
+    },
+    {
+      "title": "RoboScience机器科学发布通用具身大模型Visics，首次完整展示VLOA双引擎架构",
+      "description": "<p style=\"text-align: left; margin-top: 6pt; margin-bottom: 6pt;\">雷峰网获悉，<span style=\"font-family: Arial; font-size: 11pt;\">6月24日，通用具身智能企业RoboScience机器科学在深圳成功举办通用具身大模型发布会。会上，公司首次完整披露了自研Visics大模型的技术架构VLOA（Vision-Language-Object-Action），并展示了模型在多项真实场景的应用",
+      "url": "https://www.leiphone.com/category/robot/Kwpq9tYiIohzAJ7f.html",
+      "publishedAt": "Fri, 26 Jun 2026 16:33:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "ce265a44078fe9ebfbbeed64317e31f0"
+    },
+    {
+      "title": "对话超维传感李炎辉：为什么那么多具身智能公司，都来抢着做「触觉」？",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260624/6a3b4b0918030.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/robot/Q6XEzSSNN50X3wwt.html",
+      "publishedAt": "Fri, 26 Jun 2026 16:28:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "9482cb2770e152e31e4358b62b740161"
+    },
+    {
+      "title": "ICML2026 |SEER：自动增强+替换Patch，同时搞定噪声、异常、缺失、分布偏移的新SOTA模型！",
+      "description": "<section style=\"margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; padding-top: 0px; padding-bottom: 0px; padding-left: 10px; padding-right: 10px; background-color: rgba(0, 0, 0, 0); background-image: none; background-position-",
+      "url": "https://www.leiphone.com/category/private/OYtuKM1pHAtIdW6U.html",
+      "publishedAt": "Fri, 26 Jun 2026 15:54:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "72a8dec6daffa69e1a9c718e0bba0b80"
+    }
+  ]
+}
