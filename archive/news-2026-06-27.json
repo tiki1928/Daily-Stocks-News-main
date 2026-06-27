@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-06-27T10:57:46.116838",
+  "count": 20,
+  "news": [
+    {
+      "title": "US Chip Stocks Plunge as AI Selloff Ripples Across From Asia",
+      "description": "A global selloff in the shares of chipmakers dragged US indexes sharply lower amid doubts about the sustainability of the AI-fueled tech rally. Katherine Kostereva, CEO, Creatio joined Bloomberg Businessweek Daily to discuss.  (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-23/chip-stocks-sink-as-ai-selloff-ripples-across-from-asia-video",
+      "publishedAt": "Tue, 23 Jun 2026 20:01:29 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "274cc370468fc28f2bf7f3253116c572"
+    },
+    {
+      "title": "Consumer is Feeling 'A Lot of Pressure' But Bed Bath & Beyond Sees Upside",
+      "description": "Amy Sullivan, CEO of Bed Bath & Beyond, said that consumers are feeling 'a lot of pressure' but that company's outlook is that if they can do business at a low point there is a high upside to come. Sullivan also talked about Bed Bath & Beyond's effor",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-25/bed-bath-beyond-sees-upside-amid-consumer-pressure-video",
+      "publishedAt": "Thu, 25 Jun 2026 21:29:44 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "480264f46d3d2f288fe934dc54c6bff0"
+    },
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "独家|美团王兴正面回应股价破发，复盘五年战略节奏得失",
+      "description": "<p style=\"text-align: justify;\">6月26日美团举行了股东周年大会上，美团CEO王兴、CFO陈少晖回应了股价、竞争和业务相关的多个问题，并释放回购信号。与此同时，王兴还复盘了过去五年战略节奏得失和对AI的看法。</p><p style=\"text-align: justify;\">雷峰网从美团投资方获悉了此次会议详细内容，并有不少独家补充信息。从会议的发言来看美团管理层从承认问题，到正面回答股东问题，态度表现良好，中途还提出一些可行的举措，作了一场与股东的有效沟通。",
+      "url": "https://www.leiphone.com/category/industrynews/RC8Dz2VUQ4F9i90R.html",
+      "publishedAt": "Sat, 27 Jun 2026 14:56:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "eefa49d9517f6bcea2a65dfbacb297e2"
+    },
+    {
+      "title": "重构交互底层逻辑：Rokid发布AIOS，智能眼镜行业进入“原生”时刻",
+      "description": "<p style=\"text-align: left; margin-bottom: 20px; line-height: 1.75em;\"><span style=\"font-size: 14px;\">2026年6月26日，乐奇Rokid Open Day生态及开发者大会举行。</span></p><p style=\"text-align: left; margin-bottom: 20px; line-height: 1.75em;\"><span style=\"font-size: 14px",
+      "url": "https://www.leiphone.com/category/weiwu/k5oKITJv8cfsQwm2.html",
+      "publishedAt": "Sat, 27 Jun 2026 11:44:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "f7be8a160a0686e88f49a2366760d7f7"
+    },
+    {
+      "title": "鹏城云脑 Ⅲ 登顶 IO500 双榜：搭载华为 OceanStor A800 存储，总分刷新前世界纪录 2.8 倍",
+      "description": "<p>IT之家 6 月 27 日消息，华为官方今日宣布，全球权威超算与智算存储性能评测榜单 IO500 完成最新一轮更新。依托华为 OceanStor A800 存储为核心底座搭建的“鹏城云脑 Ⅲ”系统，在此次测评中同时登顶 Full List（总榜单）与 Research List（研究型榜单）两项榜首。</p><p>IT之家注意到，该系统最终取得总分 603,334.58 分、带宽 8,291.11 GiB/s、元数据性能 43,903,983.64 kIOP/s 的成绩，整体综合性能较此前",
+      "url": "https://www.ithome.com/0/969/471.htm",
+      "publishedAt": "Sat, 27 Jun 2026 10:53:46 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "4e8a569b34f469d35b67258721b35504"
+    },
+    {
+      "title": "打造AI轻办公神器 vivo X Fold6折叠旗舰新品正式发布",
+      "description": "<p style=\"text-align: justify; margin-top: 0px; margin-bottom: 0px;\"><span>202</span><span>6</span><span>年</span><span>6</span><span>月26日，</span><span>vivo正式发布新一代折叠旗舰vivo X Fold6。</span><span>聚焦</span><span>“</span><span>大屏+AI生产力</span><span>”</span>",
+      "url": "https://www.leiphone.com/category/industrynews/NOW6jItbbZkzghEI.html",
+      "publishedAt": "Sat, 27 Jun 2026 10:38:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "32ef2454de8ffbfe0a9da94aeed1052b"
+    },
+    {
+      "title": "技嘉发布 40 周年纪念 AORUS RTX 5080 INFINITY 系列显卡，含 WOOD 木纹版",
+      "description": "<p>IT之家 6 月 27 日消息，技嘉昨日宣布 AORUS GeForce RTX 5080 INFINITY 16G 与 AORUS GeForce RTX 5080 INFINITY WOOD 16G 两款显卡正式上市，但IT之家未能在国内电商平台或欧美电商平台找到这两款产品。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026",
+      "url": "https://www.ithome.com/0/969/468.htm",
+      "publishedAt": "Sat, 27 Jun 2026 10:37:00 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "696d984c45a3360ff42f391c68f169bd"
+    },
+    {
+      "title": "外星人星刃 15 游戏本上新：酷睿 7 240H + RTX 5060，11499 元",
+      "description": "<p>IT之家 6 月 27 日消息，戴尔本周四推出了一款搭载酷睿 7 240H 处理器（Raptor Lake）的外星人星刃 15 游戏本，配备了 RTX 5060 独显、16GB 内存、1TB 固态硬盘，京东标价 11999 元，首发立减 500 元（6 月 30 日截止）。</p><p>作为对比，搭载 AMD R7 260 处理器的同配置机型目前售价 11199 元，国补史低价 8499 元。</p><dir><a contenteditable=\"false\" href=\"https:/",
+      "url": "https://www.ithome.com/0/969/459.htm",
+      "publishedAt": "Sat, 27 Jun 2026 10:13:25 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "cdfa98905c40076300356f10e2c6cb68"
+    },
+    {
+      "title": "“鸟语识别器”有望成真，UC 伯克利科学家破译斑胸草雀 11 种核心叫声含义",
+      "description": "<p>IT之家 6 月 27 日消息，据英国《卫报》当地时间 26 日报道，加州大学伯克利分校科学家朱莉 · 埃利博士破译了斑胸草雀用于交流的 11 种核心叫声及其含义，并因此获得 <strong>10 万美元（IT之家注：现汇率约合 68.1 万元人民币）奖金</strong>。</p><p>据了解，这一成果让人类离<strong>真正与动物对话</strong>、而不是只得到茫然回应的目标更近一步。埃利本人更是凭借相关研究获得 2026 年科勒-杜利特尔跨物种双向交流奖。</p><p sty",
+      "url": "https://www.ithome.com/0/969/452.htm",
+      "publishedAt": "Sat, 27 Jun 2026 09:54:20 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "788e67ba866597838988a6dbecc721c6"
+    },
+    {
+      "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz",
+      "description": "The attack comes as the United States and Iran are supposed to be engaging in a 60-period of no hostilities as they hold talks to end their war.",
+      "url": "https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html",
+      "publishedAt": "Sat, 27 Jun 2026 09:50:06 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "5367453d3c639622b6e31dac601eb5f5"
+    },
+    {
+      "title": "联想推出 99 元拯救者 MK2 游戏键盘：104 键布局，机械手感",
+      "description": "<p>IT之家 6 月 27 日消息，联想推出了新款拯救者 MK2 104 键游戏键盘，定价为 99 元，主打游戏办公双场景适配，具备机械手感、 RGB 灯效、全尺寸配列、镭雕键帽、19 键无冲等核心特性。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/XGbBoio\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"",
+      "url": "https://www.ithome.com/0/969/451.htm",
+      "publishedAt": "Sat, 27 Jun 2026 09:49:25 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "2ad4147b547e5d0b518d497492a5b369"
+    },
+    {
+      "title": "From concerts to train rides, bots are winning the ticket wars — but they're only part of the problem",
+      "description": "From concerts to train reservations, automated bots have become the latest target in the fight against ticket scalping.",
+      "url": "https://www.cnbc.com/2026/06/27/ticket-bots-concert-scalpers-ticketmaster-china-korea.html",
+      "publishedAt": "Sat, 27 Jun 2026 09:46:16 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "3ae6c290a2c1fd557193ede337306dd3"
+    },
+    {
+      "title": "求职诈骗日益复杂，4 年坑走美国人上亿美元",
+      "description": "<p>IT之家 6 月 27 日消息，据《财富》杂志 27 日（今天）报道，AI 正让求职诈骗变得更逼真、更难缠，也更难完全避开。</p><p>入行近 40 年的安全公司 KnowBe4 的 CISO 顾问罗杰 · 格赖姆斯表示，过去几年，求职诈骗数量迅速上升。过去三年，近 5 万人向美国商业改善局报告自己遭遇求职诈骗。仅去年一年，报告数量就较前一年翻了一番。2020 年至 2024 年，求职诈骗造成的损失也<strong>从 9000 万美元激增至 5.01 亿美元（IT之家注：现汇率约合 3",
+      "url": "https://www.ithome.com/0/969/450.htm",
+      "publishedAt": "Sat, 27 Jun 2026 09:37:55 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "b18e0de51ca337633a0e115ce598cf97"
+    },
+    {
+      "title": "联想 ThinkPad P1 2026 笔记本上架：16 英寸屏，RTX Pro 1000/2000 显卡，32999 元起",
+      "description": "<p>IT之家 6 月 27 日消息，联想 ThinkPad P1 2026 笔记本现已在电商平台上架，官方称之为“超便携旗舰 AI 工作站”，将于 6 月 29 日正式开售，<strong>售价 32999 元起</strong>：</p><ul class=\" list-paddingleft-2\"><li><p>Ultra 7-356H/32G/1T/4K 60Hz IPS P3/RTX Pro 1000 8G：首发价 32999 元</p></li><li><p>Ultra 7-356H",
+      "url": "https://www.ithome.com/0/969/449.htm",
+      "publishedAt": "Sat, 27 Jun 2026 09:31:59 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "e339be03368c71dd88eb500fd62910b2"
+    },
+    {
+      "title": "联想 Geek Pro 电脑主机新增 i7-14700 + RTX 5060Ti 配置，12999 元",
+      "description": "<p>IT之家 6 月 27 日消息，联想新推出了一款采用英特尔酷睿 i7-14700 处理器、RTX 5060Ti 自定制显卡、24GB 内存、1TB 固态硬盘的 GeekPro 设计师台式电脑主机，京东显示 12999 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/XObvgu8\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"",
+      "url": "https://www.ithome.com/0/969/448.htm",
+      "publishedAt": "Sat, 27 Jun 2026 09:30:50 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "fbf03341d09166e0b98867ecc4ff3244"
+    },
+    {
+      "title": "美国结束 37.6 万辆特斯拉 Model 3/Y 转向问题调查：召回后问题已解决",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">IT之家 6 月 27 日消息，据路透社报道，当地时间周六（今天），美国国家公路交通安全管理局（NHTSA）宣布，特斯拉去年已经通过召回处理转向助力失效问题，因此监管机构<strong>结束了对部分 Model 3 和 Model Y 的调查</strong>。<span class=\"PDq2pG_selectionAnchor\"></span></p><p>此次调查涉及<strong>约 37.62 万辆 ",
+      "url": "https://www.ithome.com/0/969/440.htm",
+      "publishedAt": "Sat, 27 Jun 2026 09:11:33 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "d12a002e141b80a4e8c38cbcc47d8446"
+    },
+    {
+      "title": "华为余承东：全新一代问界 M9 系列上市 1 个月大定破 4.2 万台",
+      "description": "<p>IT之家 6 月 27 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日宣布，全新一代问界 M9 系列，<strong>上市 1 个月大定破 42000 台</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/bbda5111-2bda-474d-98e6-c89622f3df4a.jpg?x-bce-process=",
+      "url": "https://www.ithome.com/0/969/434.htm",
+      "publishedAt": "Sat, 27 Jun 2026 09:07:01 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "f3f5457fca045692c8934e998790c39a"
+    }
+  ]
+}
