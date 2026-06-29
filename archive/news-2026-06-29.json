@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-06-29T13:07:01.690793",
+  "count": 20,
+  "news": [
+    {
+      "title": "Apple posts worst day in over a year after MacBook and iPad price hikes",
+      "description": "Tim Cook said last week that Apple would hike prices due to surging memory and storage costs.",
+      "url": "https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html",
+      "publishedAt": "Thu, 25 Jun 2026 20:06:37 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "cb538c5c3dd547d5436b69aac13f9ef7"
+    },
+    {
+      "title": "Samsung, SK to Spend $880 Billion to Drive Korea’s AI Lead",
+      "description": "South Korea is orchestrating investments of at least 1,350 trillion won ($880 billion) from companies including Samsung Electronics Co. and SK Hynix Inc. into chips and data centers, a giant outlay in digital infrastructure it called essential to sur",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/samsung-sk-reportedly-to-invest-1-3-trillion-over-10-years",
+      "publishedAt": "Sun, 28 Jun 2026 23:17:04 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "f36c4d8ab1d85d989cfe09a2bc19f11c"
+    },
+    {
+      "title": "Everything tied to the data center is suddenly suspect. Can Big Tech fix it?",
+      "description": "The hyperscalers are just beginning to figure out the consequences of the AI arms race, and now everyone seems to be against them.",
+      "url": "https://www.cnbc.com/2026/06/28/cramer-the-data-center-is-suddenly-suspect-can-big-tech-fix-it.html",
+      "publishedAt": "Sun, 28 Jun 2026 22:09:47 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "29887b5c23d8ec268b03b2eed446f2da"
+    },
+    {
+      "title": "Chinese Spies, Smuggled Drugs Fuel Takaichi’s Security Push",
+      "description": "Chinese spies stealing Japanese industrial secrets in boardrooms. Chip smugglers ferrying Nvidia’s prized artificial intelligence semiconductors via Japan. Drug gangs quietly slipping fentanyl across Japan’s borders to a US opioid crisis.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/chinese-spies-smuggled-drugs-fuel-takaichi-s-security-push",
+      "publishedAt": "Sun, 28 Jun 2026 22:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "9f1bb365a926557e5f7cda382d54c3de"
+    },
+    {
+      "title": "America can't get enough of protein. The dairy industry can't keep up",
+      "description": "Demand for whey protein is off the charts as American diet trends change and GLP-1s boom, and the dairy industry is struggling to produce enough.",
+      "url": "https://www.cnbc.com/2026/06/28/america-cant-get-enough-protein-the-dairy-industry-cant-keep-up.html",
+      "publishedAt": "Sun, 28 Jun 2026 21:35:15 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "e600ff9a32a5ad231414c599a35fe729"
+    },
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "Why investors may want to prioritize bond markets outside the U.S.",
+      "description": "Allspring Global Investments is pushing clients toward countries with central banks that are raising interest rates or have different inflation dynamics.",
+      "url": "https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html",
+      "publishedAt": "Sat, 27 Jun 2026 15:00:01 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "955f36763624a136cac76c64b8dad57b"
+    },
+    {
+      "title": "‘Heated Rivalry’ fuels a boom in gay romance stories, with women leading the fandom",
+      "description": "‘Heated Rivalry’ has helped gay romance stories gain mainstream attention, with women driving much of the fandom.",
+      "url": "https://www.cnbc.com/2026/06/27/heated-rivalry-red-white-royal-blue-rachel-reid-gay-romance-yaoi-mlm.html",
+      "publishedAt": "Sat, 27 Jun 2026 14:54:47 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "bc2fc08aa638c2bdb784a3ca19e644b0"
+    },
+    {
+      "title": "The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players",
+      "description": "While Apple and Microsoft raise prices on key devices to help cover the soaring costs of memory, smaller consumer electronics companies are in dire straits.",
+      "url": "https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html",
+      "publishedAt": "Sat, 27 Jun 2026 13:21:37 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "3f85165ddac4d7cc104e82ef8820a186"
+    },
+    {
+      "title": "SpaceX stock has cooled. Hiring for jobs in the space economy hasn't",
+      "description": "The SpaceX IPO euphoria is over, but the bullish trend in space economy jobs remains in place within a labor market where many other sectors have slowed hiring.",
+      "url": "https://www.cnbc.com/2026/06/27/spacex-jobs-stem-careers-labor-economy.html",
+      "publishedAt": "Sat, 27 Jun 2026 13:17:30 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "4c91bed2e508db517645ff5199d820a6"
+    },
+    {
+      "title": "How Kohl's lost its way — and is trying to become relevant again",
+      "description": "Kohl's went from a household name to a plunging stock as it lost relevancy and its core customer. Now, the company is trying to turn itself around.",
+      "url": "https://www.cnbc.com/2026/06/27/how-kohls-lost-its-way-and-is-trying-to-become-relevant-again.html",
+      "publishedAt": "Sat, 27 Jun 2026 12:00:01 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "00f65de948474a9f3c926693d0fa0077"
+    },
+    {
+      "title": "How GE Vernova builds the massive gas turbines powering the AI data center boom",
+      "description": "GE Vernova turbines are powering Elon Musk's xAI Colossus 1 data center and Microsoft just bought seven to power its data center in Texas.",
+      "url": "https://www.cnbc.com/2026/06/27/ge-vernova-gas-turbines-ai-data-centers.html",
+      "publishedAt": "Sat, 27 Jun 2026 12:00:01 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "461a4fa067767217bc330f36d71c4a58"
+    },
+    {
+      "title": "从 VCloud 到 Agentic VCloud：Agent 时代的范式重构",
+      "description": "<p>站在大同善化寺的大雄宝殿中，我打开与豆包的视频通话，将镜头对准殿左右的金代彩塑，问道：“给我讲讲这些金代彩塑，哪几尊塑像最值得细细端详？”豆包会像真人讲解一样，先“看到和认出”彩塑，再“听懂”问题，然后“思考”如何回答，最后说出答案。</p><p>如果你也在景点或展览中这样向豆包提问过，会发现豆包的讲解能力已经接近普通真人讲解员的水准。留心观察，你会发现越来越多像豆包一样能看能听、能想能说的 Agent 正出现在不同的生活和工作场景中。在它们身上，音视频不再只是被人单向消费的内容，而是支持",
+      "url": "https://www.leiphone.com/category/industrynews/WqCn3r8LHkqFKmhZ.html",
+      "publishedAt": "Mon, 29 Jun 2026 16:02:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "d55d4c9a8415aae2b83cef468f2d9900"
+    },
+    {
+      "title": "单用户提速 60-85% ！DeepSeek 联手北大开源 DSpark ，突破推理加速工程问题",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260629/6a42193642e14.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/3QqhbnrdnlxcrD1R.html",
+      "publishedAt": "Mon, 29 Jun 2026 15:12:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "489c74a4dd936046a48d924fec6f464e"
+    },
+    {
+      "title": "有道把 AI 订阅装进词典笔，学习硬件商业模式迎来变化",
+      "description": "<p>6月29日，网易有道正式发布新一代旗舰学习硬件——有道词典笔X8系列。</p><p>与学习硬件行业往年强调&quot;更大屏幕、更大词库&quot;的套路不同，这次有道提了一个词：「按需订阅」。</p><p>基础查词、教材同步、全科答疑终身免费；课堂笔记实时整理、深度答疑、同声传译等进阶AI能力，则需额外付费解锁。X8 Pro默认赠送2年会员，X8基础版售价899元，全套订阅价1399元。</p><p>这可能是行业从「硬件参数内卷」转向「AI服务能力竞争」的关键信号。</p><p styl",
+      "url": "https://www.leiphone.com/category/industrynews/OrsinRYjaqk6Id9F.html",
+      "publishedAt": "Mon, 29 Jun 2026 15:11:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "543c9722e32bdc6152f92722dab0f8bd"
+    },
+    {
+      "title": "Karpathy 65 行文档狂砍 17.6 万星，阻止 Coding 犯大错只需这四点",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260629/6a4217af8c02f.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/F04bdF68h7QJTFUl.html",
+      "publishedAt": "Mon, 29 Jun 2026 15:03:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "76526b2c93ed584b0b5418e428e06ab0"
+    },
+    {
+      "title": "市场份额从41%掉到26%，Cursor凭什么还值600亿？",
+      "description": "<p><span style=\"color: #000000;\">“AI编程工具的决胜点不是谁的模型最强，而是谁能率先融入程序员的肌肉记忆，Cursor三年前就把这个坑给占了。”</span></p><p><span style=\"color: #000000;\">AI产品负责人马哲远告诉雷峰网，与其说Cursor是一个编程工具，不如说它是AI To B时代的关键入口。</span></p><p><span style=\"color: #000000;\">这也是为什么马斯克在SpaceX上市后仅",
+      "url": "https://www.leiphone.com/category/ai/IuG8AWhW3lhmQFPR.html",
+      "publishedAt": "Mon, 29 Jun 2026 15:01:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "cd30e77965dd6990d78ceac20c387b7c"
+    },
+    {
+      "title": "多篇成果入选，快手邀您共赴ICML 2026！",
+      "description": "<p dir=\"ltr\"></p><p dir=\"ltr\"><span style=\"margin: 0px; padding: 0px;\"><span style=\"margin: 0px; padding: 0px;\"><span style=\"margin: 0px; padding: 0px;\"><span><br /></span></span></span></span></p><p dir=\"ltr\"><font color=\"#4a4a4a\" face=\"Avenir, -app",
+      "url": "https://www.leiphone.com/category/private/U39vz3DLoafyqcew.html",
+      "publishedAt": "Mon, 29 Jun 2026 14:58:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "b548d2375044fc5cbcc1e28c731d6265"
+    }
+  ]
+}
