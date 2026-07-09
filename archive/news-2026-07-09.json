@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-07-09T12:08:11.912948",
+  "count": 20,
+  "news": [
+    {
+      "title": "AI Costs Lead Westpac to Prod Staff Toward ‘Sensible’ Model Use",
+      "description": "Westpac Banking Corp. is intensifying efforts to monitor artificial intelligence costs, as the Australian lender closely tracks AI tokens across the firm and routes simpler tasks to cheaper models.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/ai-costs-lead-westpac-to-prod-staff-toward-sensible-model-use",
+      "publishedAt": "Wed, 08 Jul 2026 23:42:05 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "92eed1c6d05fd35af74ad10247974199"
+    },
+    {
+      "title": "Bain Capital Exits Kioxia After Chip Deal Yields Big Returns",
+      "description": "Bain Capital has sold its entire stake in flash memory chipmaker Kioxia Holdings Corp., closing a chapter on a deal that’s transformed the Japanese tech and investment landscape.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/bain-exits-kioxia-after-landmark-chip-deal-yields-record-returns",
+      "publishedAt": "Wed, 08 Jul 2026 23:01:08 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "8a48cfd04cbccebded94f9ff9a30f785"
+    },
+    {
+      "title": "Apple Supplier Luxshare Drops After $3 Billion Hong Kong Debut",
+      "description": "Apple Inc. supplier Luxshare Precision Industry Co. fell in its Hong Kong trading debut on Thursday after raising HK$24.3 billion ($3.1 billion) in the city’s biggest listing this year so far.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/apple-supplier-luxshare-to-trade-after-hk-s-biggest-2026-listing",
+      "publishedAt": "Wed, 08 Jul 2026 23:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "cad095f2a793edafbaeb50605e91ac2e"
+    },
+    {
+      "title": "Nvidia Rival Positron Holds Talks to Raise Funds at $5 Billion Valuation",
+      "description": "AI chip startup Positron is in talks to raise about $750 million in financing during a round with two phases, part of a groundswell of companies looking to compete with Nvidia Corp.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/nvidia-rival-positron-holds-talks-to-raise-funds-at-5-billion-valuation",
+      "publishedAt": "Wed, 08 Jul 2026 22:32:47 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "9f3c0d03900ea439b7fdb1795865a4cd"
+    },
+    {
+      "title": "SK Hynix US Offering Is More Than Seven Times Oversubscribed",
+      "description": "SK Hynix Inc.’s US listing is more than seven times oversubscribed, according to people familiar with the matter, underscoring strong investor appetite despite recent volatility in the Korean memory chipmaker’s shares.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/sk-hynix-us-offering-is-more-than-seven-times-oversubscribed",
+      "publishedAt": "Wed, 08 Jul 2026 22:16:51 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "70ed42e7331a15885b1b874205aba7f2"
+    },
+    {
+      "title": "Jim Cramer sees a big risk to the bull market resurfacing — and it's not the Iran war",
+      "description": "CNBC's Jim Cramer said the growing wave of stock offerings and debt issuance is the next big threat to the bull market.",
+      "url": "https://www.cnbc.com/2026/07/08/jim-cramer-risk-bull-market-resurfacing.html",
+      "publishedAt": "Wed, 08 Jul 2026 22:14:51 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "4b885f5802472a1ba896d8eb8b4cde1d"
+    },
+    {
+      "title": "SpaceX stock closes below debut price at $148 in two-day slide after Nasdaq-100 inclusion",
+      "description": "SpaceX's record IPO raised a total of $85.7 billion after underwriters exercised the \"greenshoe\" overallotment.",
+      "url": "https://www.cnbc.com/2026/07/08/spacex-stock-nasdaq-100-ipo.html",
+      "publishedAt": "Wed, 08 Jul 2026 21:10:47 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "94c5ca0298da336d0a8a86d64876bafc"
+    },
+    {
+      "title": "Meta is building its first big Canadian data center as AI expansion crosses the border",
+      "description": "Meta is building its first big Canadian data center as AI expansion crosses the border.",
+      "url": "https://www.cnbc.com/2026/07/08/meta-is-building-its-first-big-data-center-in-canada-amid-ai-push.html",
+      "publishedAt": "Wed, 08 Jul 2026 20:40:10 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "f901d5b61d30d871bb3a55d0168cf15e"
+    },
+    {
+      "title": "Oil prices jump more than 4% after Trump threatens to bomb Iran and reimpose naval blockade",
+      "description": "Speaking at the NATO summit in Turkey, Trump said he considered the ceasefire with Iran over. His comments came after U.S. airstrikes overnight.",
+      "url": "https://www.cnbc.com/2026/07/08/oil-prices-brent-wti-iran-us-hormuz.html",
+      "publishedAt": "Wed, 08 Jul 2026 19:02:08 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "b1b318ab339630f0bb2441672d0c57c3"
+    },
+    {
+      "title": "Few bright spots in Wednesday's tough market — why Nvidia stock is one of them",
+      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/07/08/few-bright-spots-in-wednesdays-tough-market-why-nvidia-stock-is-one-of-them.html",
+      "publishedAt": "Wed, 08 Jul 2026 18:22:39 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "90936cdc3773fbf440e587bc65c632cd"
+    },
+    {
+      "title": "Rivian tailspin hasn't shaken one trader's resolve",
+      "description": "Mike Khouw revisits his Rivian trade after the stock tanks on a share offering.",
+      "url": "https://www.cnbc.com/2026/07/08/rivian-tailspin-hasnt-shaken-one-traders-resolve.html",
+      "publishedAt": "Wed, 08 Jul 2026 16:49:58 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "36fac6a733d5b3eef0ed0dd56d1fd175"
+    },
+    {
+      "title": "China to Let AI Firms Buy Nvidia H200s, Information Says",
+      "description": "China plans to allow top artificial intelligence companies to buy a limited amount of H200 chips from Nvidia Corp., a sign the country is easing restrictions on the coveted US technology, according to the Information.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/china-to-let-ai-firms-buy-nvidia-h200-chips-information-says",
+      "publishedAt": "Wed, 08 Jul 2026 15:21:20 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "75b0608bd2ec534a3c95d1d7f349b642"
+    },
+    {
+      "title": "Iluvatar CoreX Raises $902 Million After 257% Stock Rally",
+      "description": "Shanghai Iluvatar CoreX Semiconductor Co. raised about $902 million from a share sale in Hong Kong after its stock soared since an initial public offering in January.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/iluvatar-corex-seeks-to-raise-850-million-after-stock-rally",
+      "publishedAt": "Wed, 08 Jul 2026 10:29:56 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "aacc63b6e4e1e9e0f18f8d60315f7a90"
+    },
+    {
+      "title": "天立启鸣“AI+教育”方案入选AI for Good",
+      "description": "<p style=\"margin-top: 0px; margin-bottom: 0px; text-align: center;\"><img border=\"0\" src=\"https://static.leiphone.com/uploads/new/images/20260709//6a4f627570d23.jpg?imageMogr2/quality/90\" /></p><p style=\"text-align: justify; margin-top: 7.8pt; margin-",
+      "url": "https://www.leiphone.com/category/ai/PfbwTKDLzwL99jmZ.html",
+      "publishedAt": "Thu, 09 Jul 2026 16:59:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "07a00b9add3140288be781daba9a821c"
+    },
+    {
+      "title": "ICML 精选Spotlight Poster汇总：Session 7-1",
+      "description": "<p>7月9日，人工智能与计算机视觉领域的风向标盛会ICML 2026正式开启了三天的核心议程。本届大会在创纪录的投递量中严选出6352篇录用论文，其中包含代表前沿风向的Spotlight论文536篇（占投稿总数的 2.2%），以及极具开创性的Oral 论文168篇 （仅占投稿总数的 0.7 %）。</p><p>本届入选的研究方向展现了极高的多元性，全面覆盖了从多模态大模型到三维高斯泼溅、从具身智能视觉到神经辐射场优化、从可信视觉到高效边缘端部署的激进探索。在整体投稿规模较去年呈现翻倍式增长、同",
+      "url": "https://www.leiphone.com/category/private/bqJj0gBbZjw1sZNB.html",
+      "publishedAt": "Thu, 09 Jul 2026 16:53:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "cba598f9daefb6433f30210214394e11"
+    },
+    {
+      "title": "支付宝发布AIS开发套件：让Agent自动发现、调用、计费",
+      "description": "<p>7月8日，继发布全栈AI支付体系后，支付宝AI支付再推Agent经营方案。从AI开发、AI经营、AI营销三大方向探索Agent时代的商业新机会，帮助商家在AI时代实现产品创新、用户连接与经营增长。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260709/6a4f3f95f071c.png?imageView2/2/w/740\" /></p><p><",
+      "url": "https://www.leiphone.com/category/industrynews/27C8eEaw1r1xfTzp.html",
+      "publishedAt": "Thu, 09 Jul 2026 14:30:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "8397de384bc846ee850601cf942f48b3"
+    },
+    {
+      "title": "中国机器人大脑引爆海外，蚂蚁灵波全栈2.0模型定义具身智能“新大脑”",
+      "description": "<p>7月9日，中国AI创新力量再次引发全球关注。</p><p>中国具身智能公司——蚂蚁灵波科技升级全栈大脑2.0，一口气发布了涵盖视觉、动作、操作以及物理预测等方向的具身智能大模型，在海外开发者社区掀起热潮，发布即登上海外社交媒体热榜。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260709/6a4f3b437431c.png?imageView2/2",
+      "url": "https://www.leiphone.com/category/industrynews/G37AgItr75dHXX0i.html",
+      "publishedAt": "Thu, 09 Jul 2026 14:12:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "4afdbe9885d20d80898cdda59a1cefe6"
+    },
+    {
+      "title": "至简动力交付百台「开箱即用」机器人，加速具身量产节奏",
+      "description": "<section style=\"text-align: justify; margin: 16px 16px 0px; line-height: 1.75em;\"><span style=\"color: #4499E7;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260709/6a4f1c801f3dc.jpg?imageMogr2/quality/90\" styl",
+      "url": "https://www.leiphone.com/category/ai/aFTmWZkO6CAIPGvW.html",
+      "publishedAt": "Thu, 09 Jul 2026 12:01:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "72ccd7f2a517c39dd3c955e2dd39164f"
+    },
+    {
+      "title": "Meet SK Hynix, the trillion-dollar South Korean chipmaker debuting on U.S. markets",
+      "description": "Following a more than sevenfold rally in its stock price over the past year, South Korea's SK Hynix is listing on the Nasdaq.",
+      "url": "https://www.cnbc.com/2026/07/09/meet-sk-hynix-the-trillion-dollar-chipmaker-debuting-on-us-markets-.html",
+      "publishedAt": "Thu, 09 Jul 2026 12:00:01 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "668c3f8e5bea3f3637c48860b0323650"
+    },
+    {
+      "title": "人手数据，如何重塑机器人基础模型？专访 LaST-HD 一作刘家铭",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260709/6a4f1bbd2cd39.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/tc6oPeh2ZD5DST6g.html",
+      "publishedAt": "Thu, 09 Jul 2026 11:57:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "a117469833f5207e6c63a96b812b8978"
+    }
+  ]
+}
