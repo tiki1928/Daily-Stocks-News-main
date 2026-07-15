@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-07-15T10:49:39.326584",
+  "count": 20,
+  "news": [
+    {
+      "title": "支付宝与OPPO实现智能体跨端互联，手机AI 办事能力提升显著",
+      "description": "<p>支付宝与OPPO的AI战略合作迎来新进展。7月15日，AI版支付宝端智能体“阿宝”与OPPO智能助手“小布”正式实现跨端互联，“小布”接入“阿宝”近200项民生及生活服务，用户一句话即可调用。</p><p>合作突破传统云端&nbsp;A2A&nbsp;交互限制，首创端侧可信互联的多智能体协同方案，通过本地端侧数据隔离和分域管控，让阿宝和小布能够安全协同办事。</p><p>这是“阿宝”首次实现和手机端的智能体互联，提升了手机AI的办事能力，也为更多智能终端接入“阿宝”铺平道路。据悉，除OPP",
+      "url": "https://www.leiphone.com/category/industrynews/uHlXIebJKxcMVNKO.html",
+      "publishedAt": "Wed, 15 Jul 2026 16:19:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "a29dc34d54ce5d8d306ae31bad920fce"
+    },
+    {
+      "title": "为什么Agentic CRM需要“真原生”架构？",
+      "description": "<p>当AI&nbsp;进入企业软件时，一个核心问题浮出水面：<strong>企业是需要一个外挂在系统外的AI助手，还是需要一个原生生长在业务系统内的智能体平台？</strong></p><p>在纷享销客看来，答案很明确：真原生，非外挂。</p><p>7月2日，纷享销客召开AI产品发布会，正式发布蜂巢智能体平台&nbsp;ShareHive AgentOS&nbsp;（以下简称“蜂巢”）与&nbsp;ShareAgent&nbsp;产品家族。发布会上，纷享销客总裁兼CTO林松表示，<strong",
+      "url": "https://www.leiphone.com/category/industrynews/03cTTrdCmNaZapoh.html",
+      "publishedAt": "Wed, 15 Jul 2026 16:13:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "acc5e103cfb574cba956b09881691c3e"
+    },
+    {
+      "title": "独家专访李弘扬：成为 RSS 二十年唯一国人获奖者后，我要 all in 全身智能",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260715/6a5725f72c33a.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/mbQ4vuafsYYdWzsj.html",
+      "publishedAt": "Wed, 15 Jul 2026 14:21:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "2a0fd8364cdfb9b6e741b8b5b9964341"
+    },
+    {
+      "title": "中科大 Labimus：机器人化学家要上岗，先得考过这场试",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260715/6a5724f02ba51.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/yY4Y0lFQ6kmtOjWY.html",
+      "publishedAt": "Wed, 15 Jul 2026 14:15:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "dfcb4b0a3e0d987a53e810b13fd1d354"
+    },
+    {
+      "title": "豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座",
+      "description": "<p>对通用 Agent 来说，多模态交互正在成为一项能大幅提升用户体验的关键基础技术。</p><p>过去，用户和 AI 的交互更多是输入文字、上传图片，然后等待回答。现在，家长希望可以直接把镜头对准孩子正在做的题目，让 AI 一步步讲解；在穿搭建议、视障人群视频导航等场景里，用户也希望 AI 不再是一问一答，而是在整个任务过程中持续倾听、对话。</p><p>这种变化提高的不只是功能丰富度，还有用户与 AI 建立连接的频率和深度。</p><p>火山引擎智能视频技术负责人裴志伟在分享中提到，视频通",
+      "url": "https://www.leiphone.com/category/industrynews/fIqCGTasgYRN21d4.html",
+      "publishedAt": "Wed, 15 Jul 2026 12:32:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "076b12a86eb8324dabe3c92c813e75b3"
+    },
+    {
+      "title": "百度搭子获评WAIC 2026“镇馆之宝”，智能体全家桶将集中亮相",
+      "description": "<p>7月14日，百度旗下通用智能体“百度搭子”入选世界人工智能大会“镇馆之宝”，并将亮相于上海举办的WAIC 2026，集中展示其面向个人办公、内容创作、信息处理和企业协作等场景的最新能力。</p><p>&nbsp;</p><p>“镇馆之宝”是世界人工智能大会（WAIC）展览板块的重要荣誉，依据科技含量、市场前景、通用性及社会经济效益等维度，对参展创新成果进行综合评选。该奖项每年吸引数百款产品参选，最终入选数量不超过10个。今年评选持续聚焦前沿技术突破和关键应用落地，集中展示人工智能领域创新成",
+      "url": "https://www.leiphone.com/category/industrynews/ZNfcN7oQILMXzXTc.html",
+      "publishedAt": "Wed, 15 Jul 2026 11:43:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "fba6ebc2a61ede8768de3cd28ac91838"
+    },
+    {
+      "title": "直击 RSS2026 现场前瞻：共识等待收敛，期待中国具身力量亮相",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260715/6a56fe6db4e3b.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/private/3lsidugjZAeIygWx.html",
+      "publishedAt": "Wed, 15 Jul 2026 11:31:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "1d442c96faf78be608560bfd4cf0f5e9"
+    },
+    {
+      "title": "登顶 ICML Oral ！专访上交大团队：这个 3D 自动标注 AI 太强了",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260715/6a56fd758bf5c.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/private/mDyMyOapu5FiBuRS.html",
+      "publishedAt": "Wed, 15 Jul 2026 11:27:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "466b6159f69c0339d52d9ee52da908df"
+    },
+    {
+      "title": "又快又聪明，阿里发布 Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级",
+      "description": "<p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260715/6a56fce820bda.png?imageView2/2/w/740\" /></p><p>7月15日，阿里巴巴发布实时语音交互对话模型Qwen-Audio-3.0-Realtime，在智商、Agent 工具调用、共情对话和双工交互流畅度四条主线上同步升级，力求“又快又聪明”。模型包括推理更强的Plus",
+      "url": "https://www.leiphone.com/category/industrynews/Yg2RqalAz09LS6WJ.html",
+      "publishedAt": "Wed, 15 Jul 2026 11:25:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "8ea2d421390c1742428d69ebe056bc65"
+    },
+    {
+      "title": "利民推出 FN240 冰封魔镜 V5 无风扇版一体式水冷散热器：提供英特尔版 / 双平台版，199 元起",
+      "description": "<p>IT之家 7 月 15 日消息，利民现已在京东上架 FN240 冰封魔镜 V5 无风扇版一体式水冷散热器，提供英特尔版 / 双平台版可选，提供 3 年质保，IT之家整理价格如下：</p><ul class=\"medium-size list-paddingleft-2\"><li><p>黑色<span class=\"no-auto-spacing\"> 英特尔版本：199 元</span></p></li><li><p><span class=\"no-auto-spacing\">白色 英特尔版",
+      "url": "https://www.ithome.com/0/977/198.htm",
+      "publishedAt": "Wed, 15 Jul 2026 10:47:19 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "aa88cbed9325236bdf7ce59ac2427407"
+    },
+    {
+      "title": "U.S. launches fresh wave of strikes on Iran, as analysts warn conflict risks becoming 'forever war'",
+      "description": "Fighting in the Middle East has intensified in recent days, but could escalate further if Iran fails to cooperate, President Donald Trump said.",
+      "url": "https://www.cnbc.com/2026/07/15/trump-iran-hormuz-strikes-power-plants-targeted.html",
+      "publishedAt": "Wed, 15 Jul 2026 10:38:49 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "042f52e6f72c96f400b827e3557364a9"
+    },
+    {
+      "title": "腾讯投资的国产单机动作游戏《湮灭之潮》确认参加 2026 年科隆游戏展，将开启首次线下试玩",
+      "description": "<p>IT之家 7 月 15 日消息，由腾讯投资的国产单机动作游戏《湮灭之潮》确认参加 2026 年科隆游戏展，8 月 26 日 ~30 日展会期间，<strong>官方将于会场 6 号厅 B-050 展位开放试玩</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/a6661765-112f-440c-8453-4fcb8ef5eea3.jpg?x",
+      "url": "https://www.ithome.com/0/977/196.htm",
+      "publishedAt": "Wed, 15 Jul 2026 10:37:40 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "f15dbdd0f70902e6c4d28cb3a757cffb"
+    },
+    {
+      "title": "飞利浦推出“27B2N3200”27 英寸显示器：1080P 120Hz、内置电源 + 双扬，838 元",
+      "description": "<p>IT之家 7 月 15 日消息，飞利浦现已在京东上架一款型号为“27B2N3200”的 27 英寸显示器，该机主打 1080P 120Hz，同时内置了双扬声器，定价为 999 元，<strong>首发价 838 元</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/0c120010-f3dc-4b0f-bff5-ae75aa0b5e4d.pn",
+      "url": "https://www.ithome.com/0/977/194.htm",
+      "publishedAt": "Wed, 15 Jul 2026 10:36:14 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "af7678423500677a55362aea536c93e2"
+    },
+    {
+      "title": "微信鸿蒙版 App 获 8.0.19.41 邀测升级，新增收藏的聊天记录支持转存为笔记等功能",
+      "description": "<p>IT之家 7 月 15 日消息，微信鸿蒙版 App 今日开启 <strong>8.0.19.41 (8393513)</strong> 版本邀测升级（邀测升级需收到短信通知后点击链接跳转安装，未收到短信需继续等待），测试时间为 2026/7/15-2026/8/14。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/824",
+      "url": "https://www.ithome.com/0/977/186.htm",
+      "publishedAt": "Wed, 15 Jul 2026 10:25:32 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "29b6758c5ed17b98c3d6ce560d8db823"
+    },
+    {
+      "title": "印度宣布再投 1.28 万亿卢比开启半导体 2.0 计划，提升本土芯片制造能力",
+      "description": "<p>IT之家 7 月 15 日消息，据印度金融时报报道，印度信息部长阿什维尼 · 瓦希诺（Ashwini Vaishnaw）周三表示，印度政府已批准 1.275 万亿卢比（IT之家注：现汇率约合 904.4 亿元人民币）的新增资金，用于“印度半导体计划 2.0”。</p><p>这项新投资是在印度 2021 年推出的印度半导体计划 1.0（ISM 1.0，规模为 7600 亿卢比，现汇率约合 539.09 亿元人民币）的基础上进行的全面升级。新计划的核心目标包括：</p><ul class=\" ",
+      "url": "https://www.ithome.com/0/977/184.htm",
+      "publishedAt": "Wed, 15 Jul 2026 10:22:25 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "64ad7b397fc17557b433f2b15ae8582c"
+    },
+    {
+      "title": "贝尔金推出 45W 自带线小夜灯移动电源：2C 设计，10000mAh 电芯，售 329 元",
+      "description": "<p>IT之家 7 月 15 日消息，贝尔金现已在京东上架一款“小夜灯移动电源”，该产品采用 2C 设计，提供 45W 功率，内置 10000mAh 电芯，<strong>定价为 329 元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/55d4e932-294e-4175-b16e-cd2ad63875e",
+      "url": "https://www.ithome.com/0/977/183.htm",
+      "publishedAt": "Wed, 15 Jul 2026 10:18:09 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "62b7efba4e5c98fb4bd1debbe9c29353"
+    },
+    {
+      "title": "ASML rises 4% after hiking sales forecast for second time this year on strong AI chip demand",
+      "description": "ASML on Wednesday raised its guidance for a second time this year as its customers continue to ramp up their production capacity of AI chips.",
+      "url": "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html",
+      "publishedAt": "Wed, 15 Jul 2026 10:14:45 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "e34c0b59531ff03ef528b7c7b04956b5"
+    },
+    {
+      "title": "IBM 发布 Power 自主运维 AI 智能体，可自动监控并修复系统问题",
+      "description": "<p>IT之家 7 月 15 日消息，IBM 今日宣布推出 Power 自主运维系统（Power Autonomous Operations），这是一款基于 AI 智能体（AI Agent）的系统管理工具，能够持续监控 Power 系统运行状态，并自主解决相关问题，帮助企业保持业务稳定运行。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2",
+      "url": "https://www.ithome.com/0/977/181.htm",
+      "publishedAt": "Wed, 15 Jul 2026 10:12:39 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "c3be69b5b13dec6388f5dd2c3f174fc6"
+    },
+    {
+      "title": "消息称交友应用 Soul 将推出首款便携式 AI 智能硬件，有望于 WAIC 2026 亮相",
+      "description": "<p>IT之家 7 月 15 日消息，据“读佳”报道，交友应用 Soul 将推出首款便携式 AI 智能硬件产品，该产品预计将于 7 月 17 日至 20 日举行的 2026 世界人工智能大会暨人工智能全球治理高级别会议（WAIC）期间首次公开亮相。</p><p>据介绍，<strong>该产品定位情绪陪伴，会将自研语言大模型 SoulX 的语音交互、情感表达和数字生命能力融入其中</strong>。</p><p>目前，官方已推出名为“愈见岛 — 星频通讯”的软件产品适配该智能硬，用户可以上传图片自",
+      "url": "https://www.ithome.com/0/977/175.htm",
+      "publishedAt": "Wed, 15 Jul 2026 10:01:53 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "717a90548f23e522ebb640e3779c8fc6"
+    },
+    {
+      "title": "小米米家显示器挂灯 2 开启众筹：108 颗定制全光谱灯珠、三角支撑夹持结构，259 元",
+      "description": "<p>IT之家 7 月 15 日消息，小米旗下米家显示器挂灯 2 现已在有品开启众筹（<a href=\"https://c.duomai.com/track.php?aid=4705&amp;dm_fid=16052&amp;euid=&amp;site_id=261624&amp;t=https%3a%2f%2fwww.xiaomiyoupin.com%2fdetail%3fgid%3d184163%26spmref%3dYouPin_A.share.share_pop_copy.4.8280",
+      "url": "https://www.ithome.com/0/977/172.htm",
+      "publishedAt": "Wed, 15 Jul 2026 10:00:28 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "b53c3a0091f7976881683f42791c4ab0"
+    }
+  ]
+}
