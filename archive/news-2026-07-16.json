@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-07-16T11:00:03.824435",
+  "count": 20,
+  "news": [
+    {
+      "title": "Nvidia Expands Toyota AI Partnership for Smart Cities, Factories",
+      "description": "Nvidia Corp. will supply its artificial intelligence hardware and software to Toyota Motor Corp. to power smart cities, traffic intelligence systems and carmaking factories, broadening a decade-long partnership that began with developing autonomous v",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-15/nvidia-expands-toyota-ai-partnership-for-smart-cities-factories",
+      "publishedAt": "Wed, 15 Jul 2026 23:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "0233911265838266021752940d0017ba"
+    },
+    {
+      "title": "Jim Cramer says he needs 'cold hard' proof that AI is paying off",
+      "description": "CNBC's Jim Cramer said he’s looking for companies to start showing measurable financial returns from their AI investments.",
+      "url": "https://www.cnbc.com/2026/07/15/jim-cramer-needs-proof-ai-paying-off-.html",
+      "publishedAt": "Wed, 15 Jul 2026 22:51:22 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "6619f9ad3b649e387a22582bad7f7840"
+    },
+    {
+      "title": "Fed Chairman Warsh says he meets 'often' with Trump administration, defends independence",
+      "description": "Kevin Warsh said Wednesday that he speaks with Treasury Secretary Scott Bessent frequently outside their regular weekly meetings.",
+      "url": "https://www.cnbc.com/2026/07/15/feds-warsh-says-he-meets-often-with-trump-administration.html",
+      "publishedAt": "Wed, 15 Jul 2026 22:48:57 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "3d2242b93f2785847a511bde3e66a6ed"
+    },
+    {
+      "title": "Brookfield-Backed Data-Center Firm Raises $1.05 Billion in IPO",
+      "description": "Csquare Inc. raised $1.05 billion after pricing its initial public offering below a marketed range on Wednesday.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-15/data-center-firm-csquare-is-said-to-price-ipo-at-21-per-share",
+      "publishedAt": "Wed, 15 Jul 2026 22:47:04 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "fa567d48341246dc98449a18a04e3d0d"
+    },
+    {
+      "title": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
+      "description": "As part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House financial services committee.",
+      "url": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
+      "publishedAt": "Wed, 15 Jul 2026 22:05:14 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "fe0ab4e80a1e2b418db8c2edc08b7705"
+    },
+    {
+      "title": "China Sends Robots Into the World to Learn How to Be Human",
+      "description": "In an industrial park on the outskirts of Beijing, a humanoid arm picks up a bag of Lay’s potato chips and places it neatly along a row of snacks on a shelf. Nearby, a worker films himself grabbing cushions off a sofa and folding sheets on a bed, rec",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-15/china-sends-robots-out-into-the-world-to-learn-how-to-be-human",
+      "publishedAt": "Wed, 15 Jul 2026 22:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "4f03ac7549bc5f032ee14ccdf062ba56"
+    },
+    {
+      "title": "Analysis: Fed Chairman Warsh faces an inflation credibility test after Congress hearings",
+      "description": "The new Fed chairman avoided major stumbles in two days of testimony before the House and Senate, but faces a rapid test of his commitment to price stability.",
+      "url": "https://www.cnbc.com/2026/07/15/fed-chairman-kevin-warsh-inflation-credibility-test-analysis.html",
+      "publishedAt": "Wed, 15 Jul 2026 21:43:39 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "dc9dd6259b33c5b72715ff83b04d8c16"
+    },
+    {
+      "title": "United earnings top estimates but airline expects $6 billion in added fuel costs",
+      "description": "United reported higher revenue for premium, corporate and no-frills basic economy tickets and higher revenue for both domestic and international trips.",
+      "url": "https://www.cnbc.com/2026/07/15/united-airlines-ual-2q-2026-earnings.html",
+      "publishedAt": "Wed, 15 Jul 2026 21:00:11 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "c3110a6f1d634b410ee6390789b91d66"
+    },
+    {
+      "title": "Trump blasts New York AI data center moratorium, says state should change policy 'immediately'",
+      "description": "New York became the first state in the U.S. to impose a ban of its kind when the governor signed the executive order Tuesday.",
+      "url": "https://www.cnbc.com/2026/07/15/trump-blasts-new-york-gov-hochul-over-ai-data-center-moratorium.html",
+      "publishedAt": "Wed, 15 Jul 2026 20:35:40 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "e005295a6d09a267699618a5b8de47fc"
+    },
+    {
+      "title": "SpaceX stock sinks below $135 IPO price for the first time",
+      "description": "SpaceX shares fell for a fourth-straight session on Wednesday days after entering the Nasdaq-100",
+      "url": "https://www.cnbc.com/2026/07/15/spacex-spcx-stock-ipo-price.html",
+      "publishedAt": "Wed, 15 Jul 2026 20:20:10 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "e605417bbb8d3fe53f78f2f9f3b06f3b"
+    },
+    {
+      "title": "J&J falls despite a beat-and-raise quarter. Why we're raising our price target anyways",
+      "description": "Johnson & Johnson's quarter was imperfect, but enough is going right to validate our ownership of the stock.",
+      "url": "https://www.cnbc.com/2026/07/15/jj-falls-despite-a-beat-and-raise-quarter-why-were-raising-our-price-target-anyways.html",
+      "publishedAt": "Wed, 15 Jul 2026 19:30:30 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "f50047c51c8efdfbe5803cf4ce3954ce"
+    },
+    {
+      "title": "Amazon senior cloud executive departs after 18 years",
+      "description": "Brown helped launch one of AWS' oldest services and also oversaw its compute and machine learning units.",
+      "url": "https://www.cnbc.com/2026/07/15/amazon-dave-brown-treadwell-aws.html",
+      "publishedAt": "Wed, 15 Jul 2026 18:23:06 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "7c45d36858760b8e910b9fa858b33308"
+    },
+    {
+      "title": "Public Service Loan Forgiveness has new rules — 3 changes borrowers should know about",
+      "description": "Recent changes to Public Service Loan Forgiveness should prompt borrowers to confirm that their repayment plan and loan type remain eligible for the relief.",
+      "url": "https://www.cnbc.com/2026/07/15/public-service-loan-forgiveness-pslf-changes.html",
+      "publishedAt": "Wed, 15 Jul 2026 17:58:41 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "12a5ad9828d4a96d5884a3789125ee3f"
+    },
+    {
+      "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
+      "description": "Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.",
+      "url": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
+      "publishedAt": "Wed, 15 Jul 2026 17:22:51 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "b9c0709bb44d9ecde999e041fea355a8"
+    },
+    {
+      "title": "支付宝与OPPO实现智能体跨端互联，手机AI 办事能力提升显著",
+      "description": "<p>支付宝与OPPO的AI战略合作迎来新进展。7月15日，AI版支付宝端智能体“阿宝”与OPPO智能助手“小布”正式实现跨端互联，“小布”接入“阿宝”近200项民生及生活服务，用户一句话即可调用。</p><p>合作突破传统云端&nbsp;A2A&nbsp;交互限制，首创端侧可信互联的多智能体协同方案，通过本地端侧数据隔离和分域管控，让阿宝和小布能够安全协同办事。</p><p>这是“阿宝”首次实现和手机端的智能体互联，提升了手机AI的办事能力，也为更多智能终端接入“阿宝”铺平道路。据悉，除OPP",
+      "url": "https://www.leiphone.com/category/industrynews/uHlXIebJKxcMVNKO.html",
+      "publishedAt": "Wed, 15 Jul 2026 16:19:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "a29dc34d54ce5d8d306ae31bad920fce"
+    },
+    {
+      "title": "为什么Agentic CRM需要“真原生”架构？",
+      "description": "<p>当AI&nbsp;进入企业软件时，一个核心问题浮出水面：<strong>企业是需要一个外挂在系统外的AI助手，还是需要一个原生生长在业务系统内的智能体平台？</strong></p><p>在纷享销客看来，答案很明确：真原生，非外挂。</p><p>7月2日，纷享销客召开AI产品发布会，正式发布蜂巢智能体平台&nbsp;ShareHive AgentOS&nbsp;（以下简称“蜂巢”）与&nbsp;ShareAgent&nbsp;产品家族。发布会上，纷享销客总裁兼CTO林松表示，<strong",
+      "url": "https://www.leiphone.com/category/industrynews/03cTTrdCmNaZapoh.html",
+      "publishedAt": "Wed, 15 Jul 2026 16:13:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "acc5e103cfb574cba956b09881691c3e"
+    },
+    {
+      "title": "ASML Mulls Price Hike for Chipmaking Tools, Information Says",
+      "description": "ASML Holding NV plans to raise prices for its chipmaking equipment, setting up a potential clash with its biggest customer Taiwan Semiconductor Manufacturing Co., according to a report in the Information citing people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-15/asml-plans-prices-hikes-for-chipmaking-tools-says-information",
+      "publishedAt": "Wed, 15 Jul 2026 15:54:57 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "8037290d0fed59b7d34111918e6ffa1d"
+    },
+    {
+      "title": "独家专访李弘扬：成为 RSS 二十年唯一国人获奖者后，我要 all in 全身智能",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260715/6a5725f72c33a.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/private/mbQ4vuafsYYdWzsj.html",
+      "publishedAt": "Wed, 15 Jul 2026 14:21:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "2a0fd8364cdfb9b6e741b8b5b9964341"
+    },
+    {
+      "title": "中科大 Labimus：机器人化学家要上岗，先得考过这场试",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260715/6a5724f02ba51.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/yY4Y0lFQ6kmtOjWY.html",
+      "publishedAt": "Wed, 15 Jul 2026 14:15:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "dfcb4b0a3e0d987a53e810b13fd1d354"
+    },
+    {
+      "title": "豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座",
+      "description": "<p>对通用 Agent 来说，多模态交互正在成为一项能大幅提升用户体验的关键基础技术。</p><p>过去，用户和 AI 的交互更多是输入文字、上传图片，然后等待回答。现在，家长希望可以直接把镜头对准孩子正在做的题目，让 AI 一步步讲解；在穿搭建议、视障人群视频导航等场景里，用户也希望 AI 不再是一问一答，而是在整个任务过程中持续倾听、对话。</p><p>这种变化提高的不只是功能丰富度，还有用户与 AI 建立连接的频率和深度。</p><p>火山引擎智能视频技术负责人裴志伟在分享中提到，视频通",
+      "url": "https://www.leiphone.com/category/industrynews/fIqCGTasgYRN21d4.html",
+      "publishedAt": "Wed, 15 Jul 2026 12:32:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "076b12a86eb8324dabe3c92c813e75b3"
+    }
+  ]
+}
