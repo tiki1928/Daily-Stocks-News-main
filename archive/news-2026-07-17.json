@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-07-17T10:46:36.251881",
+  "count": 20,
+  "news": [
+    {
+      "title": "Xi Seeks Global AI Sway as Surging Chinese Models Spur Alarm",
+      "description": "President Xi Jinping used the rise of China’s AI models to stake his claim on shaping the technology’s global rules, even as their growing power stirs security concerns in Washington and Beijing alike.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/china-s-ai-ascendance-gives-xi-a-stage-and-a-security-dilemma",
+      "publishedAt": "Thu, 16 Jul 2026 23:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "0de605b0d74310a04191f30cfc2f2eda"
+    },
+    {
+      "title": "Has Nike lost its 'cool' factor? LeBron James weighs in",
+      "description": "Nike's stock has slumped as the sportswear giant faces new competitors and waning influence. LeBron James has some advice on how to regain its 'cool' factor.",
+      "url": "https://www.cnbc.com/2026/07/16/nike-cool-factor-lebron-james.html",
+      "publishedAt": "Thu, 16 Jul 2026 22:49:00 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "208b02343afb5e4ac0f00f61f2965c4c"
+    },
+    {
+      "title": "Banking Committee's Sen. Rounds liked Warsh's 'tone' in first testimony as Fed chairman",
+      "description": "Federal Reserve Chair Kevin Warsh was on Capitol Hill for two days of testimony this week.",
+      "url": "https://www.cnbc.com/2026/07/16/mike-rounds-senate-banking-warsh-interest-rates.html",
+      "publishedAt": "Thu, 16 Jul 2026 22:28:40 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "5fa0dbea46dc654c06aea3f4adb5090c"
+    },
+    {
+      "title": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates",
+      "description": "The streaming giant said it would cut back on the frequency of its \"What We Watched\" reports, which provide a picture of engagement.",
+      "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
+      "publishedAt": "Thu, 16 Jul 2026 21:53:56 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "7708ac0a07ebd99a3a03179ddb4cb7da"
+    },
+    {
+      "title": "DeepMind CEO to Lobby Washington on Plan for Group to Vet AI Models",
+      "description": "Earlier this week, Google DeepMind Chief Executive Officer Demis Hassabis unveiled a proposal for a new international watchdog that would do “rigorous” tests and reviews of cutting-edge AI models before release.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/deepmind-ceo-to-lobby-washington-on-plan-for-group-to-vet-ai-models",
+      "publishedAt": "Thu, 16 Jul 2026 20:17:36 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "f5343421258d5149f44f3020f26ca9c7"
+    },
+    {
+      "title": "DeepMind CEO Rallies Support for International Group to Vet AI Models",
+      "description": "Demis Hassabis intends to hold meetings about his proposal with US policymakers.",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-16/deepmind-ceo-rallies-support-for-international-group-to-vet-ai-models",
+      "publishedAt": "Thu, 16 Jul 2026 20:13:40 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "a76c1197c6ecf0f2066216a2c1d8d7ec"
+    },
+    {
+      "title": "挚达科技发布家庭及公共场景自动充电机器人解决方案",
+      "description": "<p>雷峰网获悉，挚达科技发布“AI能源+机器人”家庭及公共场景解决方案，以自动充电机器人为核心，结合光伏、储能、充电设备及AI平台，实现能源管理、任务调度和自动充电，面向家庭住宅及Robotaxi、物流车等公共运营场景。同时，挚达科技深圳公司正式揭牌，将承担产品研发、智能硬件研发及海外业务等职能。</p>",
+      "url": "https://www.leiphone.com/category/transportation/lV4IbRbkPa4Urphm.html",
+      "publishedAt": "Thu, 16 Jul 2026 19:17:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "d98c4666904d6a0433ce92d8e93a0daa"
+    },
+    {
+      "title": "Oil pipelines around the Strait of Hormuz won't end the threat Iran poses to Middle East crude exports",
+      "description": "Oil producers are building or contemplating new pipeline projects to bypass the Strait of Hormuz, but this infrastructure is still vulnerable, analysts said.",
+      "url": "https://www.cnbc.com/2026/07/16/oil-pipeline-iran-strait-hormuz-red-sea-iraq-uae-saudi.html",
+      "publishedAt": "Thu, 16 Jul 2026 19:13:07 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "512f9582201ae19a48fea7eae08301ca"
+    },
+    {
+      "title": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
+      "description": "The policymaker said this week's good inflation news wasn't good enough.",
+      "url": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
+      "publishedAt": "Thu, 16 Jul 2026 18:50:42 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "e8d8e8ef213cf19628cb4acce1370873"
+    },
+    {
+      "title": "Trump Media launches paid data service to help Wall Street track Trump’s posts",
+      "description": "Trump Media launched an API to give paying customers real-time access to market-moving Truth Social posts.",
+      "url": "https://www.cnbc.com/2026/07/16/trump-truth-social-wall-street-traders-api.html",
+      "publishedAt": "Thu, 16 Jul 2026 18:46:08 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "9a34996a7c30ecaea2c760600045bb9d"
+    },
+    {
+      "title": "Short sellers load up against SpaceX as stock drops below IPO price",
+      "description": "About 185 million SpaceX shares are now sold short, representing roughly 29% of the company's publicly tradable float, according to S3.",
+      "url": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
+      "publishedAt": "Thu, 16 Jul 2026 18:12:21 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "1ccc2400371a12f0d6a1d43126506469"
+    },
+    {
+      "title": "Nvidia unveils new AI model and expands Japan’s physical AI ecosystem",
+      "description": "Nvidia announces new AI model, Cosmos 3 Edge, and expansion of its physical AI ecosystems in Japan.",
+      "url": "https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html",
+      "publishedAt": "Thu, 16 Jul 2026 16:08:29 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "9775dce647ef05bb1546897b0ff0724c"
+    },
+    {
+      "title": "国产大芯片厂商“必修课”：从云豹智能看DPU赛道现实考题",
+      "description": "<p>国内DPU厂商云豹智能6月30日向深交所递交创业板IPO材料，成为创业板第四套上市标准下首家申报的DPU芯片企业，被市场视作“国产DPU第一股”。而随着招股书披露经营数据，市场出现两类争议声音：连续三年归母净利润亏损和营收高度依赖单一大客户。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260716/6a588b6903304.png?imageVi",
+      "url": "https://www.leiphone.com/category/chips/lxIbicm9WU6RU1Qe.html",
+      "publishedAt": "Thu, 16 Jul 2026 15:45:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "a4cc23ebb3095ea3c0873d8c08979ddb"
+    },
+    {
+      "title": "专访 Ψ₀ 团队：用对方法，30小时真机数据也能练模型｜RSS 2026",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260716/6a58884782d6f.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/private/XjLhqoCs0fFsyEIN.html",
+      "publishedAt": "Thu, 16 Jul 2026 15:32:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "d21c63ab129f571097b34f1629245d3d"
+    },
+    {
+      "title": "The best states for workers to get educated, trained and find a job in America in 2026",
+      "description": "These 11 U.S. states excel when it comes to the education level of their workforce, migration patterns, and workforce development programs.",
+      "url": "https://www.cnbc.com/2026/07/16/best-states-workers-jobs-2026.html",
+      "publishedAt": "Thu, 16 Jul 2026 15:22:24 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "efed39c5ed3114aca42f684da9d2998f"
+    },
+    {
+      "title": "2026世界人工智能大会聚焦AI治理，奇安信展示AI+安全双轮驱动布局",
+      "description": "<p>7月17日至20日，2026世界人工智能大会（WAIC 2026）暨人工智能全球治理高级别会议将在上海开幕。本届大会以“智能伙伴 共创未来”为主题，聚焦人工智能创新发展与安全治理双向协同，将AI安全与全球治理提升至核心战略层面。奇安信携系列AI安全产品亮相上海世博展览馆H1展区，并参与圆桌会议、行业研讨等多个环节，集中展示其在AI安全领域的技术积淀与实战能力。</p><p><strong>AI安全治理成大会核心主线</strong></p><p>本次大会增设人工智能全球治理高级别会议，聚焦",
+      "url": "https://www.leiphone.com/category/industrynews/lxXkqwf4vc9J3opM.html",
+      "publishedAt": "Thu, 16 Jul 2026 14:29:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "a4f86e72a2bb4a08e059c3c43d58fc5e"
+    },
+    {
+      "title": "Analysis: Fed Chairman Warsh faces an inflation credibility test after Congress hearings",
+      "description": "The new Fed chairman avoided major stumbles in two days of testimony before the House and Senate, but faces a rapid test of his commitment to price stability.",
+      "url": "https://www.cnbc.com/2026/07/15/fed-chairman-kevin-warsh-inflation-credibility-test-analysis.html",
+      "publishedAt": "Thu, 16 Jul 2026 13:59:35 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "dc9dd6259b33c5b72715ff83b04d8c16"
+    },
+    {
+      "title": "行业首个！中国一汽大模型入驻阿里云百炼，面向全行业开放",
+      "description": "<p>7月15日，中国第一汽车集团有限公司（以下简称“中国一汽”）与阿里云智能集团联合宣布：由中国一汽基于千问自主研发的行业大模型已正式入驻阿里云百炼平台，面向全行业开放。作为业内首个实现商业化服务的大模型，它将中国一汽沉淀的行业know-how转化为标准化服务，让全行业企业都能低门槛调用专业AI能力。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/202607",
+      "url": "https://www.leiphone.com/category/industrynews/REYfC0ECzRMeS8hD.html",
+      "publishedAt": "Thu, 16 Jul 2026 13:57:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "9578b1542090ca8ddb698f638aab4cbd"
+    },
+    {
+      "title": "不改造门店机器人直接上岗，蚂蚁灵波智慧药房获WAIC 2026“镇馆之宝”",
+      "description": "<p>2026世界人工智能大会（WAIC）将于7&nbsp;月&nbsp;17&nbsp;日正式拉开帷幕。作为大会展览板块的最高荣誉，日前揭晓的十大“镇馆之宝”已率先成为各方关注的焦点。其中，蚂蚁集团的“基于蚂蚁灵波跨本体具身大模型的机器人智慧药房”，与中科曙光“曙光8000—全国产十万卡AI超集群”等硬核科技成果一同登榜。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/im",
+      "url": "https://www.leiphone.com/category/industrynews/tA7cOaKzZYIzZTd1.html",
+      "publishedAt": "Thu, 16 Jul 2026 13:56:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "17c1f38384228a93d2ce1ec028d2327d"
+    },
+    {
+      "title": "Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models",
+      "description": "Fireworks once relied heavily on revenue from coding startup Cursor, but has diversified in the past year as more companies reach for lower-cost AI models.",
+      "url": "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html",
+      "publishedAt": "Thu, 16 Jul 2026 13:00:02 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "3811c6542d2d5ef842477ceb0efdd9dd"
+    }
+  ]
+}
