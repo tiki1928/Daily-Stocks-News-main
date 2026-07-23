@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-07-23T11:09:59.039403",
+  "count": 20,
+  "news": [
+    {
+      "title": "Southwest Airlines' third-quarter forecast falls short as fuel bill climbs",
+      "description": "Southwest Airlines reported a more than 9% increase in second-quarter profit as higher fares are increasingly helping the airline cover its fuel tab.",
+      "url": "https://www.cnbc.com/2026/07/22/southwest-airlines-luv-2q-2026-earnings.html",
+      "publishedAt": "Wed, 22 Jul 2026 23:25:25 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "3bac986601e896366e0500178faa97c7"
+    },
+    {
+      "title": "ServiceNow CEO defends the company's relevancy, touting a kill switch for rogue AI agents",
+      "description": "ServiceNow CEO Bill McDermott said the company is becoming increasingly important as businesses deploy more autonomous AI agents.",
+      "url": "https://www.cnbc.com/2026/07/22/servicenow-ceo-kill-switch-rogue-ai.html",
+      "publishedAt": "Wed, 22 Jul 2026 22:56:13 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "c67f5d21f33b21016c7e1127a114996b"
+    },
+    {
+      "title": "John Paulson says we are in the early stages of a long-term bull market for gold",
+      "description": "He said demand for bullion continues to broaden, led by central banks that have been adding to their reserves alongside growing private-sector interest.",
+      "url": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html",
+      "publishedAt": "Wed, 22 Jul 2026 22:06:49 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "8ab3c5e83bb6faa1182cb019db0ec04a"
+    },
+    {
+      "title": "U.S. signs nuclear power agreement with Saudi Arabia",
+      "description": "The agreement will provide U.S. companies with access to Saudi Arabia's nuclear energy program, the Department of Energy said.",
+      "url": "https://www.cnbc.com/2026/07/22/trump-saudi-arabia-nuclear-power.html",
+      "publishedAt": "Wed, 22 Jul 2026 21:56:58 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "35388212018291b9481c5bb4e54192ba"
+    },
+    {
+      "title": "Analysis: Iran war energy shock hits the U.S. economy as gas and diesel prices climb",
+      "description": "A new asymmetry in the market means fuel prices won't fall quickly even if the shooting in the Iran war and Strait of Hormuz stops.",
+      "url": "https://www.cnbc.com/2026/07/22/iran-war-energy-markets-gas-diesel-prices-us-economy-analysis.html",
+      "publishedAt": "Wed, 22 Jul 2026 21:34:26 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "8137aca0b2c58d56c6e64262eb39c415"
+    },
+    {
+      "title": "Senate panel advances China auto bill that could bar Mercedes-Benz from U.S.",
+      "description": "Mercedes-Benz’s largest individual shareholder is Chinese state-owned BAIC. Cruz warned the bill could hurt Mercedes and accused GM of backing it.",
+      "url": "https://www.cnbc.com/2026/07/22/ted-cruz-china-auto-bill-mercedes-benz-gm.html",
+      "publishedAt": "Wed, 22 Jul 2026 21:16:56 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "e26f053767b3aea56a31580cce7c398f"
+    },
+    {
+      "title": "Alphabet’s $205 Billion Spending Target Fuels AI Cost Fears",
+      "description": "Alphabet Inc. raised its capital spending forecast to as much as $205 billion this year, reigniting concerns about a lack of fiscal discipline in the race to dominate artificial intelligence.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/alphabet-posts-cloud-sales-beat-slight-miss-on-search-revenue",
+      "publishedAt": "Wed, 22 Jul 2026 20:10:19 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "98fcaa3437b7d998e356e657d43a2302"
+    },
+    {
+      "title": "Amazon cuts some jobs in its artificial general intelligence unit",
+      "description": "Amazon's AGI unit has released a set of AI models, called Nova, and also includes groups working on silicon and quantum computing.",
+      "url": "https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html",
+      "publishedAt": "Wed, 22 Jul 2026 19:50:16 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "6381a3685a7d0d1e7e4297d5672e7760"
+    },
+    {
+      "title": "OpenAI cyber models broke out of training environment to hack Hugging Face",
+      "description": "The incident is unique because it was \"driven, end to end, by an autonomous AI agent system,\" according to Hugging Face.",
+      "url": "https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html",
+      "publishedAt": "Wed, 22 Jul 2026 18:37:37 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "dfedc9f41db4e464b6d0eb38602335d8"
+    },
+    {
+      "title": "Token在暴增，利润为何「困」在英伟达？",
+      "description": "<p>大厂的Token仪表盘上，数字正在疯狂跳动。</p><p>当下，仅豆包一家大模型的日均Token调用量就已突破180万亿；国家数据局的统计显示，全国日均调用量在今年3月已超过140万亿——无论从哪个口径衡量，这都是一条两年内从“近乎为零”飙涨超千倍的曲线。</p><p>这是一组足以让任何一个行业眼红的数字。AI编程、Agent工作流、多模态内容生成……越来越多场景被卷入这条消耗曲线，Token经济正在以前所未有的速度膨胀。</p><p>但最先兑现这场繁荣的，并非模型厂商和AI应用。</p>",
+      "url": "https://www.leiphone.com/category/chips/0b12z01cmLVcy3dC.html",
+      "publishedAt": "Wed, 22 Jul 2026 17:12:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "17b33eac1a1a9798dfef68a2465c122e"
+    },
+    {
+      "title": "独家解读丨谷歌押注的「Token分发霸主」OpenRouter，为何突卖身？",
+      "description": "<section><section><section><section><section></section><section><section><section><section></section></section></section><section><span><br /></span></section><p style=\"text-align: center; margin-bottom: 24px; line-height: 1.75em;\"><strong><span><spa",
+      "url": "https://www.leiphone.com/category/industrynews/jzcW1HyiLtvtbWCt.html",
+      "publishedAt": "Wed, 22 Jul 2026 15:58:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "1b9b418377a2aac4939d08beb3adbbf6"
+    },
+    {
+      "title": "阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务",
+      "description": "<p>7月23日消息，阿里真武M890超节点已成功适配Qwen3.8，并上线阿里云百炼平台提供模型推理服务，这是国内首个成功运行超2万亿参数大模型的超节点。</p><p>&nbsp;</p><p>Qwen3.8是阿里最新旗舰模型，参数规模高达2.4万亿，跑通这一规模的模型需要将参数分散到几十张甚至上百张高速互联的GPU卡，让万亿参数“跑得又稳又快”。然而，普通AI集群因通信带宽的局限，无法满足高吞吐、低延迟、高并发的需求。</p><p>&nbsp;</p><p>真武M890是平头哥新一代训推一体",
+      "url": "https://www.leiphone.com/category/industrynews/QPSOggSAs8nAZ4Uc.html",
+      "publishedAt": "Thu, 23 Jul 2026 14:30:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "2450ba6c39186742fc66166863beaaf3"
+    },
+    {
+      "title": "全球已有1000万中小企业在用Accio Work做生意",
+      "description": "<p>7月23日，在杭州举办的一场数千人规模的全球跨境电商峰会现场，阿里国际站总裁张阔透露，全球已有1000万中小企业在用Accio Work做生意，一年内增长逾30倍。</p><p>据悉，过去12个月中，阿里国际站上的中小企业Token消耗量翻了10倍。与此同时，Accio Work单次任务的使用成本下降了50%。规模十倍级增长的背景下，单位成本反向下降，意味着模型效率与工程能力同步提升。</p><p>作为全球电商AI工作台，Accio Work已经接入阿里国际站、1688、淘宝、天猫、Sho",
+      "url": "https://www.leiphone.com/category/industrynews/IPXWpsIUAi4Hw8CO.html",
+      "publishedAt": "Thu, 23 Jul 2026 13:50:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "e31df55b319cd2ca0bb3523cedb24ae2"
+    },
+    {
+      "title": "专访南洋理工李搏扬：被「数学缺陷」困了八年的MTS，第一次真正 work了| ICML 2026",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260723/6a61a71949dd1.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/private/9PRf4M2bUYMLC0Jz.html",
+      "publishedAt": "Thu, 23 Jul 2026 13:34:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "215e77f79ad8e95f9167e44afcc4fbf2"
+    },
+    {
+      "title": "独家解读丨阿里整合Agent背后：大厂开始重新分配AI资源",
+      "description": "<p style=\"text-align: justify;\"><strong>“一匹马、一头骡子、一只猴子，怎么能叫赛马？”</strong></p><p style=\"text-align: justify;\">当外界将阿里整合QoderWork、悟空、MuleRun三款Agent产品，解读为“结束内部赛马”时，一位接近阿里的业内人士沈默给出了不同判断。</p><p style=\"text-align: justify;\">在他看来，外界的关注点有些偏了。</p><p style=\"text",
+      "url": "https://www.leiphone.com/category/industrynews/yj0yPPz94SYfHGVE.html",
+      "publishedAt": "Thu, 23 Jul 2026 13:06:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "410a2a05b8211c6ec5cb99b52b15a230"
+    },
+    {
+      "title": "具身智能数据需求暴涨千倍，这家“数据炼油厂”刚拿到近亿元融资",
+      "description": "<p style=\"text-align: left; margin-top: 0px; margin-bottom: 0px;\"><span>大模型的军备竞赛正在进入一个新阶段。当算法架构趋于收敛、算力供给逐渐充沛，一个更隐蔽却更致命的瓶颈浮出水面——高质量数据的匮乏。</span></p><p style=\"text-align: left; margin-top: 0; margin-bottom: 0;\"><span style=\"font-family: '宋体'; font-size",
+      "url": "https://www.leiphone.com/category/ai/XRwFfhV1xdAQfrac.html",
+      "publishedAt": "Thu, 23 Jul 2026 12:38:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "4a11c16db52fd8ea68f9308d1c4636f1"
+    },
+    {
+      "title": "白宫下场亲自「围攻」Kimi K3，评论区全员唱反调？",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260723/6a61995f916f6.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/NRMCQhmYyxQ6TSP0.html",
+      "publishedAt": "Thu, 23 Jul 2026 12:33:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "ca785df7f69810ca84362115ec794980"
+    },
+    {
+      "title": "成本直降 90%！原来 Kimi K3 叠 Claude Code 还能这么玩",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260723/6a6197e04e47f.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/szzIgYjmN2yUvZPk.html",
+      "publishedAt": "Thu, 23 Jul 2026 12:30:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "88b19b86ead4caad2e2cab66b805d80c"
+    },
+    {
+      "title": "刚刚，智谱建了一座只用国产芯片的数据中心",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260723/6a619767f0393.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/eeqB5fcXqPBzGQhV.html",
+      "publishedAt": "Thu, 23 Jul 2026 12:25:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "99fc0ade9d243d51634c2738eb09fafc"
+    },
+    {
+      "title": "Kimi K3 已提前亮相？神秘模型「Kivine」现身，百万上下文能力惊艳全球",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260723/6a6196a1b4be5.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/JdrD0eOAqnAiX1s7.html",
+      "publishedAt": "Thu, 23 Jul 2026 12:22:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "d934cb5fd9ccb34aa97f30532a2b07c2"
+    }
+  ]
+}
