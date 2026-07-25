@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-07-25T10:26:37.250903",
+  "count": 20,
+  "news": [
+    {
+      "title": "Intel’s Rosy Results Still Leave Questions About Customers",
+      "description": "Intel Corp.’s upbeat quarterly report, which handily beat Wall Street estimates, still left a major question: how soon the chipmaker will line up outside customers for its factories.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
+      "publishedAt": "Thu, 23 Jul 2026 20:01:43 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "29793dd0a8a844951e84eeedb67a915b"
+    },
+    {
+      "title": "花几百万买的H100在「摸鱼」？英伟达：别怪显卡，是你的模型「长得丑」",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260723/6a61dfc41ce38.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/yanxishe/wFiCjuoj6zqG5WZ7.html",
+      "publishedAt": "Thu, 23 Jul 2026 17:34:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "ebb573332b0e097f2b3ae9e0094414bf"
+    },
+    {
+      "title": "快速查账！领100美元免费积分，反被Claude偷设陷阱疯狂扣费",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260723/6a61decaac8c1.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/yanxishe/QYg8NFOX1UYDWoXQ.html",
+      "publishedAt": "Thu, 23 Jul 2026 17:30:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "91c533e60cfae76e3dfc166bd2f4f3f2"
+    },
+    {
+      "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
+      "description": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to JPMorgan Asset Management.",
+      "url": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
+      "publishedAt": "Thu, 23 Jul 2026 17:10:06 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "13fc1c4cd62dc3c2fe07f968572b6870"
+    },
+    {
+      "title": "As Honda CR-V leads U.S. sales, automaker teases new American-built pickup truck",
+      "description": "The future of the Ridgeline midsize pickup truck had been in flux, and the automaker said there will be a temporary production stoppage for the truck.",
+      "url": "https://www.cnbc.com/2026/07/23/honda-american-built-pickup-truck.html",
+      "publishedAt": "Thu, 23 Jul 2026 17:02:35 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "95395943d517e6b1c5d9e3dcac2520e5"
+    },
+    {
+      "title": "阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务",
+      "description": "<p>7月23日消息，阿里真武M890超节点已成功适配Qwen3.8，并上线阿里云百炼平台提供模型推理服务，这是国内首个成功运行超2万亿参数大模型的超节点。</p><p>&nbsp;</p><p>Qwen3.8是阿里最新旗舰模型，参数规模高达2.4万亿，跑通这一规模的模型需要将参数分散到几十张甚至上百张高速互联的GPU卡，让万亿参数“跑得又稳又快”。然而，普通AI集群因通信带宽的局限，无法满足高吞吐、低延迟、高并发的需求。</p><p>&nbsp;</p><p>真武M890是平头哥新一代训推一体",
+      "url": "https://www.leiphone.com/category/industrynews/QPSOggSAs8nAZ4Uc.html",
+      "publishedAt": "Thu, 23 Jul 2026 14:30:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "2450ba6c39186742fc66166863beaaf3"
+    },
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "AI 3D产业路线首次公开讨论：Hi3D闭门会释放哪些新趋势？",
+      "description": "<p style=\"text-align: left; margin-top: 16pt; margin-bottom: 6pt;\"><span>深圳，7月23日——Hi3D实体创意生态闭门会在深圳举行。围绕“探索AI驱动的下一代可制造生态”，Hi3D与3D打印硬件、制造、创作者及Maker领域嘉宾共同探讨AI 3D从数字生成走向实体制造的新趋势。</span></p><p style=\"text-align: left; margin-top: 6pt; margin-bottom: 6pt;",
+      "url": "https://www.leiphone.com/category/weiwu/VqgEeeerbpYbQcUF.html",
+      "publishedAt": "Sat, 25 Jul 2026 13:09:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "1244ed96e6c8d567d121271e4778cacb"
+    },
+    {
+      "title": "OpenAI 加入，签署支持 AI 开源模型发展公开信组织增至 35 家",
+      "description": "<p>IT之家 7 月 25 日消息，微软、英伟达、IBM、Meta 等 25 家美国科技公司昨日联名<a href=\"https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/\" target=\"_blank\">签署公开信</a>，呼吁开放权重 AI 模型。</p><p>声明表示，开放权重模型指任何人都可以下载、检查、修改并在自有基础设施上运行的人工智能模型，这类模型有助于扩大创新机会、加强竞争、降低",
+      "url": "https://www.ithome.com/0/981/554.htm",
+      "publishedAt": "Sat, 25 Jul 2026 10:20:50 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "83c489c6ca2af63b1a3c27632e279a67"
+    },
+    {
+      "title": "OpenAI 突发服务器故障，ChatGPT、Codex 出现宕机",
+      "description": "<p>IT之家 7 月 25 日消息，今日有大量网友反馈 OpenAI 突发服务器故障，ChatGPT、Codex 等均出现宕机情况。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/a97065eb-e167-4d8a-8412-1bedd1f25230.jpg?x-bce-process=image/format,f_aut",
+      "url": "https://www.ithome.com/0/981/552.htm",
+      "publishedAt": "Sat, 25 Jul 2026 09:50:19 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "10804593373b5ae8c400c168ad155f15"
+    },
+    {
+      "title": "华硕灵耀 14 Air 2026 笔记本新品预约：锐龙 AI 7 H 445 处理器，9999 元",
+      "description": "<p>IT之家 7 月 25 日消息，华硕灵耀 14 Air 2026 笔记本现已上架京东并开启预约，定价为 9999 元，7 月 29 日开售。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/13c3b80e-f26f-4deb-a6a9-648f1a35ff2f.png?x-bce-process=image/format",
+      "url": "https://www.ithome.com/0/981/549.htm",
+      "publishedAt": "Sat, 25 Jul 2026 09:30:56 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "271e60fa977272633e744a016bf5a349"
+    },
+    {
+      "title": "阿里：Qoder Mobile 移动端 App 安卓、iOS、鸿蒙三大版本同步上线，功能层面完全一致",
+      "description": "<p>IT之家 7 月 25 日消息，阿里官方今日宣布，Qoder Mobile 移动端 App 正式发布上新，<strong>iOS、Android、鸿蒙三大版本同步上线</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/1fedd689-4b6b-4bbf-b6f2-1287c48338fd.jpg\" />",
+      "url": "https://www.ithome.com/0/981/548.htm",
+      "publishedAt": "Sat, 25 Jul 2026 09:10:35 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "68584a9f04145dd3b4e4d8b36561b8c9"
+    },
+    {
+      "title": "外星人“AW3426DWM”34 英寸带鱼屏开售：240Hz 刷新率，2999 元",
+      "description": "<p>IT之家 7 月 25 日消息，外星人 AW3426DWM 电竞显示器于今日正式发布，定价为 2999 元。</p><p>IT之家从商品页面获悉，这款显示器采用 34 英寸超宽幅曲面屏设计，1500R 曲率搭配 21:9 的超宽画幅与 <strong>3440 × 1440</strong> WQHD 高清分辨率，将广阔视野与细腻画质融为一体，进一步延伸沉浸观感。</p><p style=\"text-align: center;\"><img alt=\"34英寸超宽幅曲面屏展示\" src=\"",
+      "url": "https://www.ithome.com/0/981/547.htm",
+      "publishedAt": "Sat, 25 Jul 2026 09:07:14 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "176a239a9e80a8532ffebfc2038ae938"
+    },
+    {
+      "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
+      "description": "Nvidia is aggressively securing supply of high-bandwidth memory, an essential component for its GPUs and systems.",
+      "url": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
+      "publishedAt": "Sat, 25 Jul 2026 08:49:00 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "73233f4b6da6265621e6cb869a732052"
+    },
+    {
+      "title": "联想拯救者显示器 27-1r 开售：原生 280Hz 刷新率、IPS 面板，789 元",
+      "description": "<p>IT之家 7 月 25 日消息，联想新款拯救者电竞显示器 LEGION 27-1r 于今日开售，定价为 789 元。</p><p style=\"text-align: center;\"><img alt=\"联想拯救者 LEGION 27-1r 电竞显示器宣传图\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/fde44140-ab26-44d4-9faf-3c944a35e4bc.png?x-bce-process=image/for",
+      "url": "https://www.ithome.com/0/981/543.htm",
+      "publishedAt": "Sat, 25 Jul 2026 08:47:55 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "5eedb02e2a98976d458c624e3171f5d5"
+    },
+    {
+      "title": "雷鸟推出“25Q6A Pro”24.5 英寸 2K 360Hz Mini LED 显示器，1649 元",
+      "description": "<p>IT之家 7 月 25 日消息，雷鸟现已推出型号为“25Q6A Pro”的 24.5 英寸 2K 360Hz Mini LED 显示器，将于 7 月 31 日正式开售，<strong>定价 1649 元</strong>，补贴到手价显示为 13XX 元暂未公布。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/623ecd",
+      "url": "https://www.ithome.com/0/981/541.htm",
+      "publishedAt": "Sat, 25 Jul 2026 08:30:43 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "c1c63a07044a18685da9eff9dd931ce9"
+    },
+    {
+      "title": "诺兰导演新作《奥德赛》8 月 1 日-2 日北上广深四城点映，8 月 14 日正式上映",
+      "description": "<p>IT之家 7 月 25 日消息，环球影业宣布，电影《奥德赛》 中国内地超前点映即将重磅开启。8 月 1 日-2 日，<strong>北京、上海、广州、深圳四城</strong>，指定影院 IMAX 与 CINITY 独家限时上映。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/45223fa5-926a-48fd-946",
+      "url": "https://www.ithome.com/0/981/540.htm",
+      "publishedAt": "Sat, 25 Jul 2026 08:25:27 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "8d1a65938537419bcb518b29b459b410"
+    },
+    {
+      "title": "绿联推出 100W 小冰片氮化镓充电器：2C1A，189 元",
+      "description": "<p>IT之家 7 月 25 日消息，绿联现已推出 100W 小冰片氮化镓充电器，<strong>定价 189 元</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/a06b6c51-8b7f-45df-9198-c060094eee59.jpg\" /></p><p>这款充电器整体尺寸为 90.2×55.6×18.2mm，采用可折叠插脚设计。</p",
+      "url": "https://www.ithome.com/0/981/539.htm",
+      "publishedAt": "Sat, 25 Jul 2026 08:04:40 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "dd3f8d44551ba6d1773b06a0131a7043"
+    }
+  ]
+}
