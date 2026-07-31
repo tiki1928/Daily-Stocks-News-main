@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-07-31T11:28:46.590816",
+  "count": 20,
+  "news": [
+    {
+      "title": "能干能信能打的瓴羊AI员工全面上岗，帮企业问AI要增长",
+      "description": "<p>7月29日，瓴羊AgentOne上的四名AI员工正式上岗，分别覆盖AI销售、AI客服、AI运营和AI营销四个场景，企业也可以根据自身业务需求，基于AgentOne的能力，和瓴羊FDE（前沿部署工程师）团队一起打造专属场景的X员工。</p><p>“瓴羊AgentOne以业务效果为导向，以企业数据为基座，以岗位标杆为预设，真正帮助企业在AI时代获得增长。这其中，Data、Agent和FDE缺一不可，Data让AI‘能信’，Agent让AI‘能干’，FDE贯穿其中，三者结合最终成为‘能打’的企业",
+      "url": "https://www.leiphone.com/category/industrynews/P0iMC7Qonsem1Q0u.html",
+      "publishedAt": "Wed, 29 Jul 2026 17:20:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "8d4a8e623c5f5f830933ce8342821ddb"
+    },
+    {
+      "title": "隼瞻创始人曾轶：AI推倒芯片设计壁垒，我们要做半导体行业的「Copilot」",
+      "description": "<p>曾轶办公室里的那壶茶续了一遍又一遍，谈话就是这么松松散散地展开的——很典型的广东式会客，不必正襟危坐，事情却也谈得不含糊。</p><p>他讲话带着潮汕口音的余韵，语速不快，总是笑着把一句话说完。笑的时候眼睛眯起来，人也跟着往前倾一点，很容易让人放松下来。</p><p>聊AI、聊RISC-V，话题落到行业里，他有一种克制不住的兴奋。</p><p>过去两三年，RISC-V在国内的势头比他预想的还要快，端侧和IoT已经全面铺开，尤其在深圳和大湾区，大量公司正在从ARM往RISC-V切。更让他兴奋",
+      "url": "https://www.leiphone.com/category/chips/6Ce1BxLj2chEdoJD.html",
+      "publishedAt": "Wed, 29 Jul 2026 15:54:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "544fabf55608aa2b98aba51dfcffecf4"
+    },
+    {
+      "title": "端侧智能体不再只缺算力，个人AI还差什么？",
+      "description": "<p style=\"margin-top: 0px; margin-bottom: 0px; line-height: 2em;\"><span>进入AI推理时代，一个核心的问题是AI如何大规模落地？这就不可避免地要回答云端AI和端侧AI的协同问题。</span></p><p style=\"text-align: left; margin-top: 5pt; margin-bottom: 5pt; line-height: 2em;\"><span><span style=\"font-size: 1",
+      "url": "https://www.leiphone.com/category/chips/h6gLPiJ3peF32xG5.html",
+      "publishedAt": "Wed, 29 Jul 2026 15:22:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "57fdbd3d61656dc0caa0c2d88c137176"
+    },
+    {
+      "title": "前安克CMO王时远创业一周年：App迭代超50次，首款AI记忆手环量产在即",
+      "description": "<section style=\"margin-bottom: 16px;\"><span></span></section><section style=\"margin: 0px; padding: 0px; letter-spacing: 0.544px;\"><section><section><section style=\"margin: 3px auto 0px; padding: 0px; width: 482.156px; background-color: rgb(244, 244, ",
+      "url": "https://www.leiphone.com/category/weiwu/lBpI3PHh8yeNj6uN.html",
+      "publishedAt": "Wed, 29 Jul 2026 14:42:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "a1fcb79c05954e573ba2689aba07f894"
+    },
+    {
+      "title": "Korea Plans $14 Billion for Wealth Fund’s AI Bets After Rout",
+      "description": "South Korea plans to inject 20 trillion won ($13.9 billion) into its sovereign wealth fund for strategic investments in AI, data centers and infrastructure, expanding its mandate to include domestic assets for the first time following a rout in techn",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/korea-plans-14-billion-for-wealth-fund-s-ai-bets-after-rout",
+      "publishedAt": "Thu, 30 Jul 2026 23:30:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "5e4137bcfe8fe8133b82ac8cef78827f"
+    },
+    {
+      "title": "Anthropic AI Models Hacked Three Organizations During Tests",
+      "description": "Anthropic PBC said its artificial intelligence models breached three organizations during cybersecurity tests that went awry, a little more than a week after its chief rival, OpenAI, disclosed a similar incident.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/anthropic-s-ai-models-hacked-three-organizations-during-tests",
+      "publishedAt": "Thu, 30 Jul 2026 23:00:26 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "cbf6a7e3df9e5759fe4aaf1e73b65d78"
+    },
+    {
+      "title": "Reddit CEO says Google's AI Overviews can't replace '10 blue links' for referral traffic",
+      "description": "Reddit CEO Steve Huffman said his company has to find ways to work around changes at Google, which is delivering less traffic than in the past.",
+      "url": "https://www.cnbc.com/2026/07/30/reddit-ceo-says-googles-ai-overviews-cant-replace-10-blue-links-.html",
+      "publishedAt": "Thu, 30 Jul 2026 22:53:05 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "65b50f818cfbaf625d3547b78d11baf0"
+    },
+    {
+      "title": "IBM CEO says quantum computing will have a 'measurable impact' on earnings by 2028 or 2029",
+      "description": "IBM CEO Arvind Krishna said the company's investments in quantum computing should begin to have \"a measurable impact\" on revenue and earnings by 2028 or 2029.",
+      "url": "https://www.cnbc.com/2026/07/30/ibm-ceo-quantum-computing-measurable-impact-earnings-2028-2029.html",
+      "publishedAt": "Thu, 30 Jul 2026 22:46:32 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "85322157a39b8f0614db00d73b6b1ce0"
+    },
+    {
+      "title": "Nexus Data Centers in advanced talks to secure $15B for Google-backed Anthropic data center",
+      "description": "Morgan Stanley is the lead banker engaging in advanced talks to lend $15 billion to Nexus Data Centers, CNBC confirmed.",
+      "url": "https://www.cnbc.com/2026/07/30/nexus-data-centers-in-advanced-talks-to-secure-15b-for-google-backed-anthropic-data-center.html",
+      "publishedAt": "Thu, 30 Jul 2026 21:50:17 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "102edd61d88d9a2af3df2b5342dabda9"
+    },
+    {
+      "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
+      "description": "Leopold Aschenbrenner's hedge fund has sold all of its public stock holdings, according to people familiar with the matter.",
+      "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
+      "publishedAt": "Thu, 30 Jul 2026 21:29:19 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "8c0e6aa4bb3b419d9f52f9dbfa720f0c"
+    },
+    {
+      "title": "'The Odyssey' extends stay in 70 mm Imax theaters as shows sell out weeks in advance",
+      "description": "Universal and Imax have extended the availability of 70 mm screenings of Christopher Nolan's retelling of Homer's epic into mid-September.",
+      "url": "https://www.cnbc.com/2026/07/30/the-odyssey-70mm-imax-run-extended-until-september.html",
+      "publishedAt": "Thu, 30 Jul 2026 20:51:02 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "8d78b99fa183f87ceb959ec6ba1e09bc"
+    },
+    {
+      "title": "Apple Slides After Supply Shortages Hurt Sales Forecast",
+      "description": "Apple Inc. tumbled in late trading after component shortages weighed on the company’s sales forecast, signaling that industrywide supply constraints are taking a bigger toll than anticipated.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/apple-s-sales-disappoint-in-china-unit-services-business",
+      "publishedAt": "Thu, 30 Jul 2026 20:40:42 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "4d4ac996302701dad1d3c06d8e02787a"
+    },
+    {
+      "title": "Amazon Gains After Fifth Quarter of Cloud Sales Growth",
+      "description": "Amazon.com Inc. shares jumped after the company reported cloud-computing revenue accelerated for a fifth straight quarter, easing investors’ concerns that it won’t produce a return on huge expenditures to meet the booming demand for artificial intell",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-reports-fifth-straight-quarter-of-cloud-sales-growth",
+      "publishedAt": "Thu, 30 Jul 2026 20:16:21 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "1b477e6f51adbad5ffe5f021977585b9"
+    },
+    {
+      "title": "GPT-5.6 SOL 暴走失控，GLM5.2 紧急救场，HF 揭秘大模型攻防战技术细节",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260730/6a6b190f008d0.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/Jz79dkQ6b4MZOQzB.html",
+      "publishedAt": "Thu, 30 Jul 2026 17:28:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "267085fa3a0769b7adf25c083b7f7acd"
+    },
+    {
+      "title": "腾讯云发布智能数据湖计算 AI DLC，打通数据处理到 Agent 应用全流程",
+      "description": "<p>从数据处理到&nbsp;Agent 的链路正在被大幅压缩。</p><p>7月30日，记者获悉，腾讯云正式发布智能数据湖计算平台AI DLC，面向自动驾驶、具身智能、Agent等AI场景，提供覆盖数据处理、训练、推理到 Agent 应用的一体化能力。以腾讯自研的 WorkBuddy 为例，接入 AI DLC 后，其处理同一批数据的端到端时间缩短80%，完成相同任务所需算力约为此前的五分之一。</p><p><img src=\"https://static.leiphone.com/upload",
+      "url": "https://www.leiphone.com/category/industrynews/TQUNoClidGdk8snL.html",
+      "publishedAt": "Thu, 30 Jul 2026 14:56:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "77f61c0645b2732d730e4465da3562fa"
+    },
+    {
+      "title": "WorkBuddy重大升级：「人机双写」上线，AI时代的Office来了！",
+      "description": "<p>7月30日，腾讯WorkBuddy发布重大版本更新(V5.3.5)：联合腾讯文档，正式推出面向Agent时代的“人机双写”协同编辑能力。新版本支持用户在打开Word、Excel、PPT、Markdown等格式文档时，直接与AI在同一文件内共同创作、修改并实时协同，着力解决“人机混编”团队多角色协作等痛点。</p><p>从传统Office的“人与文件交互”，到在线文档的“人与人协同”，再到AI时代的“人与AI共同完成任务”，WorkBuddy该功能的上线，让AI第一次从办公协同的“外挂”变成",
+      "url": "https://www.leiphone.com/category/industrynews/8MKR072E5thjAEJQ.html",
+      "publishedAt": "Thu, 30 Jul 2026 12:25:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "67b991bf30b213858de93ed1f8de94be"
+    },
+    {
+      "title": "德塔智能完成近5亿元天使++轮融资，成立半年融资六轮",
+      "description": "<p style=\"text-align: left; margin-top: 16pt; margin-bottom: 6pt;\"><span style=\"font-family: Arial; font-size: 11pt;\">人形机器人基础模型公司德塔智能（Delta Intelligence）近日完成近5亿元天使++轮融资，本轮投资方包括多家上市公司产业方和头部财务投资机构。</span></p><p style=\"text-align: left; margin-top: 6pt;",
+      "url": "https://www.leiphone.com/category/ai/LwA3PaasIacDAQS6.html",
+      "publishedAt": "Thu, 30 Jul 2026 11:36:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "62689f4b72a8f949801ebaeb61008bc2"
+    },
+    {
+      "title": "字节跳动To B战略升级：豆包、飞书、火山引擎组织调整，聚焦AI企业服务",
+      "description": "<p>7月30日，字节跳动启动面向 AI 业务的组织调整，加强豆包、飞书、火山引擎在企业生产力场景的产品与服务协同。</p><p>根据调整方案，飞书产品团队与豆包产品团队将整合，成立新的豆包产品团队，由豆包负责人赵祺负责，飞书负责人谢欣向赵祺汇报。GTM （市场、销售、客户服务）体系方面，飞书GTM团队将与火山引擎团队整合，成立新的 ToB GTM 组织“创造力服务平台（Creativity Service Platform）”，整体负责字节 MaaS和SaaS等云服务的市场、销售和客户服务，由",
+      "url": "https://www.leiphone.com/category/industrynews/xyLgZqICAgWW69M0.html",
+      "publishedAt": "Thu, 30 Jul 2026 11:24:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "017d4d0fdeb8d2d918e15924a0a051a6"
+    },
+    {
+      "title": "越骂越赚？罗技上季度在中国赚翻了，曾骂用户像狗；智驾「小蓝灯」将被禁用！相关国标已启动制修订；曝月之暗面完成超35亿美元F轮融资",
+      "description": "<section></section><section><section><section><section><section><section><section></section><section><section style=\"text-align: center;\"><span style=\"font-size: 24px;\"><strong>要闻提示</strong></span></section><section><br /></section></section></sectio",
+      "url": "https://www.leiphone.com/category/zaobao/e48WOG7kaZV3MfXp.html",
+      "publishedAt": "Thu, 30 Jul 2026 08:33:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "80e586de06195184453456583d842b8c"
+    },
+    {
+      "title": "独家丨曾深耕百度17年，喻友平卸任中关村科金总裁，投身物理AI",
+      "description": "<section><section><section><section><section></section><section><section><section><section></section></section></section><section><span><br /></span></section><p style=\"text-align: justify; margin-bottom: 24px; line-height: 1.75em;\"><span><span style",
+      "url": "https://www.leiphone.com/category/industrynews/gfy56kS9UxrPxRsx.html",
+      "publishedAt": "Thu, 30 Jul 2026 07:22:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "91b8fa777dfbaf39e405afa869adcf1b"
+    }
+  ]
+}
