@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-08-01T10:39:41.805368",
+  "count": 20,
+  "news": [
+    {
+      "title": "CVC Marathon on Hyperscalers’ Credit Risks",
+      "description": "Bruce Richards, Managing Partner and Head of CVC Marathon discusses the current state of credit markets and the cost of capital. With $80 billion in assets under management and extensive Wall Street experience, Richards provided valuable perspectives",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-30/marathon-asset-management-on-hyperscalers-credit-risks-video",
+      "publishedAt": "Thu, 30 Jul 2026 22:10:17 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "b1183aa25c93ed6d861be1eaf1ada294"
+    },
+    {
+      "title": "Apple Suffers Worst Rout Since 2025 on Disappointing Outlook",
+      "description": "Apple Inc. suffered its worst stock decline in 16 months after component shortages weighed on the company’s sales forecast, signaling that industrywide supply constraints are taking a bigger toll than anticipated.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/apple-s-sales-disappoint-in-china-unit-services-business",
+      "publishedAt": "Thu, 30 Jul 2026 20:40:42 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "9d93b9329454d12a4c81fe5c30ccf98d"
+    },
+    {
+      "title": "Roblox Shares Slump on Safety-Measures Impact, Weak Forecast",
+      "description": "Roblox Corp. shares tumbled nearly 27%, their largest single-day decline ever, after the gaming company reported second-quarter daily active users that missed analysts’ expectations, reflecting the ongoing impact of new child-safety measures.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/roblox-users-miss-estimates-reflecting-impact-of-safety-measures",
+      "publishedAt": "Thu, 30 Jul 2026 20:20:41 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "3cad20f9974f0ee0a810df9d25e96667"
+    },
+    {
+      "title": "Amazon Shares Soar Most Since 2012 on Cloud Sales Growth",
+      "description": "Amazon.com Inc. shares surged the most since 2012 after the company reported accelerating cloud-computing revenue, easing investors’ concerns that it won’t produce a return on huge expenditures to meet the booming demand for artificial intelligence.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-reports-fifth-straight-quarter-of-cloud-sales-growth",
+      "publishedAt": "Thu, 30 Jul 2026 20:16:21 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "9b5b9665cea435fd14d96874f5c24708"
+    },
+    {
+      "title": "GPT-5.6 SOL 暴走失控，GLM5.2 紧急救场，HF 揭秘大模型攻防战技术细节",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260730/6a6b190f008d0.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/Jz79dkQ6b4MZOQzB.html",
+      "publishedAt": "Thu, 30 Jul 2026 17:28:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "267085fa3a0769b7adf25c083b7f7acd"
+    },
+    {
+      "title": "腾讯云发布智能数据湖计算 AI DLC，打通数据处理到 Agent 应用全流程",
+      "description": "<p>从数据处理到&nbsp;Agent 的链路正在被大幅压缩。</p><p>7月30日，记者获悉，腾讯云正式发布智能数据湖计算平台AI DLC，面向自动驾驶、具身智能、Agent等AI场景，提供覆盖数据处理、训练、推理到 Agent 应用的一体化能力。以腾讯自研的 WorkBuddy 为例，接入 AI DLC 后，其处理同一批数据的端到端时间缩短80%，完成相同任务所需算力约为此前的五分之一。</p><p><img src=\"https://static.leiphone.com/upload",
+      "url": "https://www.leiphone.com/category/industrynews/TQUNoClidGdk8snL.html",
+      "publishedAt": "Thu, 30 Jul 2026 14:56:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "77f61c0645b2732d730e4465da3562fa"
+    },
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes",
+      "description": "The latest attacks come amid U.S. media reports that U.S. President Donald Trump is preparing a fresh round of strikes against Iran.",
+      "url": "https://www.cnbc.com/2026/08/01/tankers-near-oman-come-under-fire.html",
+      "publishedAt": "Sat, 01 Aug 2026 10:26:41 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "3505caa0548cfe90b8bc34cafaaf031a"
+    },
+    {
+      "title": "达尔优 FLEX87 三模机械键盘预售：全新“空悬 Gasket”结构，259 元起",
+      "description": "<p>IT之家 8 月 1 日消息，达尔优宣布 FLEX87 机械键盘今日开启预售，将于 8 月 5 日 20:00 正式开售，<strong>到手价 259 元起</strong>：</p><ul class=\" list-paddingleft-2\"><li><p>梦遇 PRO 轴：259 元</p></li><li><p>天空轴皓空：279 元</p></li><li><p>碳影轴：289 元</p></li></ul><p style=\"text-align: center;\"><img",
+      "url": "https://www.ithome.com/0/984/579.htm",
+      "publishedAt": "Sat, 01 Aug 2026 10:16:19 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "432b993a2c5a97a0750dbeaf2e2c05ee"
+    },
+    {
+      "title": "微信鸿蒙版 App 获 8.0.20.36 邀测升级",
+      "description": "<p>IT之家 8 月 1 日消息，微信鸿蒙版 App 今日开启了 <strong>8.0.20.36</strong> (8393764) 版本邀测升级（需收到短信通知后点击链接跳转安装，未收到短信需继续等待），测试时间则显示为 2026/7/31-2026/8/30。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/8acc3f06-e329-4f4d-9367",
+      "url": "https://www.ithome.com/0/984/577.htm",
+      "publishedAt": "Sat, 01 Aug 2026 09:51:42 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "6093940e5b39696bd81447b8351645cf"
+    },
+    {
+      "title": "REDMI K100 Pro Max 官宣小米首款 185Hz 电竞屏，旗舰触控芯片",
+      "description": "<p>IT之家 8 月 1 日消息，小米今日公布 REDMI K100 Pro Max 部分性能配置，新机将于 8 月 11 日晚 7 点发布。</p><p>据介绍，该机搭载<strong>小米首款 185Hz 高刷电竞屏</strong>，原生适配 30+ 热门游戏；第五代骁龙 8 至尊版 +AI 独显芯片 D2，支持游戏超帧超分并发；旗舰触控芯片，采样率升级至 480Hz；游戏专属天线，时延大幅降低；Sound by Bose 游戏调音，枪声、脚步增强。</p><p style=\"text-",
+      "url": "https://www.ithome.com/0/984/574.htm",
+      "publishedAt": "Sat, 01 Aug 2026 09:38:13 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "e452180d70374d99c980b586c7818e06"
+    },
+    {
+      "title": "人形机器人家政清洁服务走入现实，每小时 30 美元",
+      "description": "<p>IT之家 8 月 1 日消息，据 abc7news 昨日报道，一家位于美国旧金山的机器人初创公司已开始使用人形机器人提供家政清洁服务。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" href=\"https://weibo.com/7392910023/Rbf1jonqE\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/45fbec8b-5a0",
+      "url": "https://www.ithome.com/0/984/573.htm",
+      "publishedAt": "Sat, 01 Aug 2026 09:36:50 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "fa83bb6d631610e378dc5bd51f24d88d"
+    },
+    {
+      "title": "荣耀 Play11 Pro 手机上架：7000mAh 电池、8GB+256GB 售价 2099 元",
+      "description": "<p>IT之家 8 月 1 日消息，荣耀 Play11 Pro 手机现已上架电商平台并开始预约，目前仅有 8GB+256GB 一个版本可选，<strong>售价 2099 元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/c206bb9e-8eda-4fab-b243-6d0f8e693f74.jpg\" /",
+      "url": "https://www.ithome.com/0/984/572.htm",
+      "publishedAt": "Sat, 01 Aug 2026 09:36:30 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "c1c94d999dc0d0392da6c83054f96d5a"
+    },
+    {
+      "title": "1 人扫码可 6 人同行，江苏无锡地铁推出“同行票”功能",
+      "description": "<p>IT之家 8 月 1 日消息，据央视新闻报道，江苏无锡地铁今日起推出<strong>“同行票”功能</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/be317c2e-0803-4833-8a40-a766f9635fee.jpg\" /></p><p>IT之家测试，乘客在支付宝 App 上搜索“无锡地铁”",
+      "url": "https://www.ithome.com/0/984/571.htm",
+      "publishedAt": "Sat, 01 Aug 2026 09:21:24 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "c95b35a86628146347224479677a69e4"
+    },
+    {
+      "title": "2027 款奇瑞艾瑞泽 8 PRO 将于 8 月 10 日上市：猎鹰 500 辅助驾驶、1.6T/2.0T 动力",
+      "description": "<p>IT之家 8 月 1 日消息，2027 款奇瑞艾瑞泽 8 PRO 将于 8 月 10 日上市，该车搭载猎鹰 500 辅助驾驶、1.6T/2.0T 动力。作为参考，现款艾瑞泽 8 PRO 售价区间为 11.69-14.99 万元。</p><p style=\"text-align: center;\"><img class=\"lazy\" src=\"https://img.ithome.com/newsuploadfiles/2026/7/c7dfbab3-560a-4b23-9fea-9f20d",
+      "url": "https://www.ithome.com/0/984/567.htm",
+      "publishedAt": "Sat, 01 Aug 2026 09:08:46 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "534ee4f7fa6a5a67f8c3366c4b8d65bf"
+    },
+    {
+      "title": "大我 Bigme B1051 Ultra 10.3 英寸彩墨屏 AI 办公本预售，6+128GB 版到手价 3299 元",
+      "description": "<p>IT之家 8 月 1 日消息，大我 Bigme B1051 Ultra 彩墨屏 AI 办公本今日开始预售，<strong>6+128GB 版本预售到手价 3299 元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/68526637-3263-4bfd-9079-828f808d0633.jpg?x-b",
+      "url": "https://www.ithome.com/0/984/565.htm",
+      "publishedAt": "Sat, 01 Aug 2026 08:58:59 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "1a88a7354c116c8abff124b6b4203ef0"
+    },
+    {
+      "title": "小米穿戴 7 月更新公布：Watch S4 上线微信语音转文字发送消息等",
+      "description": "<p>IT之家 8 月 1 日消息，昨日，小米集团手机部副总裁、可穿戴部总经理张雷分享了 7 月的更新内容。据介绍，Xiaomi Watch S4 系列、Watch S5 46mm 和小米手环 10 等设备该月都陆续推送 OTA 更新，小米开放式耳机也上线了英语口语陪练和双向通话翻译。</p><h2>IT之家整理如下：</h2><h3>Xiaomi Watch S4 41mm</h3><ul class=\" list-paddingleft-2\"><li><p>微信新版本上线，新增语音转文字发送",
+      "url": "https://www.ithome.com/0/984/563.htm",
+      "publishedAt": "Sat, 01 Aug 2026 08:48:39 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "1d858ab620df33e1060faa99d8ada587"
+    },
+    {
+      "title": "一汽红旗全新一代天工 08 上市，670 Max 限时权益价 17.99 万元",
+      "description": "<p>IT之家 8 月 1 日消息，今天下午，一汽红旗全新一代天工 08 上市，只有 670 Max 一款配置，<strong>限时权益价 17.99 万元</strong>。</p><p style=\"text-align: center;\"><img class=\"not-source\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/d1fea27f-3433-464b-86ea-900c9654845c.jpg?x-bce-proce",
+      "url": "https://www.ithome.com/0/984/560.htm",
+      "publishedAt": "Sat, 01 Aug 2026 08:39:23 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "dbbad2f5021e6be8915e34d941265ea7"
+    }
+  ]
+}
