@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-08-06T11:22:38.902997",
+  "count": 20,
+  "news": [
+    {
+      "title": "Jim Cramer says investors should consider buying SpaceX for their kids",
+      "description": "CNBC’s Jim Cramer said investors should view SpaceX as a multigenerational investment, whose biggest opportunities may take decades to fully materialize.",
+      "url": "https://www.cnbc.com/2026/08/05/jim-cramer-investors-should-consider-buying-spacex-kids.html",
+      "publishedAt": "Wed, 05 Aug 2026 23:26:03 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "0a79d3b3242142cdfbda6998236bc29e"
+    },
+    {
+      "title": "Hollywood is cranking out billion-dollar movies again. 'Spider-Man' just joined the ranks",
+      "description": "Box office analysts say the resurgence of billion-dollar releases bodes well for a film industry that's still chasing pre-Covid levels, even with higher prices.",
+      "url": "https://www.cnbc.com/2026/08/05/hollywood-2026-billion-dollar-movies.html",
+      "publishedAt": "Wed, 05 Aug 2026 21:55:46 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "fec883dfe6266f98c13ae0c960cef8d7"
+    },
+    {
+      "title": "SpaceX ramps up Tesla Megapack purchases in Q2 to power its AI data centers",
+      "description": "SpaceX is using Tesla's big Megapack backup batteries to help power its Colossus AI data centers in Greater Memphis.",
+      "url": "https://www.cnbc.com/2026/08/05/spacex-tesla-megapack-ai-data-centers.html",
+      "publishedAt": "Wed, 05 Aug 2026 21:32:34 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "e190a0d86e605f6800d76b9cf89d8a00"
+    },
+    {
+      "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
+      "description": "Meta released its first coding agent called Muse Code as the company ramps up its investments in AI models and services to try and take on Anthropic and OpenAI.",
+      "url": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
+      "publishedAt": "Wed, 05 Aug 2026 21:03:12 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "e3dd53cbc7a0169b6afc64dac8fb3d89"
+    },
+    {
+      "title": "MiniMax H3 视频模型登顶开源社区第一，定义视频模型领域“斩杀线”",
+      "description": "<p>本周，MiniMax 正式开源新一代通用多模态生成模型 MiniMax H3，在 Artificial Analysis 视频编辑评测榜、Arena 图生视频排行榜中均位列全球第一，并获得 Stable Diffusion 创始人 Emad Mostaque、硅谷投资机构 a16z 合伙人 Justine Moore 等业内知名人士点赞。</p><p>目前，在开源社区 Hugging Face 上，MiniMax H3 热度已上升至第一名，超过 DeepSeek V4 Flash。</p>",
+      "url": "https://www.leiphone.com/category/industrynews/aiUMBoeUYbi8fX4x.html",
+      "publishedAt": "Wed, 05 Aug 2026 19:20:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "cf176a84db50eda8bd90ac2c5ba75b05"
+    },
+    {
+      "title": "尊界时代旗舰MPV正式上市，全国展车现已到店，售价64.8万元起",
+      "description": "<p style=\"text-align: left; margin-top: 0px; margin-bottom: 0px;\"><span>2026年8月5日，尊界时代旗舰MPV及华为全场景新品发布会在深圳隆重举办。时代旗舰MPV</span><span>尊界</span><span>V800与尊界V680正式上市，其中尊界V800推出尊享版、行政版和领航版3款配置，售价分别为</span><span>76.6</span><span>万元起、</span><span>86.6</span>",
+      "url": "https://www.leiphone.com/category/industrynews/QFyXW6c55NAYahi7.html",
+      "publishedAt": "Wed, 05 Aug 2026 19:02:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "279da956284f8aee11a4e7736d40e38c"
+    },
+    {
+      "title": "华为WATCH GT 7系列正式发布，延续颜值天花板基因，运动健康体验再进阶",
+      "description": "<p style=\"text-align: justify; margin-top: 0px; margin-bottom: 0px;\"><span style=\"font-size: 10.5pt; text-align: left;\">2026年8月5日，尊界时代旗舰MPV及华为全场景新品发布会上，华为WATCH GT 7系列正式亮相。作为GT系列第七代产品，华为WATCH GT 7系列继承了GT系列一贯的高性能、长续航与专业数据能力，带来全新外观设计，将运动活力与时尚美学融为一体，并在运动",
+      "url": "https://www.leiphone.com/category/industrynews/LoiYc9ormyfo7FHZ.html",
+      "publishedAt": "Wed, 05 Aug 2026 17:41:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "22a05e1c2352a0f51eb4d020c6e95ef1"
+    },
+    {
+      "title": "越疆具身全栖机器人让陪伴从“听见”升级为“看见”和“做到”",
+      "description": "<p>2026年8月5日，越疆科技正式发布全球首款具身全栖人形机器人越疆鹿萌（DOBOT LUMO）。这不仅是一款新产品的亮相，更是一次品类革新：越疆以&quot;具身全栖&quot;理念打破传统机器人的空间、场景与功能边界，让机器人从单一的语音工具，进化为主动融入生活和教育的社会角色。</p><p>&nbsp;视频全程实拍、高光密集：近1.3米的越疆鹿萌步态流畅自然，自如穿梭草坪、沙地、鹅卵石等复杂地形，在户外、居家、办公间无缝切换，告别僵硬机械感，是国内长距离行走应用中拟人化程度最高的人形机",
+      "url": "https://www.leiphone.com/category/ai/HeZOqCaleEb5REh4.html",
+      "publishedAt": "Wed, 05 Aug 2026 16:20:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "23b88066358b93f5951f7b61ad0c68fe"
+    },
+    {
+      "title": "全球五大机器人展新增板块，为何从炫技转向赶考？｜WRC 2026",
+      "description": "<p><span style=\"color: #7F7F7F; font-size: 14px;\"><em>来源：今日头条</em></span></p><p><span style=\"color: #7F7F7F; font-size: 14px;\"><em>链接：https://www.toutiao.com/article/7663652584904835618</em></span></p><p></p><p>2026至2027年全球五大机器人展，不约而同地做了一件事：把“炫技”的舞台，",
+      "url": "https://www.leiphone.com/category/private/fNLpOtD2S0XnmuGP.html",
+      "publishedAt": "Wed, 05 Aug 2026 16:18:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "cbeb550a954dff8948e216e2b93456a7"
+    },
+    {
+      "title": "机器人大舞台有料你就来！WRC前瞻首发：整机厂秀肌肉，零部件闷声发财｜WRC 2026",
+      "description": "<section style=\"text-align: center; margin-left: 16px; margin-right: 16px; margin-bottom: 0px;\"></section><p><span style=\"color: #7F7F7F; font-size: 14px;\"><em>来源：雷科技</em></span></p><p><span style=\"color: #7F7F7F; font-size: 14px;\"><em>原文链接：https://m",
+      "url": "https://www.leiphone.com/category/private/IebUaqTjHqgEYxQs.html",
+      "publishedAt": "Wed, 05 Aug 2026 16:18:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "0afbcfa785edf8aba83da5532bd2cfd7"
+    },
+    {
+      "title": "即梦上线多款Seedance2.5专业工具，携手上海电影、艾菲奖等探索AI视频应用场景",
+      "description": "<p>7月31日，字节跳动正式发布最新视频生成模型Seedance 2.5，旗下内容创作平台即梦AI 首发接入该模型，并同步上线Maya / Blender插件、智能编辑模式等多个面向复杂项目的专业创作工具。依托于此次模型更新，即梦AI 携手上海电影集团、电影频道、艾菲奖等行业伙伴，从影视制作、商业广告、纪录片等真实场景出发，共同探索了AI视频从“创意辅助”迈向“专业交付”的最佳实践。</p><p><img src=\"https://static.leiphone.com/uploads/new",
+      "url": "https://www.leiphone.com/category/industrynews/ME02O5J26zzAWXeo.html",
+      "publishedAt": "Wed, 05 Aug 2026 15:25:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "f09b45c19197ab4abee03291e4b92347"
+    },
+    {
+      "title": "Europe's heatwave isn't cooling Asian travelers' holiday plans for the continent",
+      "description": "Asian travelers' appetite for Europe remains resilient despite record-breaking heat, with spending in Northern Europe projected to increase.",
+      "url": "https://www.cnbc.com/2026/08/05/europe-heatwave-travel-demand-asia.html",
+      "publishedAt": "Tue, 04 Aug 2026 23:27:44 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "c97d4ef65658e0fb5c8cb92285ab3d69"
+    },
+    {
+      "title": "金刚GC3芯片重新定义视频AI算力规则，国产RISC-V高端算力商业化提速",
+      "description": "<p>近日，第三届中国计算机学会芯片大会（CCF Chip 2026）在太湖之滨无锡成功举办。</p><p>会场中，两院院士与顶尖工程师们的讨论话题直指底层架构的“根技术”创新。一个核心追问被反复推至台前：当摩尔定律逼近物理极限，制程红利日益稀薄，堆核心、拼频率的老路越走越窄，是否该彻底换一条路走？换言之，与其在通用架构上不断打补丁，能否从数据流动的本质出发，为特定场景原生设计一颗芯片？</p><p>作为全球首款RISC-V数据流架构视频智能AIGC芯片，金刚GC3芯片的出现，不仅是一次产品首发",
+      "url": "https://www.leiphone.com/category/industrynews/swL2cpKuZv1djRJS.html",
+      "publishedAt": "Thu, 06 Aug 2026 14:29:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "7679b2c736c67517f3c3ad9c309585c4"
+    },
+    {
+      "title": "蚂蚁集团 IJCAI 2026 论文盘点：让 AI 学会「随机应变」",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260806/6a74283058bdd.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/academic/E6Goi7fB66O6a4gN.html",
+      "publishedAt": "Thu, 06 Aug 2026 14:24:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "124ca38ce7a35214480fa07a04d070f6"
+    },
+    {
+      "title": "对话 IDEA 张磊：「不以动作为输入条件，就不叫世界模型」",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260806/6a74279a46c2b.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/academic/wQny8Cer4EJz0RAU.html",
+      "publishedAt": "Thu, 06 Aug 2026 14:22:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "a262492e8c198812947fb64cc3ade7eb"
+    },
+    {
+      "title": "华为 IJCAI 2026 论文盘点：从「规模密度」转向「设计密度」",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260806/6a7426e02802b.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/academic/DZgTbdNa1dTMDgie.html",
+      "publishedAt": "Thu, 06 Aug 2026 14:19:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "0a885d67a635bd5163340922bb1e8c07"
+    },
+    {
+      "title": "独家丨联手千问AI大牛 ，觅光联创郦轲杀入女性AI健康硬件江湖",
+      "description": "<section style=\"margin-bottom: 16px;\"><span><img alt=\"图片\" class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/6a6c4981e5bcb.jpg?imageMogr2/quality/90\" /></span></section><section style=\"margin: 0px; padding: 0px; letter-spacing: 0.544px;\"><se",
+      "url": "https://www.leiphone.com/category/weiwu/U6LJntXfchEVAZRy.html",
+      "publishedAt": "Thu, 06 Aug 2026 13:58:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "fc26e595cd882c3956cdb0b64afc251a"
+    },
+    {
+      "title": "独家丨从飞书火山整合，看阿里「云钉一体」踩过的坑",
+      "description": "<section><section><section><section><section style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260806/6a7421da49dab.jpg?imageView2/2/w/740\" /></section><section><section></section></section><span></span><p style=\"",
+      "url": "https://www.leiphone.com/category/industrynews/Wc2FcqxKjcr18DUn.html",
+      "publishedAt": "Thu, 06 Aug 2026 13:58:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "ba78c30122e223321f49d23420377f75"
+    },
+    {
+      "title": "把512 GiB闪存搬到xPU旁边，HBF能打破推理内存墙？",
+      "description": "<section><section><section><section><section></section><section><section></section></section><p style=\"text-align: justify; margin-bottom: 24px; line-height: 1.75em; margin-top: 24px;\"><span><span style=\"letter-spacing: 0.5px;\">HBM已经证明，通过堆叠和共封装把存储介质迁",
+      "url": "https://www.leiphone.com/category/chips/P0IOl7W4ZU6ERUnt.html",
+      "publishedAt": "Thu, 06 Aug 2026 13:55:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "13965a4d9a0a6accd6a04d45edbbb369"
+    },
+    {
+      "title": "“千问办公”上架鸿蒙电脑应用市场，全面支持三大主流操作系统",
+      "description": "<p>8月6日，阿里巴巴旗下企业级Agent产品“千问办公”推出鸿蒙电脑版，用户可在华为应用市场下载体验。目前，“千问办公”已全面支持Windows、macOS和HarmonyOS三大主流操作系统。</p>",
+      "url": "https://www.leiphone.com/category/industrynews/azZ6sWNeflKLM9SD.html",
+      "publishedAt": "Thu, 06 Aug 2026 11:58:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "8f6842307e86ac76bcdecdc6658de9cf"
+    }
+  ]
+}
