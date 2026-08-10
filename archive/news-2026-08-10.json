@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-08-10T10:16:04.167943",
+  "count": 20,
+  "news": [
+    {
+      "title": "Hollywood is cranking out billion-dollar movies again. 'Spider-Man' just joined the ranks",
+      "description": "Box office analysts say the resurgence of billion-dollar releases bodes well for a film industry that's still chasing pre-Covid levels, even with higher prices.",
+      "url": "https://www.cnbc.com/2026/08/05/hollywood-2026-billion-dollar-movies.html",
+      "publishedAt": "Wed, 05 Aug 2026 21:55:46 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "fec883dfe6266f98c13ae0c960cef8d7"
+    },
+    {
+      "title": "GPT-Live 底层拆解：OpenAI 如何让 95% 的音频帧不再延迟",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260806/6a74900f4351c.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/zYdlF2GT2z5SbNLT.html",
+      "publishedAt": "Thu, 06 Aug 2026 21:47:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "3cce77f8fa1a9eb58e4db1ff2216dd32"
+    },
+    {
+      "title": "苏神复盘 Kimi K3：896 个专家背后，藏着哪些关键技术取舍？",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260806/6a748fc003c9c.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/1krGNVOmEZUQgc9w.html",
+      "publishedAt": "Thu, 06 Aug 2026 21:45:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "2bde4ce69229e79420b040ff83b6c918"
+    },
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "How David Ellison Won Over Major Movie Theaters",
+      "description": "The world’s two largest movie theater chains just backed a merger that their peers oppose",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-09/how-david-ellison-won-over-major-movie-theaters",
+      "publishedAt": "Sun, 09 Aug 2026 23:00:01 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "2576d7657eeeadd73d918faf56e77bd8"
+    },
+    {
+      "title": "Max Miller stays in Ohio House race as GOP ballot deadline passes",
+      "description": "Rep. Max Miller is set to remain the Republican nominee in Ohio’s 7th District after the window for the GOP to replace him on the November ballot closed.",
+      "url": "https://www.cnbc.com/2026/08/09/max-miller-ohio-house-race-gop-replacement-deadline.html",
+      "publishedAt": "Sun, 09 Aug 2026 18:38:23 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "0ca531d388fb1a62f1aa0397b9e55401"
+    },
+    {
+      "title": "摩尔线程：2026上半年营收17.36亿元，已超2025全年",
+      "description": "<p>8月9日，国产GPU龙头摩尔线程（688795.SH）发布《2026年半年度报告》。2026年上半年，公司实现营收17.36亿元，同比大幅增长147.42%，已超2025年全年营收；毛利总额达9.89亿元，同比增长103.78%；盈利能力显著改善，归母净利润、归母扣非净利润分别较上年同期亏损收窄95.73%、52.37%，商业化全面提速。</p><p>&nbsp;</p><p>强劲业绩的背后，是摩尔线程持续高强度研发投入构筑的技术底座。报告显示，公司2026上半年研发投入达7.69亿元，同",
+      "url": "https://www.leiphone.com/category/chips/unD456FTBn9p8VyD.html",
+      "publishedAt": "Sun, 09 Aug 2026 16:45:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "56e334c43168e226d89d809e35f87dbc"
+    },
+    {
+      "title": "Ocasio-Cortez hasn't 'ruled out' running for president or Senate in 2028",
+      "description": "The congresswoman, who has emerged as a polling favorite to be the Democratic nominee, said she also has not ruled out a run for the Senate in 2028.",
+      "url": "https://www.cnbc.com/2026/08/09/ocasio-cortez-hasnt-ruled-out-running-for-president-or-senate-in-2028.html",
+      "publishedAt": "Sun, 09 Aug 2026 14:45:17 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "526627d73de395d9a187ea30bbe72142"
+    },
+    {
+      "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+      "description": "The rogue AI attacks involving OpenAI, Anthropic and Meta all tied back to a small Israeli startup named Irregular.",
+      "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+      "publishedAt": "Sun, 09 Aug 2026 11:31:42 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "7287a1a735e4683070ba7eab372d60ef"
+    },
+    {
+      "title": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
+      "description": "Customers still having trouble with their service should restart their devices, the wireless carrier said. Verizon did not provide ⁠a reason for ⁠the outage.",
+      "url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
+      "publishedAt": "Sun, 09 Aug 2026 00:36:19 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "f8d40370be425da19e0d7158dcf8ccde"
+    },
+    {
+      "title": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
+      "description": "Iran's military stressed that the crucial waterway would only be reopened when the U.S. accepts Iran's conditions.",
+      "url": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
+      "publishedAt": "Sat, 08 Aug 2026 17:41:31 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "eab25d64f2b2f8a0fbb9b26f1c380d99"
+    },
+    {
+      "title": "Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’",
+      "description": "\"The cancer has spread, is metastasized into his bones and further. It's very painful. It's very debilitating in many respects,\" Hunter Biden said.",
+      "url": "https://www.cnbc.com/2026/08/08/hunter-biden-says-joe-bidens-cancer-has-spread-is-very-debilitating.html",
+      "publishedAt": "Sat, 08 Aug 2026 17:25:25 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "ae76024a82aa6551272eb286b9b022cd"
+    },
+    {
+      "title": "Elevator giant Otis wants to be a defensive play in a volatile market. It has to prove itself first",
+      "description": "Otis positions itself as a long-term growth stock, but shares are down due to setbacks in its elevator service business and investors chasing the AI trade.",
+      "url": "https://www.cnbc.com/2026/08/08/elevator-giant-otis-stock-wall-street.html",
+      "publishedAt": "Sat, 08 Aug 2026 15:43:23 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "1cc56fa8524570e20ab4a9fa6450c478"
+    },
+    {
+      "title": "Inside the startup drone maker powering Ukraine's deep-strike campaign",
+      "description": "Fire Point CEO Iryna Terekh says Ukraine has \"learned the hard way\" that military leverage is integral to to bringing diplomacy within reach.",
+      "url": "https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html",
+      "publishedAt": "Sat, 08 Aug 2026 15:29:19 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "eb1b1ebf37081e242a6cb956769087c4"
+    },
+    {
+      "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
+      "description": "Collateralized loan obligations may become the next big push in the exchange-traded fund industry.",
+      "url": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
+      "publishedAt": "Sat, 08 Aug 2026 15:00:01 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "f8b27fbbef4d09118df7577e9bb74a9f"
+    },
+    {
+      "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+      "description": "Strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.",
+      "url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
+      "publishedAt": "Sat, 08 Aug 2026 13:28:00 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "ac89ca9823a72f65cdeb350cf7cd35df"
+    },
+    {
+      "title": "Cyclospora fears lead consumers to lose their appetite for salads",
+      "description": "Traffic to salad chains has fallen as consumers avoid greens due to the ongoing cyclospora outbreaks across the U.S.",
+      "url": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
+      "publishedAt": "Sat, 08 Aug 2026 12:00:01 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "43c322ddd444d226e69e4fcb82ea885a"
+    },
+    {
+      "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+      "description": "The Black Hat cybersecurity conference in Las Vegas couldn't have come at a better time, with AI agent hacks stacking up from Anthropic, Meta and OpenAI.",
+      "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+      "publishedAt": "Sat, 08 Aug 2026 12:00:01 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "0cede28139187fb72ce53a3cb327a335"
+    }
+  ]
+}
