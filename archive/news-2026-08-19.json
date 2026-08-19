@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-08-19T09:33:28.683875",
+  "count": 20,
+  "news": [
+    {
+      "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一，超Claude Cowork、Codex",
+      "description": "<p>8月19日消息，华尔街投行杰富瑞分析师近日对八款全球主流AI Agent 进行了真实办公任务实测，结果显示，通过模型和Harness的协同，阿里千问办公综合得分排名第一，超过美国的Claude Cowork和Codex等Agent工具。</p><p>&nbsp;</p><p>此次测试共设置5项真实办公任务，包括基于多份文件完成公司年报摘要、联网查找并比较公司经营数据、操作真实桌面浏览器完成信息检索和文档生成、根据数据制作英文PPT，以及基于参考图片生成营销海报。测试结果显示，千问办公整体表",
+      "url": "https://www.leiphone.com/category/industrynews/3ldIRLLRue7anIFz.html",
+      "publishedAt": "Wed, 19 Aug 2026 15:27:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "cc594a7a426c11faebc48001ae723110"
+    },
+    {
+      "title": "英伟达 Cosmos 3 深度拆解：它想做具身智能时代的「安卓系统」| RSS 2026",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260819/6a8549d3912e7.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/private/XVXWtcCNFb4PP233.html",
+      "publishedAt": "Wed, 19 Aug 2026 14:15:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "7f259beae67bab5e56b19486af55d9c3"
+    },
+    {
+      "title": "RSS 2026 实录：当 AGI 撞上「物理之墙」，想象力成为具身智能的第一生产力",
+      "description": "<section style=\"text-align: justify; margin: 16px 16px 0px; line-height: 1.75em;\"><span><span style=\"color: #4499E7;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260819/6a85497f778f0.jpg?imageMogr2/quality/90",
+      "url": "https://www.leiphone.com/category/private/WO8DdZBccR2lD85Q.html",
+      "publishedAt": "Wed, 19 Aug 2026 14:14:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "c4aa5869d6e67f3cfb327fc2652040dc"
+    },
+    {
+      "title": "RSS 2026现场直击｜从双臂协同到水下灵巧，机器人操作迈入「少样本时代」",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260819/6a85490b3c17a.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/private/lr7p4rB1Iquythe0.html",
+      "publishedAt": "Wed, 19 Aug 2026 14:12:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "d4524cf5678b2cf6862715a537f7cd3b"
+    },
+    {
+      "title": "李飞飞高徒黄文龙：具身智能需要一次「脑内搜索」革命 | RSS 2026",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260819/6a8548ba8266f.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/private/TUzrCbD0E9v6NtS5.html",
+      "publishedAt": "Wed, 19 Aug 2026 14:11:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "ccb2571650fb42eecccb1678e83d13f5"
+    },
+    {
+      "title": "纳须弥，于芥子：大模型之后，中国厂商正在把大模型塞进复杂系统 | IJCAI 2026 前瞻",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260819/6a852aa732da2.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/private/S6pidAUn5lcS9X0n.html",
+      "publishedAt": "Wed, 19 Aug 2026 12:04:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "7000ad4ac69be83d7d544462bc8e0b4c"
+    },
+    {
+      "title": "Momenta、XHEART与QNX宣布达成合作，打造全球安全标准自动驾驶平台",
+      "description": "<p style=\"text-align: left; margin-top: 0; margin-bottom: 0;\"><span>近日，Momenta（香港联交所：</span><a href=\"https://6880.hk/\" rel=\"nofollow\" target=\"_blank\">6880.HK</a><span>）与新芯航途（XHEART）、BlackBerry有限公司（纽交所：BB，多伦多证交所：BB）旗下QNX业务部门联合宣布，将共同打造面向量产的全球安全标准自动驾驶平台",
+      "url": "https://www.leiphone.com/category/industrynews/XjdDx1NPMItZXRLM.html",
+      "publishedAt": "Wed, 19 Aug 2026 11:11:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "fcc79ebef1c74ef18856c6ae898de96e"
+    },
+    {
+      "title": "支付宝“阿宝”跨端服务落地16家车企 新增60余家定点合作",
+      "description": "<p>8月17日，国内首届智能体商业生态合作伙伴大会于杭州正式举办。支付宝携手比亚迪、吉利汽车、理想、蔚来、东风汽车、深蓝汽车、上汽乘用车、一汽奔腾等主流整车企业，联动千问、华为、OPPO等大模型及终端头部厂商，共计20余家生态伙伴，共同发起多智能体互联协同生态共建计划，加速智能体商业从技术概念走向规模化商用落地。</p><p><img src=\"https://static.leiphone.com/uploads/new/images/20260819/6a8509893b1aa.jpg?i",
+      "url": "https://www.leiphone.com/category/industrynews/cYpj15jNPU3uguvi.html",
+      "publishedAt": "Wed, 19 Aug 2026 09:40:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "99e78ed6462e7c38773641adfcfe8aba"
+    },
+    {
+      "title": "AI 芯片初创企业 Etched 估值飙升至 210 亿美元，首批机架出货",
+      "description": "<p>IT之家 8 月 19 日消息，AI 芯片初创企业 Etched 当地时间 18 日宣布，其以 210 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 1,418.95 亿元人民币）</span>估值完成了 7 亿美元<span class=\"exch-money-value\">（现汇率约合 47.3 亿元人民币）</span>规模的融资。</p><p><strong>该企业已向本轮领投方 Jane Street 出货了首批 AI 加速器机架<",
+      "url": "https://www.ithome.com/0/991/748.htm",
+      "publishedAt": "Wed, 19 Aug 2026 09:31:32 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "22c5e7179e5ea11a1db2e7668e3a5fc0"
+    },
+    {
+      "title": "Zelenskyy faces challenge to his wartime rule as former defense chief calls for election",
+      "description": "Former Ukraine Defense Minister Mykhailo Fedorov has called for wartime elections, saying Kyiv must restore its democratic process despite the ongoing war.",
+      "url": "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
+      "publishedAt": "Wed, 19 Aug 2026 09:30:25 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "d35a1d0e3f4180c1691f35451fb58bff"
+    },
+    {
+      "title": "金山云：上半年营收 57.76 亿元，同比增长 33.7%",
+      "description": "<p>IT之家 8 月 19 日消息，今日，金山云发布截至 2026 年 6 月 30 日止六个月的中期业绩公告。报告期内，公司实现总收入 57.76 亿元，<strong>同比增长 33.7%</strong>。毛利为 8.12 亿元，同比增长 23.6%。同时，公司在除所得税前亏损由 2025 年同期的 7.61 亿元减少至 4.15 亿元，降幅达到 45.5%。此外，该公司净亏损降幅为 43.5%。</p><p style=\"text-align: center;\"><img class=",
+      "url": "https://www.ithome.com/0/991/744.htm",
+      "publishedAt": "Wed, 19 Aug 2026 09:27:45 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "e35aa0dcaa85444d1a8d79e0e13f67b4"
+    },
+    {
+      "title": "微博 2026 财年上半年归母净利润 1.02 亿美元，同比下降 56.12%",
+      "description": "<p>IT之家 8 月 19 日消息，微博今日发布 2026 财年（2026 年 1 月～2026 年 12 月）半年报（2026 年 1 月～2026 年 6 月）及第二财季（2026 年 4 月～2026 年 6 月）报告：</p><ul class=\" list-paddingleft-2\"><h3>2026 财年半年报</h3><li><p><strong>营业总收入</strong>：8.75 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合",
+      "url": "https://www.ithome.com/0/991/741.htm",
+      "publishedAt": "Wed, 19 Aug 2026 09:23:54 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "15a1362bc8954988e229e4ede4a251d3"
+    },
+    {
+      "title": "AI 芯片需求激增，消息称三星部分先进制程代工最高涨价 15%",
+      "description": "<p style=\"text-align: left;\">IT之家 8 月 19 日消息，据路透社今天（19 日）援引两名知情人士消息称，AI 芯片需求持续挤占先进制程产能，三星电子提高了部分先进制程晶圆代工新订单价格，最高涨幅达到 15%。</p><p style=\"text-align: left;\">其中，中国客户的需求尤其旺盛。消息称三星<strong>目前无法满足全部订单</strong>，因为公司既要为美国客户保留产能，也需要预留一部分产能生产自有芯片。</p><p style=\"t",
+      "url": "https://www.ithome.com/0/991/736.htm",
+      "publishedAt": "Wed, 19 Aug 2026 09:18:34 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "9059c38ee963c1d25465feb37d679cde"
+    },
+    {
+      "title": "World’s largest olive oil company pops over 15% as rivals circle in takeover battle",
+      "description": "Shares of Spain's Deoleo jumped nearly 16% on Wednesday morning amid an intensifying takeover battle for the world's largest olive oil bottler and marketer.",
+      "url": "https://www.cnbc.com/2026/08/19/deoleo-takeover-battle-olive-oil-dcoop.html",
+      "publishedAt": "Wed, 19 Aug 2026 09:14:32 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "48b416df02a7932bf8d086318c96e542"
+    },
+    {
+      "title": "影史经典《肖申克的救赎 》4K 修复版预售，8 月 28 日首登中国内地大银幕",
+      "description": "<p>IT之家 8 月 19 日消息，华纳兄弟电影宣布，《肖申克的救赎》4K 焕新修复版今日正式开启影票预售，这部关于希望、自由与坚持的影史经典，即将首次在中国内地的电影院上映。8 月 28 日，走进全国影院。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/879a0181-e9fc-4968-88d3-f00610c150c",
+      "url": "https://www.ithome.com/0/991/731.htm",
+      "publishedAt": "Wed, 19 Aug 2026 09:13:18 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "6b2bb3179f0aa8adb71a31f65111d65e"
+    },
+    {
+      "title": "联想 ThinkBook Plus G7 翻转触控笔记本国行发售：酷睿 Ultra X7-358H 配电动转轴，首发 18999 元",
+      "description": "<p>IT之家 8 月 19 日消息，联想 ThinkBook Plus G7 Auto Twist 翻转本今日正式开售，京东显示首发价 18999 元，叠加国补后 17499 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/kgGL4ri\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img1",
+      "url": "https://www.ithome.com/0/991/726.htm",
+      "publishedAt": "Wed, 19 Aug 2026 09:06:33 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "3685ff76459181078a8fd07c9ec8fa36"
+    },
+    {
+      "title": "Europe Needs to Spend $3T to Cut Foreign Tech Reliance",
+      "description": "Bloomberg Intelligence data show that Europe needs to spend about $3 trillion through 2035 to reduce its reliance on foreign suppliers for AI and other critical technologies. To achieve full autonomy, much larger investments would be required. Bloomb",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-19/europe-needs-to-spend-3t-to-cut-foreign-tech-reliance-video",
+      "publishedAt": "Wed, 19 Aug 2026 08:53:09 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "a7064642e9117494917bff4e97d27fb4"
+    },
+    {
+      "title": "长电科技完成 1.5μm 小孔径 11.3:1 高深宽比 TSV（硅通孔）试制",
+      "description": "<p>IT之家 8 月 19 日消息，长电科技 (JCET) 今日宣布<strong>该企业与合作伙伴共同完成了 1.5μm 小孔径 17μm 深度的 11.3:1 高深宽比 TSV（硅通孔）试制</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/833812b8-495d-422b-8fe4-392f6f90",
+      "url": "https://www.ithome.com/0/991/718.htm",
+      "publishedAt": "Wed, 19 Aug 2026 08:51:22 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "a9c1afcaf39ce14612c181ac93cf7cac"
+    },
+    {
+      "title": "机械师曙光 S 主机新品开启预约：酷睿 7 230H+RTX 5060 显卡，国补后到手 5949.15 元",
+      "description": "<p>IT之家 8 月 19 日消息，机械师正式开启曙光 S 台式机新品预约，该机型新品到手价为 6999 元，叠加国补后到手价 5949.15 元，具体国补政策以当地实际执行标准为准。这个价格在同价位产品中还是比较具有性价比的。</p><p style=\"text-align: center;\"><img alt=\"图片 1\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/111fd7a3-94f8-438c-a007-b8c2deae1",
+      "url": "https://www.ithome.com/0/991/717.htm",
+      "publishedAt": "Wed, 19 Aug 2026 08:51:06 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "51f4fb552a4ce327af43b65fe01bcdc6"
+    },
+    {
+      "title": "上海：推动 300 米以下低空公共航路实现移动通信网络全线覆盖",
+      "description": "<p>IT之家 8 月 19 日消息，上海市人民政府办公厅今天（19 日）发布《上海市“数字上海”建设“十五五”规划》。IT之家获悉，其中提出，加快推动“双万兆城市”建设，推动 50 吉比特无源光网络在重点场景规模部署，增强型第五代移动通信技术（5G-A）实现中心城区及郊区重点区域覆盖，300 米以下低空公共航路实现移动通信网络全线覆盖，率先规模部署通感一体基站。</p><p>其中提出，推动海域网络实现<strong>近海 30 公里第五代移动通信技术（5G）覆盖</strong>，探索“基站上",
+      "url": "https://www.ithome.com/0/991/716.htm",
+      "publishedAt": "Wed, 19 Aug 2026 08:50:15 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "d462fc8d824c02aa74e80f9bcc2e218d"
+    }
+  ]
+}
