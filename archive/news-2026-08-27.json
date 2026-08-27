@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-08-27T19:26:55.115263",
+  "count": 20,
+  "news": [
+    {
+      "title": "Republicans are dismissing affordability. That could be a problem in November",
+      "description": "President Donald Trump quipped that affordability was \"devised\" by Democrats, while Vice President JD Vance said groceries \"cost what they cost.\"",
+      "url": "https://www.cnbc.com/2026/08/26/election-republicans-dismissing-affordability.html",
+      "publishedAt": "Wed, 26 Aug 2026 23:17:46 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "e203a88f67ba38d647ff26fc12fc425a"
+    },
+    {
+      "title": "Salesforce CEO Marc Benioff says the ‘SaaSpocalypse’ is nonsense. Here's why",
+      "description": "Salesforce CEO Marc Benioff pushed back against “SaaSpocalypse” fears.",
+      "url": "https://www.cnbc.com/2026/08/26/salesforce-ceo-marc-benioff-saaspocalypse-nonsense.html",
+      "publishedAt": "Wed, 26 Aug 2026 22:47:37 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "3f0d982d332b3f67fc1d9a7120d64288"
+    },
+    {
+      "title": "OpenAI releases sweeping report on Hugging Face AI agent hack",
+      "description": "The 37-page report walks through the actions that OpenAI's models took during a series of evaluations prior to and during the Hugging Face breach.",
+      "url": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html",
+      "publishedAt": "Wed, 26 Aug 2026 21:17:34 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "8392c1a541b2944bba69a1dea2c1889a"
+    },
+    {
+      "title": "全新架构，极致性价比！阿里千问Qwen3.8-Flash发布并开源",
+      "description": "<p>8月26日晚，阿里发布并同步开源千问最新模型 Qwen3.8-Flash。该模型采用全新下一代架构，千亿总参数仅激活60亿（6B）即可获得超越Claude Opus4.6的前沿性能，创下模型效率的全球新基准。得益于架构和训练的全面革新，Qwen3.8-Flash训练成本较Qwen3.7-Plus骤降近90%，推理成本同样大幅下降，每百万Tokens输入仅1元，输出3元，价格最低至DeepSeek-V4-Flash的1/3，将全球模型性价比“斩杀”至极致新水平。Qwen3.8-Flash今晚",
+      "url": "https://www.leiphone.com/category/industrynews/VOpEHzb65rOMv793.html",
+      "publishedAt": "Wed, 26 Aug 2026 20:46:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "edce07109ddfb833ade62a2cb5aba31e"
+    },
+    {
+      "title": "CrowdStrike Shares Jump Most in Over Two Years on Outlook Beat",
+      "description": "CrowdStrike Holdings Inc.’s shares soared by the most in more than two years after the company projected revenue for the full year that exceeded analysts’ estimates, evidence that the cybersecurity industry continues to benefit from AI-fueled demand.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/crowdstrike-beats-annual-revenue-forecasts-as-ai-threats-rise",
+      "publishedAt": "Wed, 26 Aug 2026 20:12:21 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "b584e9367d7ce95ca2f6587681cbf5a8"
+    },
+    {
+      "title": "Okta Soars After Raising its Annual Outlook, Record Backlog",
+      "description": "Okta, Inc. jumped after raising its annual revenue outlook for a second time and posting a better-than-expected subscription backlog.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/okta-lifts-annual-revenue-view-as-double-digit-growth-holds",
+      "publishedAt": "Wed, 26 Aug 2026 20:05:10 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "648e950f5667acfcab23761ea4e3fc4b"
+    },
+    {
+      "title": "Federal judge lifts final block on Trump mail-in voting order, clearing way for midterm restrictions",
+      "description": "The rule in question would require election officials to give USPS voter information and use federally reviewed, uniquely barcoded ballot envelopes.",
+      "url": "https://www.cnbc.com/2026/08/26/trump-usps-mail-voting-rule-lawsuit-states-supreme-court.html",
+      "publishedAt": "Wed, 26 Aug 2026 19:15:45 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "5b95ce7e986ec651f89fef6ee9febf9f"
+    },
+    {
+      "title": "科技守护！腾讯、百度、阿里、滴滴、等多家公司驰援西藏吉隆受灾地区",
+      "description": "<p>8月26日，受尼泊尔一侧泥石流灾害影响，西藏日喀则市吉隆县吉隆口岸遭受严重冲击，造成重大人员伤亡和失联。灾情发生后，百度、腾讯、阿里、滴滴等多家科技企业及慈善机构已迅速启动应急响应，积极驰援灾区。</p><p>&nbsp;</p><p>腾讯方面联合爱德基金会、中国红十字基金会、中华思源工程基金会，启动“救灾小时达”项目，就近采购食品、饮用水、雨衣雨鞋、充电宝、手电筒、发电机等安置物资，并第一时间运往一线安置点，保障受灾群众和救援人员的基本生活需求。并根据灾情和需求情况，继续协同本地机构、企",
+      "url": "https://www.leiphone.com/category/industrynews/DpAO6CwSWzTO0vKK.html",
+      "publishedAt": "Thu, 27 Aug 2026 22:17:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "061407477c0814521c18dd88d72402af"
+    },
+    {
+      "title": "商汤大装置支撑智谱 GLM-5.3-Flash上线，国产异构助力前沿智能进入普惠时代",
+      "description": "<p style=\"margin-top: 0; margin-bottom: 0;\"><span>8月26日晚，智谱正式上线并开源GLM-5.3-Flash(320B-A18B），这是GLM-5系列的首个原生多模态模型。其总参数320B，能力超过GLM-5.2，在全球权威的Artificial Analysis Intelligence Index（AA综合智能指数）中取得57分，进入全球前沿模型能力区间，与Anthropic最受欢迎的模型Claude Opus 4.8得分持平。GLM-5.3",
+      "url": "https://www.leiphone.com/category/ai/W9ofyn3UJRYRVMC0.html",
+      "publishedAt": "Thu, 27 Aug 2026 20:50:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "38760c56e6b62a7981c36f69ab4d2f83"
+    },
+    {
+      "title": "百度搭子宣布一揽子升级，提出“交付即惊艳”专业办公标准",
+      "description": "<p>8月27日，“搭子进行时——百度搭子产品发布会”在上海举行。百度搭子围绕“交付即惊艳”宣布个人版、企业版、专业套件及工作台能力一揽子升级，重点面向自媒体、金融等专业场景，覆盖选题策划、资料研究、内容制作、财报分析、行业研究和报告输出等任务，并形成可用于发布和汇报的图文、脚本与分析报告。此前发布的AI产品榜显示，百度搭子月活674.30万，环比增长1063.79%，位列AI办公智能体增速第一。</p><p style=\"text-align: center;\"><img src=\"https",
+      "url": "https://www.leiphone.com/category/industrynews/bpzIqEentybmkCVI.html",
+      "publishedAt": "Thu, 27 Aug 2026 19:27:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "2568bcde9a7782f60ee4c8b6b7ebe993"
+    },
+    {
+      "title": "Okta's stock skyrockets 29%, CrowdStrike's surges 19% as rising AI threat boosts earnings",
+      "description": "AI adoption is pushing customers to spend more on cybersecurity tools from companies such as CrowdStrike and Okta",
+      "url": "https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html",
+      "publishedAt": "Thu, 27 Aug 2026 19:12:00 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "79fa7fe86e2fb5b27a22ea4dd6201d07"
+    },
+    {
+      "title": "ATF Reports Hack on Standalone System, Says Missions Unaffected",
+      "description": "The US Bureau of Alcohol, Tobacco, Firearms and Explosives said it was investigating a cybersecurity incident affecting a standalone system.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-27/atf-reports-hack-on-standalone-system-says-missions-unaffected",
+      "publishedAt": "Thu, 27 Aug 2026 19:02:09 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "e722b2974f340f1479a5c9aa2d595fcd"
+    },
+    {
+      "title": "像素级对标？智谱、Kimi 底层参数「撞衫」背后，藏着线性注意力的黄金窗口",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260827/6a90182c80098.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/yanxishe/1zYtnZ1hPi0jc5Ud.html",
+      "publishedAt": "Thu, 27 Aug 2026 19:01:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "bba24340dfdf252a4164cebb5b3d6cca"
+    },
+    {
+      "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
+      "description": "Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.",
+      "url": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
+      "publishedAt": "Thu, 27 Aug 2026 19:00:26 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "81ae93c876aa38cc9356c813890f87cd"
+    },
+    {
+      "title": "Trump signs order to rename Lake Ontario 'Lake America' amid Canada trade war",
+      "description": "President Donald Trump signed an executive order that he said will \"immediately\" change the name of Lake Ontario to \"Lake America.\"",
+      "url": "https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html",
+      "publishedAt": "Thu, 27 Aug 2026 18:54:00 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "d3cd6289a85c8695323406a3a6f8ed1b"
+    },
+    {
+      "title": "What's expected at Apple's September event — plus, an uneven rally in AI stocks",
+      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "url": "https://www.cnbc.com/2026/08/27/what-to-expect-from-apples-september-event-and-whats-driving-rally.html",
+      "publishedAt": "Thu, 27 Aug 2026 18:48:33 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "63a970e25dcf1c17d603810a44b43b18"
+    },
+    {
+      "title": "Hugging Face Co-Founder on Open-Source Robot, Reports of Nvidia Deal",
+      "description": "Hugging Face unveiled MicroDuck, the company’s new open-source robot that can walk, talk, and roller-skate. Hugging Face co-founder and Chief Science Officer Thomas Wolf discusses surging demand for robotics and open-source AI, and says the company i",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-27/hugging-face-pushes-deeper-into-robotics-with-microduck-video",
+      "publishedAt": "Thu, 27 Aug 2026 18:44:57 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "1d25f6ca1b9eb54f0bfe9fa34d4e5730"
+    },
+    {
+      "title": "Nvidia’s AI Boom, Salesforce’s Anthropic Bet | Bloomberg Tech 8/27/2026",
+      "description": "Bloomberg’s Ed Ludlow breaks down Nvidia's prediction of a 70% revenue growth next fiscal year, far exceeding analyst estimates. Plus, Salesforce shares jump after giving an outlook for strong revenue expansion, and deepening its ties with Anthropic.",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-27/bloomberg-tech-8-27-2026-video",
+      "publishedAt": "Thu, 27 Aug 2026 18:43:07 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "d9bfc1b9cba1ba04b845b8c38ac38f74"
+    },
+    {
+      "title": "Nvidia Sees 70% Growth as AI Boom Accelerates",
+      "description": "Nvidia’s forecast for roughly 70% revenue growth next fiscal year is changing the debate around the durability of the AI boom, according to Wealth Enhancement Group Deputy CIO Doug Huber. He explains why the question is shifting from whether AI deman",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-27/nvidia-sees-70-growth-as-ai-boom-accelerates-video",
+      "publishedAt": "Thu, 27 Aug 2026 18:36:57 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "0ee9333ab740225a62dca3ab5fc3fea0"
+    },
+    {
+      "title": "SK Hynix CEO Says Chipmaker Is Weighing Closer Ties With Kioxia",
+      "description": "SK Hynix Inc. is exploring ways to deepen its cooperation with Japanese flash memory producer Kioxia Holdings Corp., in which the South Korean chipmaker has a significant indirect stake, Chief Executive Officer Kwak Noh-Jung said.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-27/sk-hynix-ceo-says-chipmaker-is-weighing-closer-ties-with-kioxia",
+      "publishedAt": "Thu, 27 Aug 2026 18:30:40 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "d8964528f5f48a38f6c31ea626e64c05"
+    }
+  ]
+}
