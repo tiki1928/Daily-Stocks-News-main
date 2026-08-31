@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-08-31T16:44:39.281905",
+  "count": 20,
+  "news": [
+    {
+      "title": "Trump-promoted Freedom Fuel stations sold gas a distributor says went unpaid for",
+      "description": "A federal lawsuit claims that fuel distributor KRSM failed to pay for $4 million worth of fuel, some of which the company sold to the Freedom Fuel network.",
+      "url": "https://www.cnbc.com/2026/08/30/trump-freedom-fuel-mansfield-lawsuit.html",
+      "publishedAt": "Sun, 30 Aug 2026 18:06:41 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "fec45d49a5b5b1202e84805e691f987c"
+    },
+    {
+      "title": "He beat Big Tobacco. Will the same playbook work against Meta and social media?",
+      "description": "Mike Moore beat Big Tobacco. Will the same playbook work against Meta and social media?",
+      "url": "https://www.cnbc.com/2026/08/30/mike-moore-ag-social-media-settlement-big-tobacco.html",
+      "publishedAt": "Sun, 30 Aug 2026 15:48:10 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "065e1d701694732dc42e06dab004b31f"
+    },
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+      "description": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam.",
+      "url": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
+      "publishedAt": "Sat, 29 Aug 2026 19:55:30 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "11664dc57a8fa6065976b425ee59cbda"
+    },
+    {
+      "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
+      "description": "OpenAI plans to end model access through Cursor on Nov. 12, citing concerns after SpaceX’s $60 billion acquisition of the coding startup.",
+      "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+      "publishedAt": "Sat, 29 Aug 2026 19:06:22 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "d43b99a776e058717f07f2ffdc85bd46"
+    },
+    {
+      "title": "对话纬钛机器人CEO李瑞：具身智能仅靠视觉容易到天花板，触觉是未来必选项",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260831/6a9577d2a8fba.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/robot/fzha6bzWq2qyX28O.html",
+      "publishedAt": "Mon, 31 Aug 2026 20:49:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "b4392c73d37ac1a39089d1bb93d00000"
+    },
+    {
+      "title": "具身智能规模化落地的解法，鹿明摸索出来了",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260831/6a95771d49333.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/robot/aDmmeg0GHDOQc0yR.html",
+      "publishedAt": "Mon, 31 Aug 2026 20:46:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "7e302f7e06306dd1cdbe890c7a3b1b27"
+    },
+    {
+      "title": "WRC 上，我们看到的关于灵巧手的真相",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260831/6a9576993db5d.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/robot/524JbeGS3fgGgQeA.html",
+      "publishedAt": "Mon, 31 Aug 2026 20:44:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "f2d7792a4a4d1a67e65a12cb832dff92"
+    },
+    {
+      "title": "瑞金医院联合华为云发布瑞智病理大模型RuiPath 2.0",
+      "description": "<p>8月30日，“数智共生·云惠病理”2026医疗人工智能创新论坛在上海召开。瑞金医院联合华为云正式发布瑞智病理大模型RuiPath 2.0，在性能、诊断能力、病理诊断可解释性、罕见病种数据训练、轻量化部署方面带来五大重磅升级。<br /></p><p><img border=\"0\" src=\"https://static.leiphone.com/uploads/new/images/20260831//6a9557ab1c777.jpg?imageMogr2/quality/90\" /><",
+      "url": "https://www.leiphone.com/category/aihealth/MSsFF8sisQuWPkHG.html",
+      "publishedAt": "Mon, 31 Aug 2026 18:35:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "d9b870536b381e1a74051482bd8fe731"
+    },
+    {
+      "title": "8 位 AI 创业者谈世界模型：生成一切之后，还差一点常识｜WRC 2026",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260831/6a954578cc211.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/private/wweqIbvHRVWXnlvh.html",
+      "publishedAt": "Mon, 31 Aug 2026 17:13:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "2b688e48ecbb7cadf6094283bd7ebfdb"
+    },
+    {
+      "title": "没有全科优秀，具身模型别想进入百万小时",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260831/6a95447373c0a.png?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/JEamZ6VwYQhx9Dkk.html",
+      "publishedAt": "Mon, 31 Aug 2026 17:11:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "c6e335aff4c8faa55a1508c5c64b781d"
+    },
+    {
+      "title": "横扫最难赛场，复核满分，银河通用无遥操出战100%夺冠",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260831/6a95433791413.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/ai/U0SX0yIhfMcEsYKm.html",
+      "publishedAt": "Mon, 31 Aug 2026 17:05:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "850e1585b3c0fba970341266ae266c57"
+    },
+    {
+      "title": "滴滴自动驾驶新一代车型开启载客测试服务",
+      "description": "<p>近期，滴滴自动驾驶新一代 Robotaxi R2正式开启无人载客测试服务，新车在自动驾驶性能和座舱体验上全面升级，用户在北京、广州部分示范区域内可呼单体验全新智能出行服务。</p><p>R2作为滴滴自动驾驶与广汽埃安联合打造的Robotaxi专属车型，具备全球化适配能力。该车采用滴滴自动驾驶L4全栈软硬件方案，搭载33个传感器、三域融合计算平台等领先技术，显著提升感知精度与复杂场景应对能力。车身平台满足中欧双五星标准，并配备多重安全冗余体系。</p><p><img src=\"https:/",
+      "url": "https://www.leiphone.com/category/industrynews/UYp39xioCMHJMnkx.html",
+      "publishedAt": "Mon, 31 Aug 2026 16:43:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "e807262208a1de50d0d09b67432a92e2"
+    },
+    {
+      "title": "Anthropic’s Mega-IPO Plan Looms Over Packed US Listing Calendar",
+      "description": "Anthropic PBC’s IPO is casting a long shadow over companies’ US listing plans, as they try to find room for their deals to grab attention after the Sept. 7 Labor Day holiday.\n\nThe Claude developer is preparing to file publicly for an initial public o",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-31/anthropic-s-mega-ipo-looms-over-packed-listing-calendar-video",
+      "publishedAt": "Mon, 31 Aug 2026 16:39:30 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "0dc4b606656ea2c7131cced4e95b17a7"
+    },
+    {
+      "title": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate",
+      "description": "OpenAI's move to serve ads in ChatGPT earlier this year drew ridicule from its chief rival, Anthropic, in the form of a Super Bowl commercial.",
+      "url": "https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html",
+      "publishedAt": "Mon, 31 Aug 2026 16:33:46 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "35f47b14a4bc7b78228e780cca2b5fa8"
+    },
+    {
+      "title": "「说 Harness 会被淘汰的，肯定没做过工程」，Kimi 前 CLI 负责人戳破了 AI 圈最大的误解",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260831/6a953730ef189.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/yanxishe/vbrr9dz3SxrE7CWe.html",
+      "publishedAt": "Mon, 31 Aug 2026 16:12:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "4981a0fb38d943869936dfc103947066"
+    },
+    {
+      "title": "海信JUOS发布！行业首个家庭智能伴侣级AIOS，家庭AI从“被动响应”走向“主动懂家”",
+      "description": "<p style=\"text-align: left; margin-top: 0px; line-height: 1.75em; margin-bottom: 20px;\"><span>8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。该系统面向家庭全场景，原生适配电视、闺蜜机、投影、智能家电等多终端，搭载自研星海大模型与四大原生引擎，以“超级小聚”为系统级AI载体，完成家庭AI交互底层重构，实现从被动响应个体指令到主动服务全家需求的代际跃迁。</span></p><p ",
+      "url": "https://www.leiphone.com/category/smarthome/ZVheiCG6BlrsIMUP.html",
+      "publishedAt": "Mon, 31 Aug 2026 16:09:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "dd4e65529edcce764bb4555372907d60"
+    },
+    {
+      "title": "七彩虹 iGame X870E VULCAN W OC 主板发售：超频旗舰，3999 元",
+      "description": "<p>IT之家 8 月 31 日消息，七彩虹 (Colorful) 超频旗舰主板 iGame X870E VULCAN W OC V14“白火神”现已发售，定价 3999 元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/8/b195cf47-5aba-4af0-a5a6-c78f7b6a00a9.jpg\" /></p><dir",
+      "url": "https://www.ithome.com/0/996/683.htm",
+      "publishedAt": "Mon, 31 Aug 2026 16:00:00 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "0ac95fb5e422eed5979236198a0ade8b"
+    }
+  ]
+}
