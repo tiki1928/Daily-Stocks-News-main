@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-09-02T13:17:09.680067",
+  "count": 20,
+  "news": [
+    {
+      "title": "独家解读丨字节 Seed 大调整，分支背后谁在操盘？",
+      "description": "<p>大模型竞争开始拼组织，这一次轮到字节。</p><p>8 月 19 日，据晚点 Late Post 报道，Seed 基础模型团队新设 Pretrain Data（预训练数据）、Horizon RL（强化学习）、Product Posttrain-Work（面向办公场景的产品后训练）和 Product Posttrain-Chat（面向对话场景的产品后训练）四个一级部门，分别由李成刚、唐晟宇、秦禹嘉、朱文佳等人负责，均向吴永辉汇报。</p><p>雷峰网了解到，四个新部门之下的分支架构与带队人选",
+      "url": "https://www.leiphone.com/category/industrynews/75DZ3yfWSLnIppDb.html",
+      "publishedAt": "Wed, 02 Sep 2026 18:49:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "83d14c3dfb74812d4490fa422da207c7"
+    },
+    {
+      "title": "我所知道的李博杰",
+      "description": "<p>李博杰很不喜欢“天才少年”这个标签。</p><p>“还少年呢，我都中年了，而且它指的是一个人才项目”。他调侃道。</p><p>距离轰动全网的DeepSeek面试风波已过去30天左右。趁着这段时间，李博杰在 GitHub 上开源了自己写的《深入理解 AI Agent》一书，两周便拿到了 2.8 万颗星。</p><p>被他吐槽的DeepSeek，最近也因为V4-Flash模型发布和融资等信息，抢占大众的注意力。</p><p>被问到是否后悔当初发言时，他有点歉意地笑了笑：“也谈不上后悔，就是忍不",
+      "url": "https://www.leiphone.com/category/industrynews/ayqK30EcYC4YCPr0.html",
+      "publishedAt": "Wed, 02 Sep 2026 18:42:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "c746265b47d8a16fae39f5910a03c259"
+    },
+    {
+      "title": "勇夺 18 块金牌：机器人运动会「金牌王」走出赛场，还能派上用场吗？",
+      "description": "<section><section><section><section><section style=\"text-align: center;\"><img class=\"rich_pages wxw-img js_insertlocalimg\" src=\"https://static.leiphone.com/uploads/new/images/20260902/6a97f803f3a5e.png?imageMogr2/quality/90\" style=\"width: 100%;\" type",
+      "url": "https://www.leiphone.com/category/industrynews/eqoi4e4nz7h4lJZi.html",
+      "publishedAt": "Wed, 02 Sep 2026 18:20:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "cb9616979e9d34a7342e49fa063f0fb5"
+    },
+    {
+      "title": "Zeroth 元点机器人预告发布 OpenBridge 生态：具身智能的「安卓时刻」来了",
+      "description": "<section><section><section><section><section style=\"text-align: center;\"><img class=\"rich_pages wxw-img js_insertlocalimg\" src=\"https://static.leiphone.com/uploads/new/images/20260902/6a97f70f9e050.png?imageMogr2/quality/90\" style=\"width: 100%; backg",
+      "url": "https://www.leiphone.com/category/industrynews/7XuKxVmxPG0rwM3f.html",
+      "publishedAt": "Wed, 02 Sep 2026 18:15:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "6e150a7e008b767c9507056a3fc47f4f"
+    },
+    {
+      "title": "上线物业缴费专属入口，支付宝以数字化助力物业行业服务力长效落地",
+      "description": "<p>今日，克而瑞服务力发布大会举办，支付宝智能物业相关代表登台并发表主题演讲。支付宝物业服务凭借成熟的数字化解决方案成功入选《克而瑞2026中国物业服务力红皮书》，意味着其在智慧社区领域的实践成果获得行业认可。</p><p><img src=\"https://static.leiphone.com/uploads/new/images/20260902/6a97f4b14d4c0.jpg?imageMogr2/quality/90\" /></p><p>值得关注的是，支付宝生活缴费同步上线物业缴",
+      "url": "https://www.leiphone.com/category/industrynews/GwoJgC9qbA8VvfZC.html",
+      "publishedAt": "Wed, 02 Sep 2026 18:04:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "57c2976ac1bb4e2c8f69332d31b791e4"
+    },
+    {
+      "title": "腾讯WorkBuddy开放平台上线：首批超百家伙伴入局 国内首个同时打通软硬件、开发者三层生态的Agent基座",
+      "description": "<p>9月2日，腾讯WorkBuddy宣布开放平台（open.WorkBuddy.cn）正式上线，首批引入超百家生态伙伴，面向智能硬件、行业应用与开发者等开放底层Agent能力。这是国内AI Agent赛道首个同时打通硬件、应用与开发者三层生态的开放平台，也是WorkBuddy今年3月上线以来首次披露完整开放生态战略。</p><p>发布会现场，9款联名智能硬件首发亮相，合作方包括Plaud、乐奇Rokid、影石、科大讯飞、安克、猛玛、京东京造等品牌；30余个行业应用同步接入，覆盖金融、法律、医疗",
+      "url": "https://www.leiphone.com/category/industrynews/3BBOm1CluS1kcwFf.html",
+      "publishedAt": "Wed, 02 Sep 2026 15:15:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "d138f8587fcce99f2100ce375e6c6e55"
+    },
+    {
+      "title": "AIROBO联手中科院力学所，机器人运营技术注入国家科研力量",
+      "description": "<p>当行业将大量注意力投向人形机器人、本体制造和基础模型时，机器人进入现实世界后的“运行问题”，正在成为另一个关键技术战场。9月1日，港股上市公司弘毅文化集团（00419.HK）发布自愿公告，AIROBO中国大陆主体—艾诺博（成都）科技有限公司与中国科学院力学研究所签署为期五年的合作协议，双方拟围绕复杂场景运行机理、空间智能、仿真推演、多机协同、场景数据闭环及成果转化展开合作。此次合作并未限定于某一款机器人，而是直接瞄准异构机器人规模化进入真实空间后出现的共性技术问题。</p><p>值得注意的",
+      "url": "https://www.leiphone.com/category/industrynews/em9VVsPQwYhn37XN.html",
+      "publishedAt": "Wed, 02 Sep 2026 14:11:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "a9328fe8d2bcefad7df04ee935a343f2"
+    },
+    {
+      "title": "阿里云企业级Agent协作平台万有无界开启公测",
+      "description": "<p>9月2日，阿里云旗下企业级人与Agent协作平台“万有无界”开启公测。企业用户和个人用户均可通过官网(https://www.qianwenai.com/agents/wanyou）注册体验，可调用阿里最新旗舰模型Qwen3.8-Max。</p><p>&nbsp;</p><p>万有无界是一个多角色Agent协作工作台。与让单一AI Agent大包大揽不同，它把一件复杂的事拆解给多位有不同职责的Agent——在“项目空间”里组织成员和资产，通过群聊让多位Agent围绕同一个任务接力推进，过程",
+      "url": "https://www.leiphone.com/category/industrynews/zMhNkoPgV5CMzeVi.html",
+      "publishedAt": "Wed, 02 Sep 2026 14:02:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "cd98efa933796043404422f8b84d011b"
+    },
+    {
+      "title": "广汽传祺方盒子 SUV 越 7 开启预售：两驱、四驱共 4 款配置，权益价 17.18 万-21.78 万元",
+      "description": "<p style=\"text-align: left;\">IT之家 9 月 2 日消息，广汽传祺全新方盒子 SUV 越 7 今天（2 日）晚间正式开启预售，新车提供 4 种不同配置，预售价区间为 17.98 万-22.58 万元，预售权益价区间则是 17.18 万-21.78 万元。</p><p style=\"text-align: left;\">IT之家汇总新车主要信息如下：</p><ul class=\" list-paddingleft-2\"><li><p style=\"text-align",
+      "url": "https://www.ithome.com/0/997/659.htm",
+      "publishedAt": "Wed, 02 Sep 2026 13:00:51 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "1da47d41ba4035ef9159b43cc7d1b060"
+    },
+    {
+      "title": "ElevenLabs Hires OpenAI VP as First Chief Revenue Officer",
+      "description": "ElevenLabs has hired former OpenAI executive Ashley Kramer as its first chief revenue officer, part of the  startup’s efforts to drum up business demand for  its artificial intelligence voice tools.",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-02/elevenlabs-hires-openai-vp-as-first-chief-revenue-officer",
+      "publishedAt": "Wed, 02 Sep 2026 13:00:01 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "abf7083e76c1c649f27a23a33147c7a5"
+    },
+    {
+      "title": "奇瑞捷豹路虎神行者 8 首发限定版 1000 台售罄，锁单权益价 44.99 万元",
+      "description": "<p>IT之家 9 月 2 日消息，奇瑞捷豹路虎 FREELANDER 神行者官方今晚宣布，<strong>神行者 8 首发限定版 1000 台售罄</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/b499d00e-3703-4cea-b6c3-09b5705008b9.jpg\" /></p><p>据IT之家",
+      "url": "https://www.ithome.com/0/997/658.htm",
+      "publishedAt": "Wed, 02 Sep 2026 12:58:21 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "967a0b4ce58fd0938987aec54cdc70d9"
+    },
+    {
+      "title": "研究发现：老年群体更看重 AI 陪伴聊天机器人的真实感",
+      "description": "<p>IT之家 9 月 2 日消息，老年时期的孤独并不只是情感上的负担。研究估计，新加坡 60 岁及以上人群中，有 17% 至 47% 处于社会孤立状态，接近 8% 的人感到孤独。令人担忧的是，这类状况带来的健康危害，甚至被认为相当于每天吸 15 支烟。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/80fb6bcf-d493",
+      "url": "https://www.ithome.com/0/997/657.htm",
+      "publishedAt": "Wed, 02 Sep 2026 12:56:02 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "31a47d034847e0c6adc486e6224aa33c"
+    },
+    {
+      "title": "U.S. crude near $90 as Iran retaliates with strikes on Kuwait, Jordan and Bahrain",
+      "description": "Oil prices were volatile Wednesday, as Mideast tensions continue to escalate after the U.S. attacked Iran, while Tehran reportedly struck back at U.S. allies.",
+      "url": "https://www.cnbc.com/2026/09/02/brent-oil-us-iran-strikes.html",
+      "publishedAt": "Wed, 02 Sep 2026 12:51:00 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "aced0273841096b3018dfefb3c32128a"
+    },
+    {
+      "title": "Boehringer Signs Deal for Owkin AI, Joining Astra and Sanofi",
+      "description": "Boehringer Ingelheim GmbH agreed to use Owkin’s artificial-intelligence model to help discover new oncology and immunology medicines.",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-02/boehringer-signs-deal-for-owkin-ai-joining-astra-and-sanofi",
+      "publishedAt": "Wed, 02 Sep 2026 12:48:14 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "45d927f4caf37fcdf68cf01493a7ca27"
+    },
+    {
+      "title": "There is 'a lot more pushback' on data center construction, Berkshire CEO Greg Abel tells CNBC",
+      "description": "The resistance to data centers is gaining steam and occurring nationwide.",
+      "url": "https://www.cnbc.com/2026/09/02/there-is-a-lot-more-pushback-on-data-center-construction-berkshire-ceo-greg-abel-tells-cnbc.html",
+      "publishedAt": "Wed, 02 Sep 2026 12:41:15 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "0bb9965cf95c5f5961b94554270fa97b"
+    },
+    {
+      "title": "OpenAI Faces New Lawsuits Linked to Shooting at Canadian School",
+      "description": "OpenAI was hit with multiple lawsuits claiming the artificial intelligence company could have prevented a mass shooting in Canada earlier this year by informing law enforcement about the suspected killer’s messages with the popular chatbot ChatGPT.",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-02/openai-faces-new-lawsuits-linked-to-shooting-at-canadian-school",
+      "publishedAt": "Wed, 02 Sep 2026 12:40:27 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "f5258d055eed21e0830e0b3c50e04400"
+    },
+    {
+      "title": "vivo T5 5G 手机海外发布：天玑 7500 Turbo、6.83 英寸曲面 AMOLED 屏，34999 印度卢比起",
+      "description": "<p>IT之家 9 月 2 日消息，vivo 今日在海外发布了 vivo T5 5G 手机（T5 4G 发布于今年 5 月），将从 9 月 9 日在印度开售，售<strong>价 34,999 印度卢比</strong><span class=\"exch-money-value \">（IT之家注：现汇率约合 2,472 元人民币）</span>起：</p><ul class=\" list-paddingleft-2\"><li><p>6GB/128GB：售价 34,999 印度卢比<span cl",
+      "url": "https://www.ithome.com/0/997/655.htm",
+      "publishedAt": "Wed, 02 Sep 2026 12:39:25 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "c29813017bfd4ede1620f2665ef9618b"
+    },
+    {
+      "title": "Berkshire CEO Abel says Alphabet a 'significant player' in AI after growing stake in Q2",
+      "description": "Abel said Berkshire has a clear view of the impacts AI is having across its portfolio of companies, and Google's position relative to the technology is strong.",
+      "url": "https://www.cnbc.com/2026/09/02/berkshire-ceo-abel-says-alphabet-a-significant-player-in-ai-after-growing-stake-in-q2.html",
+      "publishedAt": "Wed, 02 Sep 2026 12:39:22 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "4f4b27ce8e7876618eb3fc884d1737b9"
+    },
+    {
+      "title": "Private payrolls rose by 38,000 in August, fewer than expected, ADP reports",
+      "description": "Though job creation held positive, August was the smallest gain since January and reflective of a broader slowdown in the labor market.",
+      "url": "https://www.cnbc.com/2026/09/02/private-payrolls-rose-by-38000-in-august-fewer-than-expected-adp-reports.html",
+      "publishedAt": "Wed, 02 Sep 2026 12:35:38 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "16ba62e548235d8e47c1b99ffe47fa4e"
+    },
+    {
+      "title": "50.98 万元，新一代理想 Mega Home 发布",
+      "description": "<p>IT之家 9 月 2 日消息，新一代理想 Mega Home 汽车今天发布，新车只提供一种配置，<strong>全国统一零售价 50.98 万元</strong>，现在下订可获赠灰白两色飞碟轮毂等配置。理想用户复购可获赠 270° 电动调光玻璃，本周内开启交付。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/7d44d4",
+      "url": "https://www.ithome.com/0/997/654.htm",
+      "publishedAt": "Wed, 02 Sep 2026 12:32:45 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "4fe09aa08f08abaf1a07502f4c959e36"
+    }
+  ]
+}
