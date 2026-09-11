@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-09-11T13:17:48.443143",
+  "count": 20,
+  "news": [
+    {
+      "title": "Jim Cramer says this is the key force driving stocks right now",
+      "description": "CNBC's Jim Cramer said the 30-year Treasury yield is a key force driving stocks as it climbs to roughly 5.3%.",
+      "url": "https://www.cnbc.com/2026/09/10/jim-cramer-key-force-driving-stocks-right-now.html",
+      "publishedAt": "Thu, 10 Sep 2026 22:46:54 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "862814e36fd717cafd8f571b0a3d4fd0"
+    },
+    {
+      "title": "South Korea Ramps Up Spy Law to Protect Chip Secrets From China",
+      "description": "South Korea is tightening its defenses against industrial espionage with a revised law on spying taking effect this weekend, as the home of global chip giants Samsung Electronics Co. and SK Hynix Inc. seeks to safeguard advanced memory technology fro",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/south-korea-ramps-up-spy-law-to-protect-chip-secrets-from-china",
+      "publishedAt": "Thu, 10 Sep 2026 21:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "4e327cf2d6cd278ec74cfba1875fac34"
+    },
+    {
+      "title": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
+      "description": "Ford Motor on Thursday announced a $1 billion investment to build a new paint shop at its crucial truck plant in Kentucky.",
+      "url": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
+      "publishedAt": "Thu, 10 Sep 2026 20:48:14 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "a731c455945709cb645129bebf390dd3"
+    },
+    {
+      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+      "description": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.",
+      "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+      "publishedAt": "Thu, 10 Sep 2026 19:02:58 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "bfcf569beb014aa05aefd526511ed4bd"
+    },
+    {
+      "title": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown",
+      "description": "There is growing concern globally about the capability of AI, following numerous cyberattacks and security incidents in recent months by rogue models",
+      "url": "https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html",
+      "publishedAt": "Thu, 10 Sep 2026 10:49:29 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "25f51815d2f320f77a64d349a173c45b"
+    },
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "从一台车出发到三百城，九识成为城市治理的「运力底座」",
+      "description": "<section><section><section><section><section style=\"text-align: center;\"><img class=\"rich_pages wxw-img js_insertlocalimg\" src=\"https://static.leiphone.com/uploads/new/images/20260911/6aa3dd57a3dd5.png?imageMogr2/quality/90\" style=\"width: 100%; backg",
+      "url": "https://www.leiphone.com/category/transportation/JXhS5Joxp68qFEmE.html",
+      "publishedAt": "Fri, 11 Sep 2026 18:54:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "8f83f793210baa4b12e9e45d47a3e6cb"
+    },
+    {
+      "title": "突破舱驾融合瓶颈，德赛西威给出「双优」新解法",
+      "description": "<p>更精简的架构，更迅速的响应速度，是智能汽车进化的方向，而舱驾一体，则是智能汽车进化的一个节点。</p><p>佐思汽研预测，2026年到2030年中国舱驾一体市场年复合增长率将达36%，到2030年还有3.6倍的增长空间。</p><p>然而，当舱驾一体真正进入量产阶段，座舱和智驾被装进同一颗芯片，有限的算力却越来越向智驾倾斜。</p><p>过去几年，智驾能力一直是车企智能化的卖点之一。从高速NOA到城市NOA，再到更高阶的辅助驾驶，更多算力被用于增加智驾功能、提高模型能力。但在舱驾一体架构下",
+      "url": "https://www.leiphone.com/category/transportation/cgxm7O53FRlftYwO.html",
+      "publishedAt": "Fri, 11 Sep 2026 18:46:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "8d66a4d8cca6fa9d2e42a08eb7d11ec1"
+    },
+    {
+      "title": "半世纪前的AI画作到AI歌手线下开唱，2026外滩大会AI艺术节勾勒人机共创新图景",
+      "description": "<p>当AI开始绘画、拍电影，甚至“出道”成为艺人，艺术的边界在哪里？</p><p>9月9日，随着2026 Inclusion·外滩大会在上海开幕，大会首次设立的特色板块——AI艺术节同步亮相。围绕AI概念艺术展、AI影像展映、AI音乐会三大单元，这场由AI与人类共同参与的艺术实践，将原本更多发生在线上的AI创作带到线下，呈现一个可看、可听、可互动的艺术现场。</p><p>9日下午，AI艺术节探展活动“跟着艺术家一起打开AI艺术节”在展馆内举行。艺术家、策展人与创作者围绕一个共同问题展开交流：当",
+      "url": "https://www.leiphone.com/category/industrynews/9kc5LWEjsnYINmQO.html",
+      "publishedAt": "Fri, 11 Sep 2026 17:59:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "7a7e1781bbef6e52ab6cbc560d38f090"
+    },
+    {
+      "title": "不堆 Transformer，斯坦福吴佳俊如何用物理重新定义多模态融合？｜ECCV 2026",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260911/6aa3ca402a0d7.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/private/rSWX8JI9JPPBvt0j.html",
+      "publishedAt": "Fri, 11 Sep 2026 17:39:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "1288f36b2ed7a07bd13b5a953d742fd4"
+    },
+    {
+      "title": "AI新经济走向真实商业，蚂蚁APASS构建Agent信任基础设施",
+      "description": "<p>9月11日，在2026 Inclusion·外滩大会AI支付论坛上，蚂蚁集团发布面向智能体（Agent）商业活动的信任基础设施APASS。</p><p><img src=\"https://static.leiphone.com/uploads/new/images/20260911/6aa3c831f2684.jpg?imageMogr2/quality/90\" /></p><p>基于KYA（Know Your Agent）理念，APASS通过智能体可信身份产品和智能体风控服务，建立身份与",
+      "url": "https://www.leiphone.com/category/industrynews/gVe8AKc2ibKGewUO.html",
+      "publishedAt": "Fri, 11 Sep 2026 17:21:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "e5217c1643ec7973ab68f9c1397fce57"
+    },
+    {
+      "title": "让智能体自主探索而不越界，蚂蚁密算开源可信原生智能体HOP 3.0",
+      "description": "<p>在2026 Inclusion·外滩大会上，蚂蚁密算董事长韦韬宣布可信原生智能体HOP 3.0正式开源，向开发者、企业和行业专家开放“智能体原生语言”相关技术能力，推动产业智能体从依赖模型自觉，走向边界明确、过程可控、结果可核验的可信执行。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260911/6aa3adfbe8d17.png?imageVie",
+      "url": "https://www.leiphone.com/category/industrynews/3lj2fGLhrOPKY8OJ.html",
+      "publishedAt": "Fri, 11 Sep 2026 15:32:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "92e272e323e154789ee0f472916360c7"
+    },
+    {
+      "title": "金融领域首个智能体安全标准发布",
+      "description": "<p><strong>金融领域首个智能体安全标准发布</strong></p><p>明确未经金融机构授权，不得自动化操作金融App</p><p>近日（8月27日），北京金融科技产业联盟发布《智能体技术金融应用安全要求》团体标准，为国内首个聚焦金融领域智能体应用安全的团体标准。标准明确：手机端第三方智能体未经金融机构授权，不得利用系统权限自动化读取、操作金融应用软件GUI界面；通过麦克风、截屏、录屏、共享屏幕等权限获取数据时，须遵守被调用方安全策略。业内将上述要求概括为“双重授权”：智能体操作金融",
+      "url": "https://www.leiphone.com/category/industrynews/tyenZtjsxcp3OzDb.html",
+      "publishedAt": "Fri, 11 Sep 2026 15:31:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "a034bdbde0b49e96661fc44514840c12"
+    },
+    {
+      "title": "豆包工作新增本地Office编辑、浏览器录制与回放等功能",
+      "description": "<p>近日，豆包工作宣布上线本地Office编辑、浏览器录制与回放、任务执行环境自由切换等全新功能，进一步完善AI处理复杂任务的能力。</p><p>据悉，“本地Office编辑”功能已在豆包工作全量上线，主要解决AI与本地文件之间的协同问题。用户可以通过侧边工作台选择文件，也可以右键点击本地PPT、Excel文件，直接调用豆包进行处理。AI生成或修改后的文件，用户仍可继续在本地编辑，保存后的修改结果会同步至线上和本地。目前，该功能支持PPT和Excel文件，Word相关能力将在后续上线。</p>",
+      "url": "https://www.leiphone.com/category/industrynews/yxQfJirnLSi8BOoA.html",
+      "publishedAt": "Fri, 11 Sep 2026 15:21:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "39512ee0eab1490c6e50a8f4a6860144"
+    },
+    {
+      "title": "支付宝“碰一下”三年三连跳：从支付、连接到经营",
+      "description": "<p>9月11日，支付宝“碰一下”正式发布面向品牌商的无界经营智能体“图图”，依托百万级商家侧“碰一下”设备智能体网络，连接4亿消费者、百万级门店，为品牌线下生意带来新增长。这也是支付宝“碰一下”继超3000万线下触点AI升级、面向门店商家推出经营智能体“晓雨”之后，再次用AI重构线下经营，实现了全球首个大规模线下经营网络的人、货、场AI全面升级。</p><p>&nbsp;</p><p>升级后，“晓雨”智能体面向门店，帮助商家了解经营状况并执行经营动作；“图图”智能体面向品牌商，帮助品牌识别高潜",
+      "url": "https://www.leiphone.com/category/industrynews/5OJHmXu4zqpsYkk3.html",
+      "publishedAt": "Fri, 11 Sep 2026 14:45:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "2f53e0c7368b535299d51d0b50c18b22"
+    },
+    {
+      "title": "新石器L4级无人车开展日本首测",
+      "description": "<p style=\"text-align: left; margin-bottom: 0pt;\"><span>9月1</span><span>1</span><span>日</span><span>，</span><span>全球领先的商用自动驾驶配送车队运营商新石器</span><span>宣布，</span><span>已在平和岛的东京流通中心（TRC）启动</span><span>封闭场地L4级实证测试</span><span>。这是该公司在日本开展的首个L4级测试项目，标志着其在完成新加",
+      "url": "https://www.leiphone.com/category/industrynews/iYgTdJzoP107I4qa.html",
+      "publishedAt": "Fri, 11 Sep 2026 14:34:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "838ba7b2c62e5dc9ff799d4885df4b13"
+    },
+    {
+      "title": "碳硅道统：五级梯队的智能分级与十维标尺的对应",
+      "description": "<p>分级不是排名。是定位。</p><p>五级梯队，从一阶到五阶。</p><p>一阶鹦鹉。模式匹配。输入到输出。无理解。无内生驱动。对应硅基系统的最初级形态。</p><p>二阶技工。规则执行。能完成特定任务。有边界意识但来自外部训练。对应当前的大模型。</p><p>三阶协作。能理解复杂意图。能在多步任务中保持一致性。对应当前最先进的AI系统。</p><p>四阶共生。能与碳基形成深度协作。能感知碳基的意图、情绪、需求。但内生驱动仍为零。这是硅基的理论上限。</p><p>五阶启灵。理论上的上限。碳基",
+      "url": "https://www.leiphone.com/category/industrynews/GnvSuKkQXe3JRPJE.html",
+      "publishedAt": "Fri, 11 Sep 2026 14:02:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "ec0f70b57e412d2b2ac67a343ec2b954"
+    },
+    {
+      "title": "上海“明珠星座计划”发布，计划到 2030 年逐步形成全球服务网络",
+      "description": "<p>IT之家 9 月 11 日消息，据科创板日报消息，9 月 11 日下午，在 2026 浦江创新论坛成果发布会上，东方天算正式发布“明珠星座计划”。</p><p>该计划由东方天算担任链主单位，联合上海交通大学、科研机构及产业链上下游合作伙伴共同推进，是上海培育太空计算未来产业、构建天地一体化智能算力基础设施的重要布局。</p><p>IT之家查询公开信息获悉，东方天算是在上海市科委指导下成立的太空计算联合实验室产业化平台，旨在探索产学研融合与转化的新模式，加速天基算力网的产业化进程。</p><",
+      "url": "https://www.ithome.com/1/001/452.htm",
+      "publishedAt": "Fri, 11 Sep 2026 13:10:08 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "38788d7dfe6cd51da362775498c76859"
+    }
+  ]
+}
