@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-09-12T12:38:49.456379",
+  "count": 20,
+  "news": [
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "从“GPASS”到“灵影”，蚂蚁为AI终端铺设Agent基础设施",
+      "description": "<p>9月11日，在2026 Inclusion·外滩大会“AI驱动新终端新服务”论坛上，蚂蚁集团宣布，GPASS智能终端可信连接技术框架正式升级为“灵影”。</p><p>灵影定位于面向AI眼镜等新终端的Agent原生操作系统及开放平台，围绕自然交互、智能体运行、多端协同和安全可信提供底层能力，并向芯片伙伴、硬件厂商和开发者开放。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new",
+      "url": "https://www.leiphone.com/category/industrynews/XOOL34t59O0TvCAQ.html",
+      "publishedAt": "Sat, 12 Sep 2026 17:13:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "3c81811cc941d84afff59c3f2b8f39d4"
+    },
+    {
+      "title": "师生激辩外滩大会：云谷学校论坛给出一份“教育AI使用说明书”",
+      "description": "<p>9月12日上午，由杭州云谷学校与《三联生活周刊》联合推出的2026 Inclusion·外滩大会见解论坛教育专场，在上海黄浦世博园区举行。论坛以“认知增强，还是认知外包？——AI时代的教育选择”为主题，从人文、艺术到技术视角，从一线课堂到未来职场，各位嘉宾围绕“人是什么”的哲学思考、“什么能交出去、什么必须留下来”的边界之辩等议题，追问AI时代的教育与生活，究竟该是什么样。</p><p>&nbsp;</p><p style=\"text-align: center;\"><img src=\"h",
+      "url": "https://www.leiphone.com/category/industrynews/0i0LRe3Ohg0FXYk1.html",
+      "publishedAt": "Sat, 12 Sep 2026 17:01:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "5bae0612f1632b3c948cf68aa6f541c3"
+    },
+    {
+      "title": "从完成任务到自主发现，Agent后训练寻找下一个Scaling Law",
+      "description": "<p>当大模型开始调用工具、执行复杂任务，衡量其能力的标准也在发生变化：不仅要看能否给出正确答案，更要看能否在真实环境中持续行动、检查结果，并根据反馈调整策略。从模型能力到任务价值，这一转变需要怎样的训练方法与基础设施？智能体能否在工作中积累经验、不断进化，进而打开新的能力增长空间？</p><p>9月12日上午2026 Inclusion·外滩大会上，以“Agent Post-Training：智能本质与下一个 Scaling Law”为主题的见解论坛正式举行。</p><p>论坛围绕智能体后训练",
+      "url": "https://www.leiphone.com/category/industrynews/e7IcZ05CQ6HtNZZ2.html",
+      "publishedAt": "Sat, 12 Sep 2026 16:40:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "04617653f2e515df247665a4d9307fcb"
+    },
+    {
+      "title": "外滩大会蚂蚁集团吴敏芝谈AI时代组织价值：个体越强，组织越要回答凭什么留住人才",
+      "description": "<p>“都说AI让我们效率更高了，为什么我们反而变得更累了？”“自己每天教AI工作，是不是也在训练未来的替代者。”今年“外滩大会AI科技人文十问”中的这两个问题道出了AI进入工作之后人们的期待与不安，也引出了组织需要回答的问题：效率提升如何带来共同成长，个体能力增强之后，组织又靠什么凝聚人才？</p><p>&nbsp;</p><p>9月12日，由蚂蚁集团、香港大学、哈佛商业评论中国共同主办的“AI之于组织：智能驾驭与价值演进”见解论坛在2026 Inclusion·外滩大会举行。企业管理者、投资",
+      "url": "https://www.leiphone.com/category/industrynews/1kiVmZKNSYhfRDdS.html",
+      "publishedAt": "Sat, 12 Sep 2026 15:56:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "c2812231ec8ea7a26333147e5bc6216e"
+    },
+    {
+      "title": "AI重塑支付：从工具到生态，一场关于价值重估的产业对话",
+      "description": "<p>过去的支付，是人完成交易的最后一步；到了智能体时代，支付成为AI进入真实商业世界的关键一步。</p><p>&nbsp;</p><p>9月11日，在2026 Inclusion·外滩大会“Agentic Commerce的新可能”圆桌上，Kimi增长与商业化技术负责人付强、自然选择创始人Tristan、BAI资本高级合伙人赵鹏岚、蚂蚁集团AI支付总监林正茂，从模型、创业、投资和支付等不同视角，讨论了同一个问题：当越来越多的商业行为开始由智能体完成，支付在AI时代究竟意味着什么？它的价值是否被",
+      "url": "https://www.leiphone.com/category/industrynews/XVMBHPxkYkYLjpvy.html",
+      "publishedAt": "Sat, 12 Sep 2026 14:43:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "56ef9b30c2c51740c0816ad76f22e3b4"
+    },
+    {
+      "title": "外滩大会三问具身智能： 模型、数据、生态如何突围？",
+      "description": "<p>9月11日，蚂蚁灵波科技在2026 Inclusion·外滩大会举行“基座之上：具身智能的场景突围与协同进化”论坛。多位具身智能领域的年轻科学家、数据专家与百亿具身企业掌门人齐聚，围绕通用大脑、数据飞轮与场景落地展开讨论，现场座无虚席。</p><p>&nbsp;</p><p>具身智能正处在一个焦灼时刻：行业热度不断升高，人们对机器人“真干活”的期待也越来越高，但技术路线尚未收敛，真正有效的数据仍然稀缺，能够规模复制的产品形态和商业模式也还在探索。</p><p>&nbsp;</p><p>三场",
+      "url": "https://www.leiphone.com/category/industrynews/7lsrguW2f4twY8wp.html",
+      "publishedAt": "Sat, 12 Sep 2026 14:10:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "1912d39dc93a7716f9504f75cc300cbf"
+    },
+    {
+      "title": "从加油到高速服务，动口不动手：蚂蚁阿宝三大车载AI能力亮相2026外滩大会",
+      "description": "<p>9月9日至12日，2026 Inclusion·外滩大会在上海举办。大会集中展示AI智能体从技术创新走向规模化民生商用的最新成果，在智能座舱板块，支付宝重磅发布三大全新产品能力，让车内AI服务从“基础交互”迈入“全场景可交易、全链路能办事”的新阶段。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260912/6aa4e8d1dbd46.jpg?ima",
+      "url": "https://www.leiphone.com/category/industrynews/JNsgMV0H4k0FbeXy.html",
+      "publishedAt": "Sat, 12 Sep 2026 13:56:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "1a6d3c49f0703525421c172f5d1b499f"
+    },
+    {
+      "title": "支付宝携手多方共建“一碰通行”生态联盟，推动智慧出行体验全面升级",
+      "description": "<p>9月11日，2026外滩大会期间，支付宝联合上海公共交通卡、北京市政交通一卡通，以及华为、OPPO、vivo、荣耀等主流手机厂商，共同成立出行生态共创联盟。各方将发挥各自在交通服务、终端设备、支付能力等领域的优势，整合生态资源，以上海、北京为先行示范，加速推动NFC“一碰通行”在更多终端设备和出行场景中的规模化应用，共同探索智慧出行新模式。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/upl",
+      "url": "https://www.leiphone.com/category/industrynews/ybhEq0EjaXTkYCGM.html",
+      "publishedAt": "Sat, 12 Sep 2026 13:50:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "d892c1243c504d8846bd8a31e68a54b1"
+    },
+    {
+      "title": "全球首个适配万台级产能，柳州优必选万台级工业人形机器人超级智慧工厂投产",
+      "description": "<p>IT之家 9 月 12 日消息，据柳州市融媒体中心“柳州 1 号”公众号，9 月 12 日，柳州优必选万台级工业人形机器人超级智慧工厂投产仪式在北部生态新区举行。</p><p>该超级智慧工厂是优必选打造的<strong>全球首个适配万台级产能</strong>的工业人形机器人智能制造标杆工厂，依托工业仿真系统智能规划、数字化“智慧大脑”全域调度，真正落地“用机器人造机器人”新质生产力智造模式，按照产线设计节拍，<strong>每 10 分钟可下线 1 台机器人、年规划产能超万台</stro",
+      "url": "https://www.ithome.com/1/001/635.htm",
+      "publishedAt": "Sat, 12 Sep 2026 12:22:23 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "135d32a0b1a09c4f1e8cad0208d48f03"
+    },
+    {
+      "title": "中国工程院院士邬贺铨：2030 年中国算力有望占到全球 30%",
+      "description": "<p>IT之家 9 月 12 日消息，据中国算力大会官方，9 月 12 日，在 2026 中国算力大会主论坛上，中国工程院院士邬贺铨指出，智能体的出现带动了 Token 的消费。</p><blockquote><p>今年 3 月，Token 的消费已经达到日均 140 万亿。随着技术进步，<strong>Token 的消耗并不是以多为荣，而是以效率为荣</strong>。中国 Token 的应用成本不断下降，这也促进了 Token 的利用。</p><p>Token 带动算力，算力和 Token ",
+      "url": "https://www.ithome.com/1/001/634.htm",
+      "publishedAt": "Sat, 12 Sep 2026 12:14:05 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "3f06acfaffd4706fe8b003124b259bd2"
+    },
+    {
+      "title": "“Claude Code 之父”切尔尼谈 AI 编程：开发者核心职责是守住代码质量",
+      "description": "<p>IT之家 9 月 12 日消息，据《商业内幕》报道，随着 AI 彻底改变软件开发，Anthropic Claude Code 创作者鲍里斯 · 切尔尼认为，开发者真正需要守住的不是亲手写下每一行代码，而是代码质量本身。</p><p class=\"isSelectedEnd\">当地时间 10 日，切尔尼晒出了一封开发者写给他的邮件，标题是“怎么处理 AI 垃圾代码？”他提到，自己每天都会收到类似来信，也会尽量多回复一些。</p><p class=\"isSelectedEnd\">AI 改变了编",
+      "url": "https://www.ithome.com/1/001/633.htm",
+      "publishedAt": "Sat, 12 Sep 2026 12:12:14 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "450a012a6d832e7cf703b8c86a96c1f2"
+    },
+    {
+      "title": "苹果 iPhone 18 Pro 系列预购开启：新增可变光圈、首发 2 纳米 A20 Pro 芯片，9999 元起",
+      "description": "<p>IT之家 9 月 12 日消息，苹果 iPhone 18 Pro 系列手机将于今晚 8 点开启预购，新机包括 18 Pro 和 18 Pro Max 两款机型，起售价分别为 9999 元和 10999 元。</p><h3>IT之家整理价格信息如下：</h3><p><strong>iPhone 18 Pro</strong></p><ul class=\" list-paddingleft-2\"><li><p>256GB 版 9999 元</p></li><li><p>512GB 版 1199",
+      "url": "https://www.ithome.com/1/001/630.htm",
+      "publishedAt": "Sat, 12 Sep 2026 11:45:02 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "36ff92b30d7b359205d30016f4215302"
+    },
+    {
+      "title": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
+      "description": "On his first visit to India, Iranian President Masoud Pezeshkian said he will not surrender to the U.S. and Israel, as New Delhi renewed its appeal for peace.",
+      "url": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
+      "publishedAt": "Sat, 12 Sep 2026 11:35:16 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "64713c0f367da99b4618d637e3a8fa7a"
+    },
+    {
+      "title": "外滩大会观察：AI进入产业，数据正在成为新动能",
+      "description": "<p>AI时代，数据的价值正在被重新发现。</p><p>9月9日至12日，2026 Inclusion·外滩大会在上海世博园举行。相比过去聚焦“AI能做什么”，今年大会上，一个更底层的问题被反复讨论：当AI真正进入产业，企业手里的海量数据，如何才能被AI真正用起来？</p><p>在“数智进化：让多模态数据成为AI核心燃料”见解论坛上，来自高校、研究机构以及金融、政企、科技行业的专家和实践者展开讨论。从银行、保险、航空，到Agent、数字生命、医疗健康，一系列产业实践正在给出共同答案：AI要真正进",
+      "url": "https://www.leiphone.com/category/industrynews/A1m4SqClWZQDhIoO.html",
+      "publishedAt": "Sat, 12 Sep 2026 11:06:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "6839e4f500b4e8523e4357cf53bc44c6"
+    },
+    {
+      "title": "绿联发布 AI NAS iDX6011 Pro：酷睿 Ultra 7 255H、内存 64GB，首发价 15999 元",
+      "description": "<p>IT之家 9 月 12 日消息，绿联今日发布了 AI NAS iDX6011 Pro，日常价 19999 元，<strong>首发到手价 15999 元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/e48673a3-c5b5-4181-8fee-22566d3c93e8.jpg\" /></p><p>",
+      "url": "https://www.ithome.com/1/001/625.htm",
+      "publishedAt": "Sat, 12 Sep 2026 10:50:08 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "6bd33d6bbc35aff914ab5a08d8d91c4a"
+    },
+    {
+      "title": "AI能否自主做研究？听听这些专家怎么说",
+      "description": "<p>当人工智能开始参与提出假设、设计实验，并根据实验结果调整研究方向，AI与科学研究的关系正在发生变化。从材料发现到生命系统模拟，再到创新药研发，AI for Science的探索正从单个环节的效率提升，走向对科研过程的系统性重构。</p><p>如何让AI持续产生可验证的新知识，如何打通计算模型与真实实验之间的循环，也成为学术界和产业界共同面对的课题。</p><p>9月11日下午2026 Inclusion·外滩大会上，以“AI4S：当AI学会研究，技术会实现自主进化么”为主题的见解论坛正式举",
+      "url": "https://www.leiphone.com/category/industrynews/Xlz0dFtywcRmmVfB.html",
+      "publishedAt": "Sat, 12 Sep 2026 09:59:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "c7cc0d554f9d088de6e63769aed902e7"
+    },
+    {
+      "title": "微软承认 Win11 更新引发“代码 10”错误，部分 USB 音频设备无法正常工作",
+      "description": "<p>IT之家 9 月 12 日消息，据外媒 Neowin 今天（11 日）下午报道，此前消息称，微软确认 Windows 11 最新“补丁星期二”更新引发了两个新问题。数小时后，微软又确认了一项新的故障，<strong>导致 USB Audio Class 1.0 设备无法正常工作</strong>。</p><p>安装更新后，部分设备会在设备管理器中<strong>出现“代码 10”错误</strong>，并在多个 Windows 11 版本中完全失去声音输出。</p><p>故障影响 Wind",
+      "url": "https://www.ithome.com/1/001/609.htm",
+      "publishedAt": "Sat, 12 Sep 2026 09:55:13 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "0e0cdd9ccc4b0cc42536791ac3b3c975"
+    }
+  ]
+}
