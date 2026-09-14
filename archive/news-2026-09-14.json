@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-09-14T15:41:47.920019",
+  "count": 20,
+  "news": [
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
+      "description": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings.",
+      "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+      "publishedAt": "Sun, 13 Sep 2026 22:21:33 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "7332fc2220dcf2d2de8ed724b085a4cb"
+    },
+    {
+      "title": "斜跃智能完成数亿元天使+轮融资，加速推进Duplex Reasoning全新范式具身基础模型",
+      "description": "<p style=\"margin-top: 24pt; margin-bottom: 24pt;\"><span style=\"font-family: Arial; font-size: 11pt;\">近日，斜跃智能完成数亿元天使+轮融资，线性资本、钧山资本、弘颐资本、隐山资本等机构参与投资。随着这一轮融资完成，斜跃将持续推进具身基础模型训练、算力与数据基础设施建设和核心团队扩充，以及家庭机器人本体研发和场景验证。</span></p><p style=\"margin-top: 0px; mar",
+      "url": "https://www.leiphone.com/category/industrynews/PHYwHDvtZ5GGXTK6.html",
+      "publishedAt": "Sun, 13 Sep 2026 18:30:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "6299e1aca6268befb08cb7362e72cbdc"
+    },
+    {
+      "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
+      "description": "The House is scheduled to be sent home in the coming days until after November's midterm elections, leaving a narrow window to pass any form of AI regulation.",
+      "url": "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
+      "publishedAt": "Sun, 13 Sep 2026 17:48:53 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "82cc75950d892375226c6e03a00b4e7b"
+    },
+    {
+      "title": "让AI真正“住进家里”：后摩智能×绿联HomeAgent探索家庭智能新形态",
+      "description": "<p>9月12日晚，绿联科技品牌全球发布会正式举行。绿联发布与后摩智能合作的UGREEN HomeAgent HA100 Pro，以本地AI算力打造家庭AI中枢。</p><p>当AI开始从云端走向终端，它正在进入越来越多真实的生活场景，家庭正是其中之一。</p><p>如今，智能摄像头、音箱、NAS等设备不断进入家庭，但设备增多并不意味着真正的智能：数据分散、入口割裂，照片、视频、家庭监控等数据也面临隐私与安全的考验。</p><p>家庭需要的，或许不只是更多智能设备，而是一个能够理解家庭数据、连接",
+      "url": "https://www.leiphone.com/category/chips/OWi6OEGUYbDYwZof.html",
+      "publishedAt": "Sun, 13 Sep 2026 17:16:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "df0ef77ebd4bd135f0acef1bf7b102f6"
+    },
+    {
+      "title": "蚂蚁数科在外滩大会达成31项AI合作，推动智能体走进千行百业",
+      "description": "<p>在近日举行的2026 Inclusion·外滩大会上，蚂蚁数科围绕绿色能源、智能终端、酒店文旅、数字内容等领域达成31项合作，携手多家签约单位推动AI智能体、区块链、可信数据等技术在千行百业加速落地。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260913/6aa6682f1b22e.jpg?imageView2/2/w/740\" /></p><p",
+      "url": "https://www.leiphone.com/category/industrynews/z9XsFJXTUkbHBZFs.html",
+      "publishedAt": "Sun, 13 Sep 2026 17:13:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "1cbf70d513e205df6f8c61259c6797ef"
+    },
+    {
+      "title": "大模型牌桌上，蚂蚁如何出牌？",
+      "description": "<p>谈起国内 AI 公司，人们首先想到的往往是智谱、MiniMax、月之暗面等大模型创业公司，或者阿里、腾讯、字节这些拥有云和流量入口的大厂。</p><p>在这张竞争地图里，蚂蚁的位置一直没有那么容易被描述。它也做大模型，也做面向消费者的 AI 应用，现在甚至开始进入具身智能。</p><p>蚂蚁到底想在 AI 产业里占据什么位置？它准备依靠什么与其他大模型公司竞争，又想把自己的护城河修在哪里？雷峰网注意到，2026 Inclusion·外滩大会，提供了一个观察蚂蚁 AI 布局的窗口。</p><",
+      "url": "https://www.leiphone.com/category/ai/0j9Qu8Jg28bUaM5w.html",
+      "publishedAt": "Sun, 13 Sep 2026 16:22:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "74772e55b57a31d29081cc525579ae57"
+    },
+    {
+      "title": "The wages of American workers are under pressure. AI's potential role is drawing more attention",
+      "description": "Wage growth for workers has slowed and is struggling to keep up with inflation, drawing attention to AI's potential role even as evidence remains incomplete.",
+      "url": "https://www.cnbc.com/2026/09/13/ai-jobs-pay-inflation.html",
+      "publishedAt": "Sun, 13 Sep 2026 13:52:58 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "64ecc5798b3f5cb7f3e94477a30e791f"
+    },
+    {
+      "title": "2026服贸会期间 七国政要议员体验萝卜快跑 “取经”中国绿色出行新质生产力",
+      "description": "<p>“我真的非常喜欢！车辆行驶很平稳，像一位经验丰富的司机。希望能尽快引入到我们的国家，并在世界更多国家落地。”9月12日，来华参加2026服贸会相关活动的巴基斯坦总理气候变化与环境协调事务协调员Romina Khurshid Alam在体验完萝卜快跑后表示。当天，CVF-V20（气候脆弱国家论坛-脆弱二十国集团）政要团组到访北京Apollo Park，近距离了解中国无人驾驶技术在真实交通场景中的应用，并围绕绿色低碳出行、智慧交通、可持续发展等话题展开交流，百度集团副总裁、智能驾驶事业群组总裁",
+      "url": "https://www.leiphone.com/category/industrynews/Xp2MImq51mcwHJlL.html",
+      "publishedAt": "Sun, 13 Sep 2026 09:57:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "b042b8ae4b2aa32280d23136911e6d24"
+    },
+    {
+      "title": "2026外滩大会闭幕：50余项科技成果首发首展， 80多个产业合作达成意向",
+      "description": "<p>9月12日，2026 Inclusion·外滩大会在上海黄浦世博园区闭幕。围绕“共创AI新经济”主题，来自研究一线、产业一线、投资界的670余位嘉宾深入探讨了人工智能对生产、消费、商业及社会形态的深刻影响。300余家企业集中展示了AI技术在医疗健康、支付、金融、零售、生活服务等真实场景中的最新应用成果。</p><p>大会组委会披露，四天时间，50余项技术、产品和应用在大会首发首展，覆盖智能体、具身智能、AI终端、量子科技、金融科技等多个方向。大会共吸引来自50多个国家和地区的嘉宾和观众，超",
+      "url": "https://www.leiphone.com/category/industrynews/2AopCWDkpGmBAL9L.html",
+      "publishedAt": "Sat, 12 Sep 2026 20:14:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "204e6d62ee075f1d0e2cf0752f943bf0"
+    },
+    {
+      "title": "0团队、1台电脑、全球70国用户，外滩大会见证个人造风者登场",
+      "description": "<p>科技圈从来不缺“按资排辈”的舞台，但这个9月，在上海黄浦江畔举行的2026 Inclusion·外滩大会，正在打破常规。</p><p>&nbsp;</p><p>穿行于大会现场，记者感受到了一种强烈的叙事转向：在全新的技术周期里，资历的壁垒正在坍缩，未来正被第一批AI原住民重新执笔。这主要体现在，主论坛和见解论坛的聚光灯不再仅仅留给功成名就的行业巨擘，而是对准了一批二三十岁的“造风者”；超级个体日让“不被定义的我”得到多面且鲜活的呈现；AI Coding黑客松大赛更是打破年龄和背景限制，上万",
+      "url": "https://www.leiphone.com/category/industrynews/Elgap4KyV9VEWLce.html",
+      "publishedAt": "Sat, 12 Sep 2026 19:57:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "227b9e84688f4db72db2d3612a83fc2d"
+    },
+    {
+      "title": "从“GPASS”到“灵影”，蚂蚁为AI终端铺设Agent基础设施",
+      "description": "<p>9月11日，在2026 Inclusion·外滩大会“AI驱动新终端新服务”论坛上，蚂蚁集团宣布，GPASS智能终端可信连接技术框架正式升级为“灵影”。</p><p>灵影定位于面向AI眼镜等新终端的Agent原生操作系统及开放平台，围绕自然交互、智能体运行、多端协同和安全可信提供底层能力，并向芯片伙伴、硬件厂商和开发者开放。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new",
+      "url": "https://www.leiphone.com/category/industrynews/XOOL34t59O0TvCAQ.html",
+      "publishedAt": "Sat, 12 Sep 2026 17:13:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "3c81811cc941d84afff59c3f2b8f39d4"
+    },
+    {
+      "title": "师生激辩外滩大会：云谷学校论坛给出一份“教育AI使用说明书”",
+      "description": "<p>9月12日上午，由杭州云谷学校与《三联生活周刊》联合推出的2026 Inclusion·外滩大会见解论坛教育专场，在上海黄浦世博园区举行。论坛以“认知增强，还是认知外包？——AI时代的教育选择”为主题，从人文、艺术到技术视角，从一线课堂到未来职场，各位嘉宾围绕“人是什么”的哲学思考、“什么能交出去、什么必须留下来”的边界之辩等议题，追问AI时代的教育与生活，究竟该是什么样。</p><p>&nbsp;</p><p style=\"text-align: center;\"><img src=\"h",
+      "url": "https://www.leiphone.com/category/industrynews/0i0LRe3Ohg0FXYk1.html",
+      "publishedAt": "Sat, 12 Sep 2026 17:01:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "5bae0612f1632b3c948cf68aa6f541c3"
+    },
+    {
+      "title": "从完成任务到自主发现，Agent后训练寻找下一个Scaling Law",
+      "description": "<p>当大模型开始调用工具、执行复杂任务，衡量其能力的标准也在发生变化：不仅要看能否给出正确答案，更要看能否在真实环境中持续行动、检查结果，并根据反馈调整策略。从模型能力到任务价值，这一转变需要怎样的训练方法与基础设施？智能体能否在工作中积累经验、不断进化，进而打开新的能力增长空间？</p><p>9月12日上午2026 Inclusion·外滩大会上，以“Agent Post-Training：智能本质与下一个 Scaling Law”为主题的见解论坛正式举行。</p><p>论坛围绕智能体后训练",
+      "url": "https://www.leiphone.com/category/industrynews/e7IcZ05CQ6HtNZZ2.html",
+      "publishedAt": "Sat, 12 Sep 2026 16:40:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "04617653f2e515df247665a4d9307fcb"
+    },
+    {
+      "title": "外滩大会蚂蚁集团吴敏芝谈AI时代组织价值：个体越强，组织越要回答凭什么留住人才",
+      "description": "<p>“都说AI让我们效率更高了，为什么我们反而变得更累了？”“自己每天教AI工作，是不是也在训练未来的替代者。”今年“外滩大会AI科技人文十问”中的这两个问题道出了AI进入工作之后人们的期待与不安，也引出了组织需要回答的问题：效率提升如何带来共同成长，个体能力增强之后，组织又靠什么凝聚人才？</p><p>&nbsp;</p><p>9月12日，由蚂蚁集团、香港大学、哈佛商业评论中国共同主办的“AI之于组织：智能驾驭与价值演进”见解论坛在2026 Inclusion·外滩大会举行。企业管理者、投资",
+      "url": "https://www.leiphone.com/category/industrynews/1kiVmZKNSYhfRDdS.html",
+      "publishedAt": "Sat, 12 Sep 2026 15:56:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "c2812231ec8ea7a26333147e5bc6216e"
+    },
+    {
+      "title": "AI重塑支付：从工具到生态，一场关于价值重估的产业对话",
+      "description": "<p>过去的支付，是人完成交易的最后一步；到了智能体时代，支付成为AI进入真实商业世界的关键一步。</p><p>&nbsp;</p><p>9月11日，在2026 Inclusion·外滩大会“Agentic Commerce的新可能”圆桌上，Kimi增长与商业化技术负责人付强、自然选择创始人Tristan、BAI资本高级合伙人赵鹏岚、蚂蚁集团AI支付总监林正茂，从模型、创业、投资和支付等不同视角，讨论了同一个问题：当越来越多的商业行为开始由智能体完成，支付在AI时代究竟意味着什么？它的价值是否被",
+      "url": "https://www.leiphone.com/category/industrynews/XVMBHPxkYkYLjpvy.html",
+      "publishedAt": "Sat, 12 Sep 2026 14:43:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "56ef9b30c2c51740c0816ad76f22e3b4"
+    },
+    {
+      "title": "蚂蚁发布大模型内生式安全护栏SingProbe，让AI边生成边识别风险",
+      "description": "<p>大模型正在进入日常问答、办公辅助、客户服务等真实业务场景。用户期待AI快速给出有用的回答，也需要这些回答安全、可靠。如何及时发现不安全内容和编造信息，同时减少安全审核对响应速度和用户体验的影响，成为大模型应用落地需要解决的问题。</p><p><img src=\"https://static.leiphone.com/uploads/new/images/20260914/6aa7f4fda574a.jpg?imageMogr2/quality/90\" /></p><p>国家网络安全宣传周期",
+      "url": "https://www.leiphone.com/category/industrynews/pvwJSKM5MEEd1H5N.html",
+      "publishedAt": "Mon, 14 Sep 2026 21:22:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "f98a5bd5a3592cc5ad9d7f835615cd7b"
+    },
+    {
+      "title": "全球AI大厂集体呼吁“限速” 360：AI安全不能靠企业自审，需第三方攻防把关",
+      "description": "<p>近日，Anthropic、OpenAI、xAI、谷歌DeepMind等全球顶尖AI企业达成罕见行业共识，集体呼吁对前沿AI技术发展实施“全球限速”，通过放缓迭代节奏规避AI失控风险。针对这一趋势，360认为：AI限速仅能为安全治理争取缓冲时间，无法根治风险。AI安全不能仅依赖厂商自我审查，需要引入独立第三方攻防力量把关，填补自审盲区。</p><p>当前，随着大模型、自主智能体技术快速迭代，AI已具备自主网络访问、漏洞利用、跨系统调用能力，技术进化速度远超现有安全体系建设节奏，各类高危隐性风",
+      "url": "https://www.leiphone.com/category/industrynews/gVsESfQelkqfh9wY.html",
+      "publishedAt": "Mon, 14 Sep 2026 19:43:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "c017fdde3ba0721e60a173dd94dd16cd"
+    }
+  ]
+}
