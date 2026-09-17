@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-09-17T14:08:04.882428",
+  "count": 20,
+  "news": [
+    {
+      "title": "Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and Salesforce",
+      "description": "Snap is partnering with Nvidia, Amazon Web Services and Salesforce as part of an enterprise sales push centered on its $2,000 Specs AR glasses.",
+      "url": "https://www.cnbc.com/2026/09/16/snap-enterprise-ai-service.html",
+      "publishedAt": "Wed, 16 Sep 2026 23:40:05 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "c7b5f247fd422aac53fb26e99cab8fbd"
+    },
+    {
+      "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
+      "description": "OpenAI has disclosed six new cases of model misbehavior and offered a framework for disclosing future instances, as the debate over AI model safety intensifies.",
+      "url": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
+      "publishedAt": "Wed, 16 Sep 2026 23:05:48 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "7daba1000c080e5c426bd3e1d2b4fcec"
+    },
+    {
+      "title": "Huawei Accelerates Launch of New AI Chip to Take On Nvidia",
+      "description": "Huawei Technologies Co. is accelerating the debut of its next-generation AI chip in 2027 by several months as it aims to replace Nvidia Corp. in China and compete on the global stage.",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-16/huawei-set-to-unveil-china-s-best-answer-to-nvidia-ai-chip-reign",
+      "publishedAt": "Wed, 16 Sep 2026 23:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "c9c77decf0f736e8000d4bc0b84fe64b"
+    },
+    {
+      "title": "Arm CEO says he's more confident its new AI chip can meet a loftier $2B revenue goal",
+      "description": "Arm Holdings CEO Rene Haas said Wednesday he is increasingly confident the chip designer can secure enough supply to meet $2 billion in customer demand.",
+      "url": "https://www.cnbc.com/2026/09/16/jim-cramer-arm-ceo-ai-revenue-goal.html",
+      "publishedAt": "Wed, 16 Sep 2026 22:52:20 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "ddbef3832b35316561241f6f696c5bf6"
+    },
+    {
+      "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
+      "description": "Amazon was granted warrants to buy up to $340 million worth of Generac stock as part of a deal to supply backup power generators for its data centers.",
+      "url": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
+      "publishedAt": "Wed, 16 Sep 2026 21:40:18 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "7284f559d3c9d82642bb17eff2a00b7b"
+    },
+    {
+      "title": "'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices",
+      "description": "Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday.",
+      "url": "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html",
+      "publishedAt": "Wed, 16 Sep 2026 20:22:24 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "699da040fd5aba0fc13a68d3d7dfb3d5"
+    },
+    {
+      "title": "Boeing CEO: 737 Max production taking 'a little bit longer' to stabilize than expected",
+      "description": "Boeing CEO Kelly Ortberg said wing production at its Renton, Washington, factory is a hold up, adding the company has plans to address it.",
+      "url": "https://www.cnbc.com/2026/09/16/boeing-ceo-737-max-production.html",
+      "publishedAt": "Wed, 16 Sep 2026 19:36:24 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "9d6c5c3e46cc6d66c9a193b9b3851fe4"
+    },
+    {
+      "title": "芯片从业者拆解OpenAI造芯，还能再快3个月？",
+      "description": "<section><section><section><section><section style=\"text-align: center;\"><img class=\"rich_pages wxw-img js_insertlocalimg\" src=\"https://static.leiphone.com/uploads/new/images/20260916/6aaa7155ce590.png?imageMogr2/quality/90\" style=\"width: 100%;\" type",
+      "url": "https://www.leiphone.com/category/chips/FNvnd45qiCTsT6IR.html",
+      "publishedAt": "Wed, 16 Sep 2026 18:38:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "59f1099a5d986b6ce4bfae85c95fc843"
+    },
+    {
+      "title": "被AI放大的光学「戏份」，让「配角」舜宇的生意越做越大",
+      "description": "<p style=\"text-align: left; margin-top: 6pt; margin-bottom: 6pt;\"><br /></p><p style=\"text-align: left; margin-top: 6pt; margin-bottom: 6pt;\"><span style=\"font-family: 'Arial'; font-size: 11pt;\">作者 | 陈悦琳</span></p><p style=\"text-align: left; margin-t",
+      "url": "https://www.leiphone.com/category/iot/n1PzfiDNtDc0NYgy.html",
+      "publishedAt": "Wed, 16 Sep 2026 18:33:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "95bb03f0f47d922f7b641e0b39b5af3d"
+    },
+    {
+      "title": "2nm天玑9600 Pro，把旗舰SoC竞争推向「融合计算」",
+      "description": "<p style=\"line-height: 2em; margin-top: 15px; margin-bottom: 15px;\"><span>智能体让旗舰SoC从拼核心，转向拼系统。</span></p><p style=\"line-height: 2em; margin-top: 15px; margin-bottom: 15px;\"><span style=\"font-family: '微软雅黑 Light';\">过去数年，旗舰手机芯片的升级路径非常清晰，制程更先进、CPU主频更高、G",
+      "url": "https://www.leiphone.com/category/chips/pE0IvGEQtRiAdZcO.html",
+      "publishedAt": "Wed, 16 Sep 2026 18:02:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "f1f0ae2e9bf0c5904fe929f79c5ae356"
+    },
+    {
+      "title": "华为坤灵升级“4+10+N”场景化方案，发布“经纬计划”和50个样板点",
+      "description": "<p style=\"text-align: justify; margin-top: 0; margin-bottom: 0;\"><span style=\"font-family: '微软雅黑'; font-size: 12pt; color: #333333;\">[中国，上海，2026年9月16日] 今日，华为坤灵新品发布会2026在上海举行。华为常务董事、ICT BG CEO杨超</span><span style=\"font-family: '微软雅黑'; font-size: 12pt;",
+      "url": "https://www.leiphone.com/category/industrynews/3eVYZT04EAfdhQZ3.html",
+      "publishedAt": "Wed, 16 Sep 2026 17:27:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "4c733a195b85be57f1828dd4f9ff1950"
+    },
+    {
+      "title": "碧桂园服务与支付宝全面深化合作，共筑“智慧物业”数字化新标杆",
+      "description": "<p>2026年9月15日，碧桂园服务与支付宝正式签署合作协议。双方宣布将围绕物业服务升级、年终缴费大促及智慧社区建设等领域开展深度合作。此次合作标志着双方合作全面升级，通过数字化技术为业主打造更具获得感的服务体验，同时为物业行业降本增效提供参考。</p><p><img src=\"https://static.leiphone.com/uploads/new/images/20260916/6aaa57d1750e2.png?imageMogr2/quality/90\" /></p><p><st",
+      "url": "https://www.leiphone.com/category/industrynews/U2JufXg1A3ES2dfg.html",
+      "publishedAt": "Wed, 16 Sep 2026 16:48:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "5f5cda3634dff94342438a542a8ca035"
+    },
+    {
+      "title": "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用",
+      "description": "<p>2026年 9 月 15 日，AI基础设施公司基元律动（TokenRhythm）与无问芯穹（Infinigence AI）签署战略合作协议。双方将结合无问芯穹的Agentic Infra产品及服务体系与基元律动的多模型服务、智能路由能力，围绕高质量Token的供给、调度与应用展开合作，共同开拓市场。</p><p><img src=\"https://static.leiphone.com/uploads/new/images/20260916/6aaa516685945.jpg?imageM",
+      "url": "https://www.leiphone.com/category/industrynews/nFBwVeaZsAi37i5Q.html",
+      "publishedAt": "Wed, 16 Sep 2026 16:20:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "de726d0e7b32dc6c4f1bf52ac846b5d2"
+    },
+    {
+      "title": "Carlyle’s Basmadjian on AI Debt Reshaping the Loan Market",
+      "description": "Carlyle Global Head of Liquid Credit Lauren Basmadjian spoke with Bloomberg’s Dani Burger from the sidelines of Carlyle’s Global Investor Conference and talked about the health of corporate borrowers, the loan market moving toward equilibrium, data c",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-15/carlyle-s-basmadjian-on-ai-debt-reshaping-the-loan-market",
+      "publishedAt": "Tue, 15 Sep 2026 16:14:43 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "0c54f409df36d5c2882e232362884ca1"
+    },
+    {
+      "title": "九识建成首个L4万卡集群，无人驾驶进入多模态大模型新范式",
+      "description": "<p>一家做无人车的公司，为什么需要一万多张GPU？</p><p>9月10日，九识CEO孔旗在广州宣布战略升级为“城市级物理AI”。一周后的9月17日，CTO庄立首次披露支撑这次升级的底层能力：九识已建成业内首个L4级万卡集群，算力集群总规模近1.5万卡。九识也成为首个建成万卡集群的L4团队。</p><p>而万卡算力的背后，是一个正在从百亿级迈向千亿级的九识APEX多模态基座大模型。</p><p><span style=\"font-size: 20px;\"><strong>无人驾驶下半场：迈入多",
+      "url": "https://www.leiphone.com/category/industrynews/sOtgTcXitH6C7vAT.html",
+      "publishedAt": "Thu, 17 Sep 2026 18:14:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "96cffd1a5b3f5818318071ca1d1dd029"
+    },
+    {
+      "title": "安芯启程｜安芯724北京基地正式投产",
+      "description": "<p>2026年9月16日，柒贰肆安芯技术服务有限公司（简称“安芯724”）北京基地投产活动暨品牌发布会在北京市昌平区未来星科能源谷智造产业园举行。安芯724北京基地正式投产，此举标志着安芯724在GPU及AI算力设备全生命周期服务领域进入体系化运营新阶段。</p><p><img src=\"https://static.leiphone.com/uploads/new/images/20260917/6aabb68039705.jpg?imageMogr2/quality/90\" /></p><",
+      "url": "https://www.leiphone.com/category/industrynews/KOCAotOwioun3Los.html",
+      "publishedAt": "Thu, 17 Sep 2026 17:44:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "566982c548667996b769d3d954214426"
+    },
+    {
+      "title": "蚂蚁集团全员接入千问办公，打造大型企业办公标杆",
+      "description": "<p>9月17日，记者获悉，蚂蚁集团正式接入千问办公，作为全公司的智能办公Agent底座，供全员使用，打造大型企业办公的标杆。</p><p>&nbsp;</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260917/6aaba3c3140cd.png?imageView2/2/w/740\" />&nbsp;</p><p style=\"text-align: c",
+      "url": "https://www.leiphone.com/category/industrynews/U3X9WHILcYX0kh4l.html",
+      "publishedAt": "Thu, 17 Sep 2026 16:25:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "67d6c880330510a3c70f3988d0c09a1d"
+    },
+    {
+      "title": "AI办公之外，百度智能云为何盯上「产业智能体操作系统」？",
+      "description": "<p>“整个下半年，就看AI办公圈谁能杀出重围了”。一位大模型从业者对雷峰网表示。</p><p>从五月开始，各个互联网大厂争相出场，写字楼电梯间、机场候机室，到处都是Workbuddy、千问办公、豆包工作、百度搭子的内容。</p><p>但办公大战打得再热闹，顶多算是一道前菜。</p><p>早在2025年，微软的Work Trend Index就提出过，AI进入企业分三步：帮员工做得更快、成为团队里的“数字同事”、直接执行完整的业务流程。</p><p>对照这个坐标，眼下的办公之争，其实还停在前两步",
+      "url": "https://www.leiphone.com/category/industrynews/oZjAyDmVEtf8iH76.html",
+      "publishedAt": "Thu, 17 Sep 2026 16:15:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "ab99407529f5033b9aaff71c5b379776"
+    },
+    {
+      "title": "独家丨BAT 天价挖 Gemini 大牛，可惜都挖错了",
+      "description": "<p>据雷峰网独家获悉，一位 Google Gemini 的预训练专家，于近期已加入国内某互联网大厂。</p><p>该研究员在 Google 的职级或是 L7- L8，接近总监级别，长期在英国工作，入职后主要从事预训练相关工作，也经常往返国内出差。</p><p>一位知情人士看来，这可能是国内大厂这一轮争抢 Gemini 人才以来，第一次真正“找对了人”。</p><p>上述人士告诉雷峰网，此前多家大厂均从 Gemini 引入过人才，但部分人选并未触及核心。他们之中，或只参与预/后训练边缘环节，或是",
+      "url": "https://www.leiphone.com/category/industrynews/dXtXNwFL1snjR35X.html",
+      "publishedAt": "Thu, 17 Sep 2026 16:02:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "486cdc2ed446e10784a5bf8dfe75910d"
+    },
+    {
+      "title": "独家丨前腾讯混元预训练负责人姚星丞，加入Thinking Machines Lab",
+      "description": "<p>雷峰网独家获悉，腾讯混元大语言模型预训练负责人姚星丞，近日已加入北美创业公司Thinking Machines Lab。</p><p>据知情人士透露，Thinking Machines Lab此次给姚星丞开出的薪资，明显高于其在腾讯的收入。而姚星丞在腾讯的年薪包，大约在数千万元人民币区间。</p><p>此前，姚星丞曾被传将加入Meta，如今靴子落地，他最终选择了这家由OpenAI前CTO Mira Murati创办的AI公司。</p><p>姚星丞今年7月从腾讯离职，主要负责腾讯混元大语言模",
+      "url": "https://www.leiphone.com/category/industrynews/xfxXxO3233YuLZEJ.html",
+      "publishedAt": "Thu, 17 Sep 2026 15:52:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "24bdd47b1bfc68cc86fc7c79d3d81ab5"
+    }
+  ]
+}
