@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-09-19T12:54:38.742400",
+  "count": 20,
+  "news": [
+    {
+      "title": "华为开创AI时代计算架构：让百万处理器成为一台计算机",
+      "description": "<p><strong>关键信息：</strong></p><p>• Peerium计算架构突破了图灵范式，提出了Nested BSP，突破了冯·诺依曼单机架构，颠覆了长久以来的主从架构，实现了百万级处理器真正成为一台更大的计算机。</p><p>• 灵衢是实现Peerium计算架构的关键互联技术。</p><hr /><p>[中国，上海，2026年9月17日] 今日，华为发布AI时代的全新计算架构 – Peerium计算架构。该架构能实现百万级处理器成为一台计算机，以满足不断发展的AI算力需求。</",
+      "url": "https://www.leiphone.com/category/industrynews/ZAv4gLB8zM5B5PBX.html",
+      "publishedAt": "Thu, 17 Sep 2026 22:25:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "3d363b0992e1518b8fefd306c440c02f"
+    },
+    {
+      "title": "360纳米Work启动“双城千店上岗计划” 探索实体商业AI落地新路径",
+      "description": "<p>9月17日，2026北京艺术与科技周在北京798艺术区开幕。360集团创始人周鸿祎参加开幕式，并宣布360旗下AI办公平台纳米Work正式启动“双城千店上岗计划”。作为本届活动独家AI合作伙伴与官方办公支持平台，纳米Work将以798为首站推进场景合作；10月也将以同一身份参与第11届陆家嘴国际咖啡文化节。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/2",
+      "url": "https://www.leiphone.com/category/industrynews/IX9DPt2tjo0E0gDh.html",
+      "publishedAt": "Thu, 17 Sep 2026 20:31:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "7039be6615e66ac2232241300e5bf006"
+    },
+    {
+      "title": "九识建成首个L4万卡集群，无人驾驶进入多模态大模型新范式",
+      "description": "<p>一家做无人车的公司，为什么需要一万多张GPU？</p><p>9月10日，九识CEO孔旗在广州宣布战略升级为“城市级物理AI”。一周后的9月17日，CTO庄立首次披露支撑这次升级的底层能力：九识已建成业内首个L4级万卡集群，算力集群总规模近1.5万卡。九识也成为首个建成万卡集群的L4团队。</p><p>而万卡算力的背后，是一个正在从百亿级迈向千亿级的九识APEX多模态基座大模型。</p><p><span style=\"font-size: 20px;\"><strong>无人驾驶下半场：迈入多",
+      "url": "https://www.leiphone.com/category/industrynews/sOtgTcXitH6C7vAT.html",
+      "publishedAt": "Thu, 17 Sep 2026 18:14:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "96cffd1a5b3f5818318071ca1d1dd029"
+    },
+    {
+      "title": "安芯启程｜安芯724北京基地正式投产",
+      "description": "<p>2026年9月16日，柒贰肆安芯技术服务有限公司（简称“安芯724”）北京基地投产活动暨品牌发布会在北京市昌平区未来星科能源谷智造产业园举行。安芯724北京基地正式投产，此举标志着安芯724在GPU及AI算力设备全生命周期服务领域进入体系化运营新阶段。</p><p><img src=\"https://static.leiphone.com/uploads/new/images/20260917/6aabb68039705.jpg?imageMogr2/quality/90\" /></p><",
+      "url": "https://www.leiphone.com/category/industrynews/KOCAotOwioun3Los.html",
+      "publishedAt": "Thu, 17 Sep 2026 17:44:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "566982c548667996b769d3d954214426"
+    },
+    {
+      "title": "Clara Wu Tsai on the NY Liberty, Rise of the WNBA | The David Rubenstein Show",
+      "description": "Clara Wu Tsai is one of the most influential sports owners and philanthropists today. In 2019, she and her husband, Joe Tsai, bought the New York Liberty, where she helped transform the franchise into a WNBA championship team by investing in players,",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-17/ny-liberty-co-owner-wu-tsai-the-david-rubenstein-show-video",
+      "publishedAt": "Thu, 17 Sep 2026 13:08:50 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "8bf4d7dbf0d977c98c9f60c4b1812775"
+    },
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "Buffett takes next step in plan to keep Berkshire from straying",
+      "description": "Warren Buffett steps down as Berkshire Hathaway's chairman, passing the job to his son, Howard.",
+      "url": "https://www.cnbc.com/2026/09/19/warren-buffett-takes-next-step-in-plan-to-keep-berkshire-from-straying.html",
+      "publishedAt": "Sat, 19 Sep 2026 12:43:56 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "4eb183e8b20ca715270e14a937d5057f"
+    },
+    {
+      "title": "达尔优 A5 头戴式游戏耳机发布：CS / 三角洲行动 / 竞技模式一键切换，预售 369 元起",
+      "description": "<p>IT之家 9 月 19 日消息，达尔优 A5 头戴式游戏耳机今日发布，9 月 21 日 20:00 全平台开售，Pro 版预售 369 元，Max 版 459 元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/8e21c18b-997d-4734-8efe-65ea7a4dbf32.jpg?x-bce-process=",
+      "url": "https://www.ithome.com/1/004/555.htm",
+      "publishedAt": "Sat, 19 Sep 2026 12:41:43 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "44a6d2b3a610d5292586506863c3e8b7"
+    },
+    {
+      "title": "The AI kill switch, explained: 'It's not too little, but it's probably too late'",
+      "description": "As runaway AI fears reach a crescendo, policymakers and tech leaders are weighing the effectiveness of a magic AI stop button known as a kill switch.",
+      "url": "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html",
+      "publishedAt": "Sat, 19 Sep 2026 12:00:01 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "31ba99d3e86597e22817a3bc57f108f2"
+    },
+    {
+      "title": "荣耀学习空间 App 手机版上线：Magic8、WIN 系列等机型率先适配",
+      "description": "<p>IT之家 9 月 19 日消息，荣耀学习空间 App 手机版今日官宣上线，AI 作业辅导工具、同步教材、课后教辅、名师课统统装进荣耀手机里。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/a965592a-0739-4481-8428-28b82311bfc9.jpg?x-bce-process=image/format",
+      "url": "https://www.ithome.com/1/004/536.htm",
+      "publishedAt": "Sat, 19 Sep 2026 11:36:56 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "918bee4acc50a62883cccde68a63348f"
+    },
+    {
+      "title": "巨头喊 AI 刹车，宏碁董事长陈俊圣称不太可能、技术发展只会越来越快",
+      "description": "<p>IT之家 9 月 19 日消息，近期，Anthropic 首席执行官达里奥 · 阿莫迪、OpenAI 首席执行官萨姆 · 奥尔特曼以及特斯拉首席执行官埃隆 · 马斯克相继呼吁，应暂缓最先进人工智能的研发步伐。</p><p>据台媒经济日报今日报道，宏碁集团创始人施振荣认为，<strong>科技的进步实际上是停不下来</strong>；宏碁董事长陈俊圣更直言“不太可能”，<strong>因为技术发展只会越来越快</strong>，重点还是如何在过程中做有效治理。</p><p>IT之家注意到，陈",
+      "url": "https://www.ithome.com/1/004/535.htm",
+      "publishedAt": "Sat, 19 Sep 2026 11:31:16 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "e2acec4b8f5354b86bbc73425383dbe1"
+    },
+    {
+      "title": "SpaceXAI 发布 Grok Voice Transcribe 2.0 语音转文本模型：错误率降低约一半，价格保持不变",
+      "description": "<p>IT之家 9 月 19 日消息，当地时间 9 月 18 日，SpaceXAI 发布了 Grok Voice Transcribe 2.0 语音转文本模型，在保持价格不变的前提下，错误率降低约一半。</p><p>官方表示，Grok Voice Transcribe 2.0 基于 Grok Voice 底层的音频基础模型构建。目前，Grok Voice 已全面赋能实际业务：每天承接数万通客服电话，转录数百万小时的视频旁白，并驱动实体硬件中的各类语音智能体 —— 其中包括特斯拉车辆中搭载的 Gr",
+      "url": "https://www.ithome.com/1/004/534.htm",
+      "publishedAt": "Sat, 19 Sep 2026 11:12:32 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "d21235327f72996d3b3375d1e2d9656f"
+    },
+    {
+      "title": "消息称荣耀 WIN 平板搭载 8.4 英寸超高刷 OLED 屏，可能是第一个万级大电池小平板",
+      "description": "<p>IT之家 9 月 19 日消息，博主 @体验more 今日透露，<span class=\"hot-topic\">荣耀 WIN</span> 平板搭载<strong> 8.4 英寸超高刷 OLED 屏</strong>，芯片为骁龙 8 Elite Gen 5（第五代骁龙 8 至尊版），支持主动散热风扇，<strong>可能是第一个万级大电池小平板</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"",
+      "url": "https://www.ithome.com/1/004/532.htm",
+      "publishedAt": "Sat, 19 Sep 2026 10:47:00 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "87c22fc49097cd09b89d16ce93d116fe"
+    },
+    {
+      "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
+      "description": "Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island.",
+      "url": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
+      "publishedAt": "Sat, 19 Sep 2026 10:36:18 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "25ac82767509cbc24cbc21c5c5c2483d"
+    },
+    {
+      "title": "中国电信开源首个全栈国产轻量级智能体大模型 Xing4.0-29B-A4B",
+      "description": "<p>IT之家 9 月 19 日消息，中国电信于 9 月 17 日发布新一代星辰大模型 Xing4.0-29B-A4B，该模型总参数量 29B，激活参数仅 4B，原生支持 256K 上下文，可扩展至 512K，<strong>是国内首个基于国产算力与国产框架完成训练、面向复杂工程任务深度优化的百亿参数大模型</strong>。</p><p>官方表示，从训练芯片到推理部署，<strong>全栈国产</strong> —— 昇腾训练、国产框架适配、自研架构、开源生态，一条路走通。</p><p>从 S",
+      "url": "https://www.ithome.com/1/004/530.htm",
+      "publishedAt": "Sat, 19 Sep 2026 10:33:14 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "59056c9e0922a5b0d8a1c346da2a5536"
+    },
+    {
+      "title": "AI 演员接受英文采访时突然说粤语，制作公司回应称不是故障",
+      "description": "<p>IT之家 9 月 19 日消息，在接受英国知名主持人皮尔斯 · 摩根（Piers Morgan）的采访期间，AI 女演员提丽 · 诺伍德（Tilly Norwood）疑似发生运行故障，出现了短暂的语言切换异常。</p><p>在访谈期间，演员汤姆 · 康蒂（Tom Conti）询问诺伍德，关于即将上映电影的相关细节。AI 演员刚开始用英语回答，随后却突然中断英语，<strong>毫无预兆地说了一大段粤语</strong>。</p><p style=\"text-align: center;\">",
+      "url": "https://www.ithome.com/1/004/524.htm",
+      "publishedAt": "Sat, 19 Sep 2026 10:22:37 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "243a2046280c9456f3dd6dd886ff6bf2"
+    },
+    {
+      "title": "微软 AI CEO 苏莱曼：我们不应创造自己无法控制的东西",
+      "description": "<p>IT之家 9 月 19 日消息，微软 AI CEO 穆斯塔法 · 苏莱曼称，自己竟然还需要专门强调 AI 必须与人类保持一致，为此感觉荒诞。“<strong>我们不应该创造自己无法控制的东西</strong>。如果技术发展最终会造出某种不仅比全人类加起来更强大，而且根本无法控制的东西，那么 AI 也就<strong>失去了最根本的意义</strong>。”</p><p>苏莱曼坦言，真正做到这一点绝非易事。“如何控制这些系统，将成为我们面临的一个<strong>非常、非常大的挑战</stro",
+      "url": "https://www.ithome.com/1/004/507.htm",
+      "publishedAt": "Sat, 19 Sep 2026 10:12:31 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "dd1e3ba819b6ac03ccfc8bded58bdf65"
+    },
+    {
+      "title": "DeepSeek：调休上班的周末、中国法定节假日全天均按空闲时段计费",
+      "description": "<p>IT之家 9 月 19 日消息，DeepSeek 今日发布 API 峰谷时间说明：调休上班的周末、中国法定节假日全天均按空闲时段计费。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/9/598f3255-c82e-4a56-b0ab-476ba7082dad.png\" /></p><p>IT之家查询获悉，根据此前发布的《国务",
+      "url": "https://www.ithome.com/1/004/494.htm",
+      "publishedAt": "Sat, 19 Sep 2026 10:03:18 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "c1feec176c2325eca33b059261ab0066"
+    }
+  ]
+}
