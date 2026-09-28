@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-09-28T17:23:41.930122",
+  "count": 20,
+  "news": [
+    {
+      "title": "AI Breaches Add to Safety Fears as Trump Meets Anthropic CEO",
+      "description": "Global anxiety over artificial intelligence risks has intensified following fresh disclosures about a far wider range of breaches by advanced AI models, setting the stage for a high-stakes meeting between Anthropic PBC Chief Executive Officer Dario A",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-27/ai-breaches-add-to-safety-fears-as-trump-meets-anthropic-chief",
+      "publishedAt": "Sun, 27 Sep 2026 23:27:32 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "6fcae17d545e5f1b6b9d9a8e19f1137b"
+    },
+    {
+      "title": "Shein Operating Profit Falls in Lackluster Results Post IPO",
+      "description": "Shein Global Holdings Ltd.’s first-half operating profit plunged and net revenue growth was nearly flat in a weak performance for the online fashion retailer’s debut results as a public company.",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-27/shein-faces-first-public-earnings-test-as-growth-woes-mount",
+      "publishedAt": "Sun, 27 Sep 2026 23:00:00 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "9593325f97e37d8f79d34de8cc86473a"
+    },
+    {
+      "title": "Nor'easter delays hundreds of flights, airlines waive change fees",
+      "description": "Flight disruptions were rising in Boston over the weekend.",
+      "url": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+      "publishedAt": "Sun, 27 Sep 2026 18:43:21 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "baee3cf2481fc05ced75b92dfd2ac4a8"
+    },
+    {
+      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+      "description": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
+      "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+      "publishedAt": "Sun, 27 Sep 2026 15:35:34 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "d094600439c725e16b22eb1dff5082bc"
+    },
+    {
+      "title": "At NFL games this season, drone defense tech aims to bring down disruptions",
+      "description": "The NFL told CNBC it recorded 10,852 drone violations over stadiums between 2021 and 2025. The Jaguars became the first team to sign a drone defense firm.",
+      "url": "https://www.cnbc.com/2026/09/27/nfl-drone-defense-tech-game-disruptions.html",
+      "publishedAt": "Sun, 27 Sep 2026 15:22:03 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "7cde15495d9e7a28d19f9eabcbf46076"
+    },
+    {
+      "title": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
+      "description": "Consumers are spending more on hobbies like arts and crafts and outdoor sports, as it gets more expensive to travel due to increased airfare.",
+      "url": "https://www.cnbc.com/2026/09/27/funflation-consumer-spending-pricier-hobbies.html",
+      "publishedAt": "Sun, 27 Sep 2026 05:00:02 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "0da8bffd5a368132f13fb84b11a1be84"
+    },
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
+      "description": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
+      "url": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
+      "publishedAt": "Sat, 26 Sep 2026 16:57:57 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "d8f40e8c06d3bb0d5261d804f8c56003"
+    },
+    {
+      "title": "Many homeowners have a big insurance coverage gap — and don't even know it",
+      "description": "Many consumers have a gap in their homeowners insurance coverage. This puts them at financial risk, and they are likely unaware, experts said.",
+      "url": "https://www.cnbc.com/2026/09/26/homeowners-insurance-coverage-gap.html",
+      "publishedAt": "Sat, 26 Sep 2026 13:30:01 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "b55ebbec6e422fb8b39738ea203dae87"
+    },
+    {
+      "title": "独家丨上汽集团高层换防：俞经民升职，尚界一把手换人",
+      "description": "<section><section><section><section><section style=\"text-align: center;\"><img class=\"rich_pages wxw-img js_insertlocalimg\" src=\"https://static.leiphone.com/uploads/new/images/20260928/6aba676856606.png?imageMogr2/quality/90\" style=\"width: 100%;\" type",
+      "url": "https://www.leiphone.com/category/transportation/bWrgjxkra1ZlhtEB.html",
+      "publishedAt": "Mon, 28 Sep 2026 21:12:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "c1b15dbc49e7b00054658eed3c16e7db"
+    },
+    {
+      "title": "解读丨吉利入股蔚来能源，李斌的换电生意有了新算法",
+      "description": "<section><section><section><section><section><section><section label=\"Powered by 135editor.com\"><section><section><section><section style=\"text-align: center;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/202609",
+      "url": "https://www.leiphone.com/category/transportation/bjRWJENf14uelTTS.html",
+      "publishedAt": "Mon, 28 Sep 2026 21:08:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "51f27385bb1ce0a22a00c7426ebcae23"
+    },
+    {
+      "title": "中训练、后训练持续升温，模型快速迭代，成为 AI for AI 最佳试炼场",
+      "description": "<section style=\"text-align: center; margin: 0px 16px; line-height: 1.75em; display: block;\"><img class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/uploads/new/images/20260928/6aba631302cea.jpg?imageMogr2/quality/90\" style=\"width: 100%; disp",
+      "url": "https://www.leiphone.com/category/yanxishe/WXSemXnlvGNRbiPR.html",
+      "publishedAt": "Mon, 28 Sep 2026 20:54:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "f9a0391bbd5a49830fbd11b60f96cf53"
+    },
+    {
+      "title": "海尔洗空气空调AI科技将巴马好空气搬回家",
+      "description": "<p>为了一口好空气，有人给家里配齐空气净化器、新风系统，层层升级呼吸装备；更有人远赴广西巴马长寿村，斥资置业长居，天不亮就到百魔洞口排队吸氧。“巴马好空气”的说法流传多年，却少有人说清它到底好在哪。</p><p>&nbsp;9月28日，海尔空调联合科普博主无穷小亮，深入巴马长寿村实地探访，通过实地观察与专业检测，拆解巴马好空气的真实密码，也给出了把自然好空气带回家的解决方案。&nbsp;</p><p style=\"text-align: center;\"><img src=\"https://s",
+      "url": "https://www.leiphone.com/category/industrynews/q7QGrV66x125kB8m.html",
+      "publishedAt": "Mon, 28 Sep 2026 19:54:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "5f835404c4ebfea073ff90d031616057"
+    },
+    {
+      "title": "“中国具身大脑”获国际认可！蚂蚁灵波与阿拉伯数字经济联盟签署备忘录",
+      "description": "<p>近日，第五届全球数字贸易博览会的重要配套活动之一“中阿数字经济产业对接会”上，阿拉伯数字经济联盟（AFDE）与蚂蚁集团旗下具身智能公司蚂蚁灵波科技正式签署框架合作备忘录。</p><p>&nbsp;阿拉伯数字经济联盟助理秘书长艾曼·郭内姆（Dr. Ayman Ghoneim）博士与蚂蚁灵波科技商业化负责人俞靓代表双方签约。根据备忘录，双方将建立常态化合作机制，共同推进具身智能与机器人全栈解决方案在阿联酋、海湾阿拉伯国家合作委员会（GCC）乃至中东市场的部署与本地化落地，并在场景应用、数据模型",
+      "url": "https://www.leiphone.com/category/industrynews/ieKrThrdXB840uPe.html",
+      "publishedAt": "Mon, 28 Sep 2026 19:46:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "a767fb9602fa6b9d7864397cc2b569ca"
+    },
+    {
+      "title": "售价25.98万-38.98万元，智界RX正式上市，为驾驶而生，为价值而造",
+      "description": "<p>2026年9月28日，鸿蒙智行首款以X命名的SUV 智界RX正式上市，共光路舱内激光雷达版本售价25.98万元起，L3级自动驾驶架构版本售价31.98万元起，即刻下定可享至高价值40500元购车权益。</p><p><img src=\"https://static.leiphone.com/uploads/new/images/20260928/6aba42f26653c.jpg?imageMogr2/quality/90\" /></p><p>智界RX为驾驶而生，为价值而造，搭载专为驾控调校",
+      "url": "https://www.leiphone.com/category/industrynews/mBZRTV2kKjzdqqJZ.html",
+      "publishedAt": "Mon, 28 Sep 2026 18:38:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "508b691c0d7f152d285edd37be41d369"
+    },
+    {
+      "title": "阿里Qwen-Audio-3.1-TTS拿下权威语音榜全球冠军",
+      "description": "<p>9 月 28 日，在全球权威 AI 评测平台 Artificial Analysis 的语音排行榜（Controlled Voice Arena）上，阿里巴巴最近发布的语音大模型 Qwen-Audio-3.1-TTS 以 1177 的 Elo 评分位列全球第一。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20260928/6aba435c95e0a.p",
+      "url": "https://www.leiphone.com/category/industrynews/PeujvZKDt4TjyaPK.html",
+      "publishedAt": "Mon, 28 Sep 2026 18:38:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "dd8be5885f3e685859ca9ab9c06aff5e"
+    },
+    {
+      "title": "枢途科技完成近亿元 Pre-A 轮融资，一个月内连获三轮头部机构投资，加速建设具身落地新基建",
+      "description": "<p><br /></p><p style=\"margin-top: 0px; margin-bottom: 0px; text-align: center;\"><img border=\"0\" src=\"https://static.leiphone.com/uploads/new/images/20260928//6aba42a37f6a5.jpg?imageMogr2/quality/90\" /></p><p style=\"margin-top: 6pt; margin-bottom: 6p",
+      "url": "https://www.leiphone.com/category/robot/zVCVfjhnzD1S34Pm.html",
+      "publishedAt": "Mon, 28 Sep 2026 18:36:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "8d71eb41727ce074016376940be0f47c"
+    },
+    {
+      "title": "全新一代智己LS6上市，起售价19.79万元",
+      "description": "<p>&nbsp;<span>9月23日，全线控大五座家庭SUV全新一代智己LS6震撼上市，</span><span>以19.79万元起几近“掀桌”的上市定价，一举奠定20万级家庭纯电SUV天花板。</span></p><p><span>作为</span><span>智己汽车“NEXT·2028”战略首款家庭SUV</span><span>，全新一代智己LS6凝聚上汽集团70年造车积淀，标配下一代全线控灵蜥底盘、下一代NEO三电架构、下一代全域物理AI智能，更打造“超级头等舱”，让全家先享下一代",
+      "url": "https://www.leiphone.com/category/transportation/ZnEoArCRJDVa3yzO.html",
+      "publishedAt": "Mon, 28 Sep 2026 18:12:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "b057c74f961936a6c1e2e07238a65620"
+    }
+  ]
+}
