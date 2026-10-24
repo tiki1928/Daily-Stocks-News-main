@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-10-24T13:07:47.724086",
+  "count": 20,
+  "news": [
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意",
+      "description": "<p>从 Vibe Coding 到 Skill、Agent，AI 正打开新一轮创业窗口：一个人也能打造应用，一项技能也能成为产品。随着创作与开发门槛降低，新的机会正在浮现——让自己做出的 AI 产品，成为用户愿意付费的生意。&nbsp;</p><p>面向这股浪潮，10月24日，支付宝AI支付联合观猹发起“PAYATHON 2026”年度黑客松，邀请开发者带着应用、Skill 或 Agent 参赛：接入支付，把创意推向真实市场，争夺 20 万元总奖池。报名截至12月1日，线下决赛将于12月26日",
+      "url": "https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html",
+      "publishedAt": "Sat, 24 Oct 2026 16:49:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "0fa452db641f59c88df81c504470a194"
+    },
+    {
+      "title": "“更懂你、会办事”，支付宝携手科大讯飞升级智能座舱服务",
+      "description": "<p>10月21日，支付宝车载助手亮相科大讯飞智能汽车产品技术发布会，宣布与讯飞星火智慧座舱战略合作升级，正式启动「讯宝计划」，推动智能座舱从信息交互向生活服务延伸，让车主在车内即可办理更多日常事物。</p><p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261024/6adc6ed0230a9.png?imageView2/2/w/740\" /></p><p><s",
+      "url": "https://www.leiphone.com/category/industrynews/WOl6u17gkYoV3PVr.html",
+      "publishedAt": "Sat, 24 Oct 2026 16:43:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "05cd76eb8086d1b6b3c1122be98430a1"
+    },
+    {
+      "title": "行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机",
+      "description": "<p>10月24日，百度健康宣布升级文心健康管家，发布「好医矩阵」和「健康相机」。其中好医矩阵包括“好医答、好医加号、好医说、好医榜、好医评”等多项功能，进一步实现AI+真人医生在线问诊与线下就诊等全流程医疗服务的闭环；而全网首发的健康动态视频识别的健康相机，除了支持打字、方言语音、拍照，还支持用户拍摄视频上传、边拍边说等全模态输入的交互方式，进一步降低用户描述健康问题的门槛。</p><p><strong>百度健康总经理杨明璐</strong>表示，AI在医疗领域的发展价值，不仅要看服务了多少用",
+      "url": "https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html",
+      "publishedAt": "Sat, 24 Oct 2026 16:37:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "837e730d2e4546d48530142bf4490b16"
+    },
+    {
+      "title": "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
+      "description": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
+      "url": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+      "publishedAt": "Sat, 24 Oct 2026 13:00:35 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "6270eed90d89a854a7b8f1b1933e2f43"
+    },
+    {
+      "title": "Why popular airplanes are getting scrapped years early",
+      "description": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.",
+      "url": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+      "publishedAt": "Sat, 24 Oct 2026 12:59:59 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "1e60773c15add69bf0a3a8a040bde05f"
+    },
+    {
+      "title": "利民推出 LEVITA VISION 360 ARGB V2 悠浮视界水冷散热器：磁吸悬浮裸眼 3D 曲面屏，949 元起",
+      "description": "<p>IT之家 10 月 24 日消息，利民 LEVITA VISION 360 ARGB BLACK V2 悠浮视界水冷上架京东，黑色版本显示为 949 元，白色版本 959 元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/b6ce575f-b41a-429c-bc26-81af69eff042.jpg?x-bce-p",
+      "url": "https://www.ithome.com/1/017/503.htm",
+      "publishedAt": "Sat, 24 Oct 2026 12:55:11 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "02fea0148270246b281eafcf6ccaabfe"
+    },
+    {
+      "title": "小米 REDMI 首款耳夹耳机 Clip Neo 预热：支持澎湃智联、端侧语音助手",
+      "description": "<p>IT之家 10 月 24 日消息，小米 REDMI 首款耳夹耳机 Clip Neo 将于 10 月 27 日上市，官方现已公布部分配置信息。</p><p>IT之家从官方介绍获悉，新品采用<strong> 12mm 高性能双磁设计</strong>，类金刚石镀膜，支持低音增强算法、动态补偿、EQ 自定义调节、动态 AI 通话降噪等。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithom",
+      "url": "https://www.ithome.com/1/017/501.htm",
+      "publishedAt": "Sat, 24 Oct 2026 12:50:44 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "8ff7d2abe72cb38db6efc48166b74ff8"
+    },
+    {
+      "title": "致态公布《影之刃零》联名礼盒，内含 TiPlus9100 固态硬盘",
+      "description": "<p>IT之家 10 月 24 日消息，长江存储 (YMTC) 旗下零售存储品牌致态 (ZHITAI) 今日宣布与《影之刃零》达成深度战略合作，公布了致态 | 《影之刃零》联名礼盒。该产品具体发售时间将于后续公布。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/f167860d-0c74-4336-9cf7-a88aca0a",
+      "url": "https://www.ithome.com/1/017/500.htm",
+      "publishedAt": "Sat, 24 Oct 2026 12:49:56 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "590e804b5fae71e6ed5e33c4c392c914"
+    },
+    {
+      "title": "爱国者推出星璨大岚智能中控机箱：配 6.5 英寸触摸屏，黑白双色均售 599 元",
+      "description": "<p>IT之家 10 月 24 日消息，爱国者现已在京东上架星璨大岚智能中控机箱，该产品提供黑白双色可选，定价为 599 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5Ojhs6J\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/5",
+      "url": "https://www.ithome.com/1/017/499.htm",
+      "publishedAt": "Sat, 24 Oct 2026 12:45:22 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "07769e2eebf15f8aba5facb896340787"
+    },
+    {
+      "title": "AI Boom Brings New Business to Matchmakers",
+      "description": "Linx Dating founder and CEO Amy Andersen tells Bloomberg This Weekend that newly wealthy AI creators are fueling demand for high-end matchmaking as busy professionals seek an alternative to dating apps. Speaking with hosts David Gura and Christina Ru",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-24/ai-boom-brings-new-business-to-matchmakers-video",
+      "publishedAt": "Sat, 24 Oct 2026 12:35:19 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "f17ea5d722bbc7f87ce1a379397ba5c5"
+    },
+    {
+      "title": "小米推出 24.5 英寸 REDMI 显示器 G25 2027：1080p 300Hz，799 元",
+      "description": "<p>IT之家 10 月 24 日消息，小米 REDMI 显示器 G25 300Hz 2027 已经上架京东并开售，售价显示为 799 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/56jjIdC\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/j",
+      "url": "https://www.ithome.com/1/017/498.htm",
+      "publishedAt": "Sat, 24 Oct 2026 12:30:11 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "10085ccb7541e2cfc9936d0bb4b03a94"
+    },
+    {
+      "title": "小米米家钛保温杯茶水分离版 500ml 发售：使用纯钛材质，219 元",
+      "description": "<p>IT之家 10 月 24 日消息，小米米家钛保温杯茶水分离版 500ml 现已在京东发售，新品主打茶水分离设计，可选月光银、深空灰两种配色，定价 219 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5OfLbtU\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyi",
+      "url": "https://www.ithome.com/1/017/497.htm",
+      "publishedAt": "Sat, 24 Oct 2026 12:23:19 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "3212d3a9bee9bdc62acc0eafb1302bb0"
+    },
+    {
+      "title": "达音科推出 PRS 5“1 圈 3 铁 1 平板五单元”Hi-Fi 耳机，999 元",
+      "description": "<p>IT之家 10 月 24 日消息，达音科现已在京东上架 PRS 5“1 圈 3 铁 1 平板五单元”Hi-Fi 耳机，定价为 999 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5gjxBY0\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop",
+      "url": "https://www.ithome.com/1/017/496.htm",
+      "publishedAt": "Sat, 24 Oct 2026 12:20:24 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "97bbefa4b2fbb8cf943cb1af1490cb22"
+    },
+    {
+      "title": "Making Advanced MicroChips Takes a Global Ecosystem",
+      "description": "On Bloomberg This Weekend, Gideon Lewis-Kraus explains how advanced chipmaking depends on a deeply interconnected global network of specialized companies, including ASML and TSMC, making semiconductor supply chains extraordinarily difficult to replic",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-24/making-advanced-microchips-takes-a-global-ecosystem-video",
+      "publishedAt": "Sat, 24 Oct 2026 12:00:10 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "dc36616ff685806f403f784f22f8211b"
+    },
+    {
+      "title": "倍思为苹果 iPhone Duo 推出卡片磁吸 Air 移动电源：7.5W 无线 +25W 有线，5000mAh 售 374 元",
+      "description": "<p>IT之家 10 月 24 日消息，倍思现已在京东上架一款卡片磁吸 Air 移动电源，该产品最大的特点是适配了苹果 iPhone Duo 尺寸，其内置 5000mAh 电芯，定价为 374 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5DjFTYK\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"http",
+      "url": "https://www.ithome.com/1/017/492.htm",
+      "publishedAt": "Sat, 24 Oct 2026 11:56:34 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "2b3a5b2bcaff2d5cb14b51b5601333a1"
+    },
+    {
+      "title": "PITAKA 为苹果 iPhone Duo 推出“壳膜一体”外屏保护壳，374 元起",
+      "description": "<p>IT之家 10 月 24 日消息，随着苹果首款折叠屏手机 iPhone Duo 上市，许多产品制造商陆续为该机推出各种外设。例如 PITAKA 便为相应机型推出了一款“壳膜一体”外屏保护壳，<strong>单外屏保护壳首发价为 374 元，套装定价为 749 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5gj27Ek\" target=\"_blank\"><span class=\"card main",
+      "url": "https://www.ithome.com/1/017/489.htm",
+      "publishedAt": "Sat, 24 Oct 2026 11:35:16 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "4b18da31e4fb23d46c2deeac42120c9d"
+    },
+    {
+      "title": "戴尔推出“U3226QER”31.5 英寸显示器：4K 120Hz IPS Black 面板、双雷电 4 接口，5199 元",
+      "description": "<p>IT之家 10 月 24 日消息，戴尔现已在京东上架“U3226QER”31.5 英寸显示器，该机主打 4K 120Hz，定价为 5199 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/56jY3ld\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/",
+      "url": "https://www.ithome.com/1/017/488.htm",
+      "publishedAt": "Sat, 24 Oct 2026 11:25:28 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "95ef402ee52708305c423c1c3e8faeab"
+    }
+  ]
+}
