@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-10-30T15:35:37.320763",
+  "count": 20,
+  "news": [
+    {
+      "title": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate",
+      "description": "Amazon's cloud signed deals with Meta and OpenAI during the quarter, helping revenue to exceed consensus.",
+      "url": "https://www.cnbc.com/2026/10/29/aws-q3-earnings-report-2026.html",
+      "publishedAt": "Thu, 29 Oct 2026 21:59:31 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "55623cf361bce94f01899f090094055b"
+    },
+    {
+      "title": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
+      "description": "Coinbase posted better-than-expected earnings in the third quarter, largely due to a recovery in the cryptocurrency market.",
+      "url": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
+      "publishedAt": "Thu, 29 Oct 2026 21:38:16 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "2533bba47d26865ba1df2be180ad9c5e"
+    },
+    {
+      "title": "Roblox Shares Fall After Reporting Daily User Decline",
+      "description": "Roblox Corp. reported a year-over-year decline in player engagement after deploying more robust child-safety measures.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-29/roblox-users-miss-estimates-despite-hit-game-steal-an-egg",
+      "publishedAt": "Thu, 29 Oct 2026 20:17:14 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "45efc7e0171aab0b71f98c99d3fab867"
+    },
+    {
+      "title": "Intel Shares Plunge After Outlook Hit by PC Slump, Supply",
+      "description": "Intel Corp.’s shares plummeted the most in more than two years after its revenue forecast missed analysts’ estimates, hurt by sputtering demand for PC processors and supply-chain problems with its lucrative data center components.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-29/intel-outlook-hurt-by-weak-market-for-personal-computer-chips",
+      "publishedAt": "Thu, 29 Oct 2026 20:02:37 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "9b6169d3bbd1e84cb07aece9978179a3"
+    },
+    {
+      "title": "Cruise companies aim to keep fuel costs down. Their strategies for doing so differ",
+      "description": "Carnival is cutting fuel use, while Royal Caribbean and Norwegian rely on \"hedging\" to keep fuel costs down amid conflict in the Middle East.",
+      "url": "https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html",
+      "publishedAt": "Thu, 29 Oct 2026 19:36:04 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "78481adf8610683702ba91bb55b9be5f"
+    },
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
+      "description": "Global diesel prices surged as Ukraine and Iran struck refineries in Russia and the Middle East.",
+      "url": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+      "publishedAt": "Fri, 30 Oct 2026 15:33:02 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "180bb710c23e714fe71615d49011149f"
+    },
+    {
+      "title": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
+      "description": "Prediction markets' failure to call an LA primary correctly raised the possibility they can be manipulated to exaggerate the amount of support candidates have.",
+      "url": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
+      "publishedAt": "Fri, 30 Oct 2026 15:33:00 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "7b3705e4c189d3807abd913435657c42"
+    },
+    {
+      "title": "OPPO Watch 5 智能手表开启预约：方表造型设计回归，右上角配备旋钮功能键",
+      "description": "<p>IT之家 10 月 30 日消息，OPPO 官网显示，OPPO Watch 5 智能手表已开启预约。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/f08a4dff-ee14-4e27-8d45-0541a5c7c828.jpg\" /></p><p>预热图画面中展示了 OPPO Watch 5 的外观轮廓。可以看到，<",
+      "url": "https://www.ithome.com/1/020/382.htm",
+      "publishedAt": "Fri, 30 Oct 2026 15:26:28 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "562fe98cd316f51f67e3400f33836c07"
+    },
+    {
+      "title": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
+      "description": "Meta's Mark Zuckerberg and Elon Musk of Tesla and SpaceX adopted President Trump's preferred \"super intelligence\" term on their third-quarter earnings calls.",
+      "url": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
+      "publishedAt": "Fri, 30 Oct 2026 15:14:27 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "30714dc2343c22d58c78737ecdde4df7"
+    },
+    {
+      "title": "华为官宣 Mate 90 系列手机小艺升级，超百款应用接入帮记和触发式 AI 能力",
+      "description": "<p>IT之家 10 月 30 日消息，华为官方今日发布了鸿蒙生态一周更新速览，并宣布 Mate 90 系列小艺全面升级，<strong>核心提升了小艺帮记和小艺触发式 AI 两大能力</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/ed72ef5a-af08-45d2-8219-87a0b96d04d4.",
+      "url": "https://www.ithome.com/1/020/381.htm",
+      "publishedAt": "Fri, 30 Oct 2026 15:08:40 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "697f62e280b74bc0da56bfee71380be7"
+    },
+    {
+      "title": "5000mAh 磁吸充电宝 iPhone 美美多用半天：小米金沙江 233 元京东新低，安克 15W 秒杀 248 元",
+      "description": "<p>安克 Air 磁吸充电宝 5000mAh 今年 6 月 1 日发售，<strong>定价为 329 元</strong>。</p><p>支持<strong>苹果 iPhone 15W 磁吸快充</strong>，符合 2026 新国标测试（非新国标认证），电池温度实时可监测。</p><p>今日京东直降至 248 元近期新低，<strong>重量 118g，厚度 8.6mm</strong>：</p><dir><a contenteditable=\"false\" href=\"https://",
+      "url": "https://www.ithome.com/1/020/379.htm",
+      "publishedAt": "Fri, 30 Oct 2026 15:07:20 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "6abf8bf80d9a022b657197baf3fb2ca1"
+    },
+    {
+      "title": "AMD 发布肾上腺素 26.10.2 可选版驱动：修复《不朽遗志》崩溃等 10 项问题",
+      "description": "<p>IT之家 10 月 30 日消息，AMD 日前推送 AMD Software: Adrenalin Edition 26.10.2 Optional（可选版）显卡驱动，本次更新以问题修复为主，未引入新游戏支持或性能优化内容。</p><p><strong>问题修复</strong></p><ul class=\" list-paddingleft-2\"><li><p>修复 <strong>Radeon RX 7600 系列</strong>显卡运行《不朽遗志》(Valor Mortis) 时偶",
+      "url": "https://www.ithome.com/1/020/377.htm",
+      "publishedAt": "Fri, 30 Oct 2026 15:00:52 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "9469de8486268234193d8ac4212d5406"
+    },
+    {
+      "title": "雷柏 VT4 V2 系列中尺寸抓握鼠标发售：4 版本可选，199 元起",
+      "description": "<p>IT之家 10 月 30 日消息，雷柏 (RAPOO) 今日启动了 VT4 V2 系列鼠标的销售。其采用中尺寸模具，三维 123×65×38 (mm)，横卧点宽度 58mm，<strong>针对抓握姿势优化</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/d4299687-11be-4c79-9f42",
+      "url": "https://www.ithome.com/1/020/373.htm",
+      "publishedAt": "Fri, 30 Oct 2026 14:39:14 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "334cdcdb8beb140a140ee32031568eab"
+    },
+    {
+      "title": "华为 Mate 60 Pro 处理器型号官方首次“揭秘”，搭载麒麟 9000S 与 30、40、50、90“同台竞技”",
+      "description": "<p>IT之家 10 月 30 日消息，<a href=\"https://www.ithome.com/1/018/979.htm\" target=\"_blank\">华为官方公众号今日发文，再次介绍了 Mate 90 系列手机近期优惠活动</a>，包括以旧换新至高 800 元补贴、24 期免息和一年期 200GB 云空间等。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/",
+      "url": "https://www.ithome.com/1/020/372.htm",
+      "publishedAt": "Fri, 30 Oct 2026 14:38:31 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "22af979c9f0ebd22ad94bda7cfa0b9fd"
+    },
+    {
+      "title": "AstraZeneca CFO on AI, Earnings, Restructuring Plan",
+      "description": "AstraZeneca Chief Financial Officer Aradhana Sarin says the drug company uses AI in almost every aspect of the work they do. She talks beating on earnings, their drug pipeline and how the company approaches dealmaking. She speaks on \"Bloomberg Survei",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-30/astrazeneca-cfo-on-ai-earnings-restructuring-plan-video",
+      "publishedAt": "Fri, 30 Oct 2026 14:28:22 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "561d7142048cb393b061825be86c532c"
+    },
+    {
+      "title": "词元工厂硅基流动港股上市申请获证监会备案接收：注册用户超千万，年内融资近 29 亿元",
+      "description": "<p>IT之家 10 月 30 日消息，硅基流动在港股发行上市申请获中国证监会备案受理。据弗若斯特沙利文资料，该公司是中国最大的独立生态词元（Token）供应商，注册用户超过 1000 万名，服务企业客户超过 1.3 万家。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/7f6b54ec-4cec-48db-a290-833",
+      "url": "https://www.ithome.com/1/020/369.htm",
+      "publishedAt": "Fri, 30 Oct 2026 14:22:53 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "999d871fd11cea835cfc0643a0bfcbd9"
+    },
+    {
+      "title": "Keychron 三模键盘 K8 Ultra 8K 国行发售：原生 macOS 键位，721 元",
+      "description": "<p>IT之家 10 月 30 日消息，Keychron（渴创）现已开始在中国大陆电商平台销售 K8 Ultra 8K 机械键盘。其拥有铝合金 + 塑料机身，采用 80% (TKL) 配列，拥有原生 macOS 键位（随附 Windows 键帽），售价 721 元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/10/b48b88",
+      "url": "https://www.ithome.com/1/020/368.htm",
+      "publishedAt": "Fri, 30 Oct 2026 14:21:47 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "918bacfce631c5d80864cacf89c9fb82"
+    }
+  ]
+}
