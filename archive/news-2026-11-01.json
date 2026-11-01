@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-11-01T15:48:30.865740",
+  "count": 20,
+  "news": [
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "Pika 基于 MiniMax H3 开源 H3 Flex，六步实现音视频联合生成",
+      "description": "<p style=\"margin-bottom: 0pt;\"><span>近日，Pika 发布 MiniMax H3 衍生模型 Pika H3 Flex，并开放适配器权重与推理代码。该模型通过六步去噪联合生成画面和声音，支持文本、首尾帧和多模态参考输入，供创作者进行镜头设计、参考生成和视频编辑。</span></p><p><span>&nbsp;</span></p><p style=\"margin-top: 0px; margin-bottom: 0px; text-align: center",
+      "url": "https://www.leiphone.com/category/industrynews/MK1z0js4sqcp1xca.html",
+      "publishedAt": "Sun, 01 Nov 2026 17:46:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "4b3fd17dcc8100699b0c390ee3eb028b"
+    },
+    {
+      "title": "极氪10月交付同比增长51.6%，“海外最贵中国车”9X首销售罄",
+      "description": "<p>11月1日，极氪公布销量数据：10月交付新车32483辆，同比增长51.6%，1-10月交付超32万辆，同比增94.4%，平均客单价近37万元，已完成年度30万辆销售目标，是主流车企中量价齐升且唯一提前超额完成全年目标的品牌。其中，极氪7X连续4个月月销过万。同时，旗舰车型极氪9X在国内的热销也为海外开拓打下坚实基础，其欧洲售价折合人民币超100万元，被外媒称为“最贵中国车”，是首款在当地站稳百万级价位并实现规模化销售的中国车。据悉，有约700辆9X正陆续发运欧洲，预计2027年1月开启交",
+      "url": "https://www.leiphone.com/category/transportation/oDbG4KXJpt7KOOqy.html",
+      "publishedAt": "Sun, 01 Nov 2026 15:13:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "2565e7c319b69c56782fc1f3dab39849"
+    },
+    {
+      "title": "赛力斯：问界将全面进入欧洲市场，公司不参与价格战和规模内卷",
+      "description": "<p>IT之家 11 月 1 日消息，赛力斯 10 月 31 日发布投资者关系活动记录表，其中回答了“公司在问界的整体经营思路上有什么样的思考？对下一步业务发展有什么规划？”。</p><p>据其介绍，问界坚定做全球高端品牌。目前问界全系正推进欧盟 WVTA E1 整车型式认证，验证周期长、环节多，是高端车进入欧洲市场的必经门槛。公司坚持按最高标准走完全程，确保产品以合规、可靠的状态出海。10 月中旬 AITO 6、AITO 7、AITO 8、AITO 9 亮相巴黎车展并广受好评，为接受全球最高标",
+      "url": "https://www.ithome.com/1/020/839.htm",
+      "publishedAt": "Sun, 01 Nov 2026 14:47:24 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "5d670325b502fa9a1da533f4d022503a"
+    },
+    {
+      "title": "Why AI is boosting Meta's ad business while hurting Google search",
+      "description": "The gap between Meta's ad revenue growth and Google's search expansion was the widest it's been since 2021 in the latest quarter.",
+      "url": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
+      "publishedAt": "Sun, 01 Nov 2026 14:31:29 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "3c78825e7b7dcd8aaae2aa2cbcbfaaa3"
+    },
+    {
+      "title": "OpenAI、谷歌、微软和 Anthropic 联手推行 AI 数据抓取退出标准",
+      "description": "<p>IT之家 11 月 1 日消息，OpenAI、谷歌、微软以及 Anthropic 近日宣布将采用一项新标准，内容发布方可以借助该标准选择拒绝 AI 抓取自家网站内容。借助这项管控机制，内容发布方可以一次性向多家 AI 企业统一申明自身针对 AI 模型训练的内容使用偏好，而不必为每家企业单独设置规则。</p><p>该标准由 Anthropic 技术负责人 Kevin Kelley 向互联网工程任务组（IETF）提出，并将集成在网站的 <span class=\"link-text-start-",
+      "url": "https://www.ithome.com/1/020/837.htm",
+      "publishedAt": "Sun, 01 Nov 2026 14:19:52 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "3000483ab610a092fb94353adbbf46fd"
+    },
+    {
+      "title": "海贝推出 HiBy R6III SE 便携 Hi-Fi 播放器：4 颗 CS43198 DAC 芯片，1798 元",
+      "description": "<p>IT之家 11 月 1 日消息，海贝宣布推出一款 HiBy R6III SE 便携 Hi-Fi 播放器，定价为 1798 元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/11/195fe4c9-5c4b-49bc-a2be-e361627e4cdc.png?x-bce-process=image/format,f_aut",
+      "url": "https://www.ithome.com/1/020/836.htm",
+      "publishedAt": "Sun, 01 Nov 2026 14:01:22 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "c390b65c3ff6d28ffab5fa556991d6e2"
+    },
+    {
+      "title": "HMD 诺基亚 2360 Flip 翻盖功能机曝光：紫光展锐 T127 芯片，1.8 英寸外屏",
+      "description": "<p>IT之家 11 月 1 日消息，消息源 smashx_60 现已曝光了 HMD 旗下诺基亚 2360 Flip 翻盖功能机，该机据称为 ODM 产品。</p><p>该机提供深灰色、酒红色、蓝绿色三种配色可选，配备 1.8 英寸外屏和 2.8 英寸 LCD 内屏，搭载 1Mp 摄像头。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/20",
+      "url": "https://www.ithome.com/1/020/834.htm",
+      "publishedAt": "Sun, 01 Nov 2026 13:45:05 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "95f269a3944d12348055be8bf41e7af4"
+    },
+    {
+      "title": "长鑫科技：2026 年 LPDDR 系列产品实现 781.91 亿元收入，占营业收入比例 52.02%",
+      "description": "<p>IT之家 11 月 1 日消息，长鑫科技公布 2026 年三季报业绩交流会记录，介绍了公司前三季度收入结构的变化情况。</p><p>公告显示，该公司产品主要分为 DDR 系列以及 LPDDR 系列，2026 年上半年，DDR 系列产品实现 694.72 亿元收入，占营业收入比例为 46.22%；<strong>LPDDR 系列产品实现 781.91 亿元收入</strong>，占营业收入比例为 52.02%。相较于 2026 年上半年，2026 年前三季度 DDR 系列产品在营业收入中的占",
+      "url": "https://www.ithome.com/1/020/832.htm",
+      "publishedAt": "Sun, 01 Nov 2026 13:19:50 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "9c5ee3cb73bf805b91e09b5ac2ed9848"
+    },
+    {
+      "title": "上市价 4399 → 2893 元：vivo X300 手机 12GB+256GB 国补直降",
+      "description": "<h3>【京东活动可能随时变更，需以实付款为准】</h3><p>vivo X300 手机开售于 2025 年 10 月 17 日，搭载联发科天玑 9500 处理器，12GB+256GB 定价 4399 元。</p><p>京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2893.01 元：</p><ul class=\" list-paddingleft-2\"><li><p>领 1200 元直播间券：<a href=\"https://u.jd.com/eOv",
+      "url": "https://www.ithome.com/1/020/831.htm",
+      "publishedAt": "Sun, 01 Nov 2026 13:03:34 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "6af2b0c930b10ccf5e336211fb6516ab"
+    },
+    {
+      "title": "7499 → 5718 元：vivo X300 Ultra 国补新低，配 3+2 蔡司大师镜头群",
+      "description": "<h3>【京东活动可能随时变更，需以实付款为准】</h3><p>vivo X300 Ultra 手机 2026 年 4 月开售，新机号称「专业 V 单」，搭载第五代骁龙 8 至尊版处理器、拥有 3+2 蔡司大师镜头群，12GB+512GB 定价 7499 元。</p><p>京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 500 元国补后仅需 5718.25 元：</p><ul class=\" list-paddingleft-2\"><li><p>领 1000 元直播间券：<",
+      "url": "https://www.ithome.com/1/020/827.htm",
+      "publishedAt": "Sun, 01 Nov 2026 12:39:41 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "73cbc9ff3f208de8ba9f06c2eab1255a"
+    },
+    {
+      "title": "重力星球 MH1 PRO 头戴式耳机发售：53mm 动圈、ANC 降噪，799 元",
+      "description": "<p>IT之家 11 月 1 日消息，重力星球旗下 MH1 PRO 头戴式耳机现已在京东发售，该产品配备 53mm 动圈、支持 ANC 降噪，<strong>定价为 799 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eDnxDQP\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https",
+      "url": "https://www.ithome.com/1/020/826.htm",
+      "publishedAt": "Sun, 01 Nov 2026 12:35:03 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "b30bdcf714d03c22fc0182998ecc5c23"
+    },
+    {
+      "title": "Companies promised AI gains — here's how the payoff showed up in earnings",
+      "description": "Santander, Novartis and other companies say AI is beginning to boost revenue, cut costs or improve profitability as investors seek returns.",
+      "url": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+      "publishedAt": "Sun, 01 Nov 2026 12:34:06 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "0983913af6f54fc95a7e057df7208cce"
+    },
+    {
+      "title": "7999 → 5993 元：vivo X Fold6 折叠屏手机 12+256GB 国补新低，2 亿像素 1/1.4\" 主摄、天玑 9500 超能版",
+      "description": "<h3>【京东活动可能随时变更，需以实付款为准】</h3><p><span class=\"hot-topic\">vivo X Fold6</span> 折叠屏手机 2026 年 6 月开售，12GB+256GB 定价 7999 元。</p><p>京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 10% 国补后仅需 5993.11 元：</p><ul class=\" list-paddingleft-2\"><li><p>领 1000 元直播间券：<a href=\"https:/",
+      "url": "https://www.ithome.com/1/020/825.htm",
+      "publishedAt": "Sun, 01 Nov 2026 12:28:56 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "ea0c9120382654a98b4c6ea404dec899"
+    },
+    {
+      "title": "热泵洗烘一步到位：美的清风明月 2.0 洗烘套装 7999 → 3903 元国补探新低",
+      "description": "<h3>【京东活动可能随时变更，需以实付款为准】</h3><p>美的 · 清风明月 2.0 热泵洗烘套装 MGH20A-G + MGH20MAX 日常售价 7999 元。</p><p>京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 3903.94 元：</p><ul class=\" list-paddingleft-2\"><li><p>领 6.1 折券：<a href=\"https://coupon.m.jd.com/coupons/show.actio",
+      "url": "https://www.ithome.com/1/020/822.htm",
+      "publishedAt": "Sun, 01 Nov 2026 12:04:12 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "47eb19fbfcd8415ad1217d02e6e7c441"
+    },
+    {
+      "title": "Qt 推出零代码嵌入式界面设计工具 Clate，设计成果可直接导出 QML 代码",
+      "description": "<p>IT之家 11 月 1 日消息，Qt 宣布推出一款嵌入式设备界面设计工具 Clate，设计师无需编写代码，即可通过可视化编辑器或 AI 生成操作界面，并将设计成果导出为 QML 代码，供工程师集成至 Qt 应用程序。官方现已开放首个 Beta 测试版本 0.6 供用户免费下载使用，IT之家附项目地址（<a href=\"https://doc.qt.io/clate/docs/release-notes/clate-0-6/\" target=\"_blank\"><span class=\"lin",
+      "url": "https://www.ithome.com/1/020/821.htm",
+      "publishedAt": "Sun, 01 Nov 2026 12:00:37 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "28ae63635729bbba4562846d630eb4b7"
+    },
+    {
+      "title": "【20:00~20:15】蹲点速抢 1.18 元京东无门槛红包，小米 55 寸电视 1 元秒杀",
+      "description": "<p>全网 11.11 在 <strong>10 月 31 日 20:00 ~ 11 月 1 日</strong>开启超级秒杀狂促，整个 11.11 就看这波啦，有需求的小伙伴可以蹲点抢哦。</p><p><strong><span class=\"font-color-red\">京东 </span>无门槛红包至高 26888 元</strong>，每天抽 3 次：<a href=\"https://u.jd.com/eGnH4ov\" target=\"_blank\"><strong>点此抽取</str",
+      "url": "https://www.ithome.com/1/020/819.htm",
+      "publishedAt": "Sun, 01 Nov 2026 11:55:32 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "e59def18d84502d9cf6c74756fe3bcd9"
+    },
+    {
+      "title": "小米“米家洗鞋机 3KG”上架：可洗运动鞋 / 帆布鞋、支持除菌，众筹价 799 元",
+      "description": "<p>IT之家 11 月 1 日消息，小米旗下“米家洗鞋机 3KG”现已在有品上架，将于明天开启众筹（<a href=\"https://c.duomai.com/track.php?aid=4705&amp;dm_fid=16052&amp;euid=&amp;site_id=261624&amp;t=https%3a%2f%2fwww.xiaomiyoupin.com%2fdetail%3fgid%3d185413%26spmref%3dYouPinPC.%24SearchFilter%241",
+      "url": "https://www.ithome.com/1/020/818.htm",
+      "publishedAt": "Sun, 01 Nov 2026 11:49:14 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "8c08c6a2250db131386d8df7b1df39d7"
+    }
+  ]
+}
