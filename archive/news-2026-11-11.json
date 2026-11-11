@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-11-11T16:55:15.560251",
+  "count": 20,
+  "news": [
+    {
+      "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+      "description": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
+      "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+      "publishedAt": "Wed, 11 Nov 2026 16:49:02 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "4fae113fc4a47d77140cca721ec95d86"
+    },
+    {
+      "title": "UK’s Healey Promises to Avoid US-Style Data Center Free-for-All",
+      "description": "The UK will not allow the sort of “free-for-all” on data center development that’s sparked a public and political backlash in the US, threatening to stall investment in artificial intelligence, Chancellor of the Exchequer John Healey said.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/uk-s-healey-promises-to-avoid-us-style-data-center-free-for-all",
+      "publishedAt": "Wed, 11 Nov 2026 16:47:46 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "f006f4c4600662c586aeca5f5f4bed66"
+    },
+    {
+      "title": "Applied Intuition In Talks to Raise $1.5 Billion at $30 Billion Value",
+      "description": "Applied Intuition Inc., a defense contractor developing technology for autonomous vehicles, is in talks to raise at least $1.5 billion in a new funding round led by General Catalyst, according to people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/applied-intuition-in-talks-to-raise-1-5-billion-at-30-billion-value",
+      "publishedAt": "Wed, 11 Nov 2026 16:34:20 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "d60879b5e012ec2023049a9014c449c4"
+    },
+    {
+      "title": "Nvidia Scandal Raises China Stakes",
+      "description": "Terry Haines, the Founder of Pangea Policy joined Bloomberg Open Interest to talk about how the Nvidia scandal could have consequences far beyond the company. Haines says congressional and law-enforcement investigations may take months, while the epi",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-11/nvidia-scandal-raises-china-stakes-video",
+      "publishedAt": "Wed, 11 Nov 2026 16:11:05 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "536f5ab3ce74336f5892bfb19574f665"
+    },
+    {
+      "title": "Lumentum Slips on Deal Reaction; Fossil Group Rallies on Outlook | Stock Movers",
+      "description": "On this episode of Stock Movers:\n\n- Shares of CoreWeave (CRWV) rallied in premarket trading after the compay eased fears about its debt-laden business during a high-stakes quarterly report, indicating that sales growth remains strong despite challeng",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-11/lumentum-slips-on-deal-fossil-group-rallies-on-outlook-video",
+      "publishedAt": "Wed, 11 Nov 2026 16:11:04 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "df2236a45141177f70ec75123058dc8b"
+    },
+    {
+      "title": "Tired of spending time fixing other people's AI slop at work? How to talk to them about it",
+      "description": "Executive coach Melody Wilding shares four ways to address the extra work landing on your plate without the conversation becoming confrontational.",
+      "url": "https://www.cnbc.com/make-it/2026/11/11/push-back-coworker-boss-extra-work-ai.html",
+      "publishedAt": "Wed, 11 Nov 2026 16:05:01 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "5ea052737077358c7a72640436fab4d1"
+    },
+    {
+      "title": "Meta’s Head of Infrastructure, Engineering to Depart in 2027",
+      "description": "Meta Platforms Inc.’s longtime infrastructure chief will leave the company in early 2027, a major leadership change as it continues to invest hundreds of billions of dollars in artificial intelligence and the data centers needed to support it.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/meta-s-head-of-infrastructure-engineering-to-step-down-in-2027",
+      "publishedAt": "Wed, 11 Nov 2026 16:02:10 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "2a06fa2cff638c26720f7843b8b512bb"
+    },
+    {
+      "title": "Nvidia Is Playing Out Like a Greek Tragedy, Says Seaport's Goldberg",
+      "description": "Jay Goldberg, Seaport senior analyst, says Nvidia would lose its identity without CEO Jensen Huang. Goldberg says the risk of Huang being removed is significant. He speaks on \"Bloomberg Surveillance.\" (Source: Bloomberg)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-11/nvidia-is-playing-out-like-a-greek-tragedy-goldberg-video",
+      "publishedAt": "Wed, 11 Nov 2026 16:01:34 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "f5b68088fa2ffbd11dba7d6b3d6949da"
+    },
+    {
+      "title": "Mississippi Senate: Scott Colom leads Hyde-Smith by more than 3,000 votes",
+      "description": "Tuesday was the deadline for provisional ballots to be resolved in Mississippi, and the deadline for the receipt of mail-in absentee ballots.",
+      "url": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
+      "publishedAt": "Wed, 11 Nov 2026 15:46:05 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "7ab583a77c7dfe58463fc014506ac972"
+    },
+    {
+      "title": "谷歌 DeepMind 发布 AlphaGenome 2 基因序列模型：识别致病变异能力提升近一倍",
+      "description": "<p>IT之家 11 月 11 日消息，谷歌 DeepMind 发布新一代 DNA 序列模型 <strong>AlphaGenome 2</strong>，可预测 DNA 序列及其变异对特定人体细胞类型的影响，为科研人员挖掘疾病的细胞驱动因素提供全新工具。</p><p style=\"text-align: center;\"><img alt=\"AlphaGenome 2 示意图\" class=\"nowebp\" src=\"https://img.ithome.com/newsuploadfiles",
+      "url": "https://www.ithome.com/1/025/822.htm",
+      "publishedAt": "Wed, 11 Nov 2026 15:19:51 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "d3cf9212da2674d265499f5b0364ea20"
+    },
+    {
+      "title": "Xbox 版《GTA 6》预载文件出现 AMD FSR 4.1 线索，首发未必支持",
+      "description": "<p>IT之家 11 月 11 日消息，数据挖掘者最近一直在研究 Xbox 版《GTA 6》的预载文件，而近期发现的两项线索，让这款游戏的运行表现有了更多值得期待的地方。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/11/f970c5dd-d710-4506-8cbd-cbb95541672f.jpg?x-bce-process",
+      "url": "https://www.ithome.com/1/025/821.htm",
+      "publishedAt": "Wed, 11 Nov 2026 15:02:56 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "e2017945d855444662488838667b8665"
+    },
+    {
+      "title": "553mm 超薄机身：卡萨帝热泵洗烘一体机 10498 → 5500 元破冰新低",
+      "description": "<p>卡萨帝 · 揽光 GLD 热泵洗烘一体机 10kg，型号 CE AB10LWUGLDU1。</p><p>日常售价 10498 元，今日叠加 PLUS 立减 + 15% 国补后仅需 6104.2 元：</p><ul class=\" list-paddingleft-2\"><li><p>领 8.5 折洗衣机券：<a href=\"https://u.jd.com/o1OZkpQ\" target=\"_blank\"><strong>点此查看</strong></a></p></li><li><p>售",
+      "url": "https://www.ithome.com/1/025/819.htm",
+      "publishedAt": "Wed, 11 Nov 2026 14:55:17 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "347e44a7ad2d96710f744408b7a06df3"
+    },
+    {
+      "title": "以旧换新 3999 → 2291 元：小米米家智能净烟机 3 Pro 国补直降，7 级大风力",
+      "description": "<h3>【京东活动可能随时变更，需以实付款为准】</h3><p>小米 · 米家智能净烟机 3 Pro 开售于 2026 年 8 月，官方定价 3999 元。</p><p>京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2291 元：</p><ul class=\" list-paddingleft-2\"><li><p>领 8.7 折券：<a href=\"https://u.jd.com/o6O0QmP\" target=\"_blank\">点此查看</a>。<",
+      "url": "https://www.ithome.com/1/025/818.htm",
+      "publishedAt": "Wed, 11 Nov 2026 14:49:11 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "31c0435862ba61aa1cdc7d00808edea5"
+    },
+    {
+      "title": "Helsing Unveils AI Military Software to Challenge Palantir",
+      "description": "Helsing Gmbh, a German dronemaker, released a platform that uses artificial intelligence to help military units process data from the field more quickly, creating a new European challenger to US-based Palantir Technologies Inc.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/helsing-unveils-ai-military-software-to-challenge-palantir",
+      "publishedAt": "Wed, 11 Nov 2026 14:46:59 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "8a11361805e89973ea5bddf8d3a9267b"
+    },
+    {
+      "title": "热泵洗烘一体机破冰新低：海信 12kg 洗 +8kg 烘 6199 → 3238 元限 1 小时",
+      "description": "<h2>12kg 洗 + 8kg 烘</h2><p>海信 · 大薄荷 E3S 热泵洗烘一体机<strong>灰白双色可选</strong>，日常大促价 6199 元。</p><p style=\"text-align: left;\">今日 11.11 下单仅需 3668 元，<strong>11 月 11 日</strong>下单返 400 元 E 卡，折合仅需 3268 元。</p><p style=\"text-align: left;\">京东家电“多买多返”返 30 元 E 卡（售价下方可见活",
+      "url": "https://www.ithome.com/1/025/816.htm",
+      "publishedAt": "Wed, 11 Nov 2026 14:46:10 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "7bc2b57923d6bfd82380c44fec6a94ae"
+    },
+    {
+      "title": "Anthropic IPO Said to Be Multiple Times Oversubscribed",
+      "description": "Anthropic's IPO has drawn multiple times the orders for the shares available, according to people familiar with the matter, as demand accelerates for potentially the biggest first-time share sale ever. Bailey Lipschultz reports on \"Bloomberg Open Int",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-11/anthropic-ipo-said-to-be-multiple-times-oversubscribed-video",
+      "publishedAt": "Wed, 11 Nov 2026 14:40:30 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "6be2af28f2f4d0055f22767e21c1f585"
+    },
+    {
+      "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+      "description": "Investors are assessing whether CEO Jensen Huang's affair will have spillover effects on Nvidia's business.",
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+      "publishedAt": "Wed, 11 Nov 2026 14:35:23 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "f2bc962d3981e8dc9ed46482591d00c4"
+    },
+    {
+      "title": "Adobe 公布四项 AI 实验项目：照片秒变 3D 场景，还能通过聊天设计 AI 角色",
+      "description": "<p>IT之家 11 月 11 日消息，每年举办的 Adobe MAX 大会上，Adobe 展示的最令人印象深刻的技术之一，往往是那些仍处于实验阶段、尚未正式推出的创新功能。今天，该公司公布了最新一批实验项目：它们能够将普通图片转换为可探索的 3D 场景，通过与 AI 角色对话来设计角色形象，还能让照片编辑变成简单的复制粘贴操作。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.c",
+      "url": "https://www.ithome.com/1/025/815.htm",
+      "publishedAt": "Wed, 11 Nov 2026 14:32:05 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "723e09c1d85b203d16cb86b642162d49"
+    },
+    {
+      "title": "11.11 倒数 1 小时：友望 S20 洗地机 2499 → 375 元再降价，推入式基站更方便",
+      "description": "<p>友望 S20 灵犀洗地机上市价 2499 元，官方日常大促价 699 元。</p><p>今日京东直降至 491 元（点击下方卡片，系统自动弹出 8.8 折券，需<strong>手动领券</strong>），晒单返 100 元 E 卡。</p><p>售价下方可选“<strong>京东组合购</strong>”，选择任意电器一起下单（凑单品付款后可立即退款），洗地机<strong>实付 475 元</strong>，返卡后折合 375 元。</p><dir><a contenteditable",
+      "url": "https://www.ithome.com/1/025/813.htm",
+      "publishedAt": "Wed, 11 Nov 2026 14:21:28 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "99117d7b8119ad0a8c0cf9187d90b8f2"
+    },
+    {
+      "title": "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
+      "description": "President Zelenskyy warned Tuesday that his country \"was not real estate,\" as a second and final day of U.S.-brokered peace talks got underway.",
+      "url": "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html",
+      "publishedAt": "Wed, 11 Nov 2026 14:13:40 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "2920f49648c17e1efe79348ee25612fd"
+    }
+  ]
+}
