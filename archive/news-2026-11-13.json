@@ -1,0 +1,206 @@
+{
+  "timestamp": "2026-11-13T16:57:48.063749",
+  "count": 20,
+  "news": [
+    {
+      "title": "Samsung Is in Talks to Acquire Data Center Cooling Firm Modine",
+      "description": "Samsung Electronics Co. is in talks to acquire Modine Manufacturing Co., a maker of cooling systems for data centers, according to people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/samsung-is-in-talks-to-acquire-data-center-cooling-firm-modine",
+      "publishedAt": "Thu, 12 Nov 2026 23:43:52 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "d3f10d6934b6a6f748c2209f6943572b"
+    },
+    {
+      "title": "Nscale updates IPO prospectus that shows widening loss",
+      "description": "Nvidia-backed neocloud Nscale on Thursday released updated paperwork for a U.S. initial public offering showing a widening loss.",
+      "url": "https://www.cnbc.com/2026/11/12/nscale-updates-ipo-prospectus-that-shows-widening-loss.html",
+      "publishedAt": "Thu, 12 Nov 2026 23:12:15 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "c6e80d9ac0fdd4e46644ca5d17208bfd"
+    },
+    {
+      "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+      "description": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+      "publishedAt": "Thu, 12 Nov 2026 23:08:50 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "061a52721ea619f9982629651cb8c19f"
+    },
+    {
+      "title": "Cerebras Shares Jump Following Strong Quarterly Sales Outlook",
+      "description": "Cerebras Systems Inc. shares jumped by the most in five months after the company gave a sales forecast for the current quarter that exceeded analysts’ estimates, signaling that a push to challenge Nvidia Corp. in artificial intelligence chips is payi",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/cerebras-delivers-solid-outlook-in-its-bid-to-challenge-nvidia",
+      "publishedAt": "Thu, 12 Nov 2026 21:09:30 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "c57576c0538658c8edee5ddadc2e7d88"
+    },
+    {
+      "title": "地平线CEO余凯：边缘计算是自动驾驶的技术基石",
+      "description": "作者：权小星\n　　随着人工智能行业的发展，以及应用场景的铺开，人工智能在加速融入到人们的生活、生产流程，而且随着人工智能产品的更新换代、智能计算场景的多样化，在对于人工智能硬件、算法及芯片的要求提高的同时，人工智能的主要攻坚方向也从云端向边缘侧迁移。\n　　可....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ifxeuwwr7419616.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 05:54:17 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "df920d5587ccf451e91b844caef3eaaa"
+    },
+    {
+      "title": "赚了10亿美金，陌陌却不是阿里投资的成功案例？",
+      "description": "原标题：赚了10亿美金，陌陌却不是阿里的成功案例？| 前操盘手回忆（五）\n　　虎嗅注：本文是《阿里投资：一个昔日操盘者的回忆和思考》的第五篇。在前面的章节里，张鸿平讲述了阿里投天宇朗通、投陌陌、投快的的故事。一个急需解答的问题或许是，作为产业资本，到底该如何衡....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6656954.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 04:38:57 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "577c855f6a4126a63ce896b54b1797f8"
+    },
+    {
+      "title": "解密阿里合伙人 “接班人”创新样本",
+      "description": "作者：李立\n　　刚在杭州落幕的阿里巴巴2018全球投资者大会，是阿里巴巴宣布“传承计划”之后的第一次投资者大会。作为阿里巴巴传承计划的重要基石，阿里独特的合伙人制度成为投资人和外界关注的焦点。\n　　表面上看，传承计划的直接体现是创始人马云交棒现任CEO 张勇，背后则....",
+      "url": "http://go.rss.sina.com.cn/redirect.php?url=https://tech.sina.com.cn/i/2018-09-23/doc-ihkmwytn6563740.shtml",
+      "publishedAt": "Sun, 23 Sep 2018 03:42:46 GMT",
+      "source": {
+        "name": "科技要闻-新浪科技"
+      },
+      "hash": "fa033c8285014b7d9cad074a9c14c818"
+    },
+    {
+      "title": "独家｜燧原科技首席生态官李星宇离职",
+      "description": "<p style=\"text-align: center;\"><img src=\"https://static.leiphone.com/uploads/new/images/20261113/6af6aaac6cf9e.png?imageView2/2/w/740\" /></p><p><span style=\"font-size: 14px;\">作者｜包永刚</span></p><p><span style=\"font-size: 14px;\">编辑｜刘伟</span></p><p>雷峰网独家",
+      "url": "https://www.leiphone.com/category/chips/G6AiPuplIGyPkaQL.html",
+      "publishedAt": "Fri, 13 Nov 2026 18:00:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "fab67318439ba8318e90432ff1916d54"
+    },
+    {
+      "title": "9.99万的ID.ERA 5X，大众开始用中国效率打价格战",
+      "description": "<p style=\"margin-top: 0; margin-bottom: 0;\">从过去全球技术导入中国，转向中国本土研发定义产品，并反哺全球，大众在华的研发模式迎来的关键转身，集中在一款新车型中。</p><p style=\"margin-top: 0; margin-bottom: 0;\">11月12日，上汽大众ID.ERA 5X正式上市，限时权益价9.99万起，共推出四款配置。定位都市纯电SUV，瞄准年轻用户与家庭市场。</p><p style=\"margin-top: 0px; ma",
+      "url": "https://www.leiphone.com/category/transportation/vNdfiZqSJgLMJc3M.html",
+      "publishedAt": "Fri, 13 Nov 2026 17:38:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "61e8106c35e78da97e257cf81a8e2711"
+    },
+    {
+      "title": "独家丨港大孵化的半导体材料公司，融资数千万",
+      "description": "<section style=\"margin-bottom: 16px;\"><span><img alt=\"图片\" class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/6a6c4981e5bcb.jpg?imageMogr2/quality/90\" /></span></section><section style=\"margin: 0px; padding: 0px; letter-spacing: 0.544px;\"><se",
+      "url": "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html",
+      "publishedAt": "Fri, 13 Nov 2026 17:22:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "c3766957e7cc88ae65f9d1bb3042dd9e"
+    },
+    {
+      "title": "海尔热水器双11战报：京东天猫双平台销量TOP1",
+      "description": "<p>随着双11落幕，热水器市场也结束了新一轮换新热潮。从近两年的用户需求来看，热水器不再只看重热水供给，而是更加关注使用安全、沐浴水质与维保省心，家庭用水的健康化、场景化、智能化成为选购核心标尺。激烈角逐之中，海尔热水器脱颖而出，拿下京东、天猫双平台热水器销量 TOP1，电热、燃热双线领跑，用亮眼战绩印证市场对海尔全屋用水方案的认可。</p><p><img src=\"https://static.leiphone.com/uploads/new/images/20261113/6af6d59a",
+      "url": "https://www.leiphone.com/category/industrynews/pDERNZsb2r8U4vS5.html",
+      "publishedAt": "Fri, 13 Nov 2026 17:17:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "2e75409de1828427c29d12af7764d564"
+    },
+    {
+      "title": "中金公司与蚂蚁集团达成战略合作 共探AI赋能财富管理",
+      "description": "<p>11月13日，中国国际金融股份有限公司（简称“中金公司”）与蚂蚁科技集团股份有限公司（简称“蚂蚁集团”）签署战略合作协议。</p><p>双方将结合中金公司在专业投研、金融服务等方面的积累，以及蚂蚁集团在人工智能、行业生态、客户运营等方面的优势，围绕金融大模型技术创新、AI赋能财富管理、客户全生命周期服务等领域开展合作，共同探索“AI+金融”创新路径。</p><p><img src=\"https://static.leiphone.com/uploads/new/images/2026111",
+      "url": "https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html",
+      "publishedAt": "Fri, 13 Nov 2026 17:05:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "ddf19ceb04b16a41adfd82a1a5ecbc19"
+    },
+    {
+      "title": "独家丨一家主动灭火的智慧消防公司，融资超千万",
+      "description": "<section style=\"margin-bottom: 16px;\"><span><img alt=\"图片\" class=\"rich_pages wxw-img\" src=\"https://static.leiphone.com/6a6c4981e5bcb.jpg?imageMogr2/quality/90\" /></span></section><section style=\"margin: 0px; padding: 0px; letter-spacing: 0.544px;\"><se",
+      "url": "https://www.leiphone.com/category/weiwu/c3euXbtYsl0O6fm2.html",
+      "publishedAt": "Fri, 13 Nov 2026 17:04:00 +0800",
+      "source": {
+        "name": "雷峰网"
+      },
+      "hash": "002411e9cb12208f51f90e0472dd74c0"
+    },
+    {
+      "title": "Why the data center slowdown concern is overblown. Two stocks to buy amid the fear",
+      "description": "Not one utility CEO we spoke with at the EEI conference is anticipating a slowdown in electricity growth expectations.",
+      "url": "https://www.cnbc.com/2026/11/13/data-center-slowdown-utility-stocks.html",
+      "publishedAt": "Fri, 13 Nov 2026 16:54:40 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "0b2dd73be5ecdf05fef9d7ca9f4db028"
+    },
+    {
+      "title": "Microsoft says email delivery and service availability 'improving' across more infrastructure",
+      "description": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
+      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "publishedAt": "Fri, 13 Nov 2026 16:49:13 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "465aa95cc6ef102b15b15e31c2da368d"
+    },
+    {
+      "title": "Democratic Senator Coons Says Secretary Lutnick Let America Down",
+      "description": "Senator Chris Coons, a Democrat from Delaware, says Commerce Secretary Howard Lutnick \"let America down\" and is at center of a controversy involving Nvidia. Senator Coons wants to know if Lutnick made it easier for China to secure Nvidia advanced AI ",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-13/coons-says-secretary-lutnick-let-america-down-video",
+      "publishedAt": "Fri, 13 Nov 2026 16:43:47 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "2ecfbc4a43a282251d9da94cea43dde4"
+    },
+    {
+      "title": "Fed's Collins Talks Inflation Risks, Rate Policy and AI",
+      "description": "Federal Reserve Bank of Boston President Susan Collins, discusses inflation risks, monetary policy and broader economic conditions during an interview with Michael McKee on \"Bloomberg Open Interest.\" Collins says inflation remains too high and is sho",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-13/fed-s-collins-talks-inflation-risks-rate-policy-and-ai-video",
+      "publishedAt": "Fri, 13 Nov 2026 16:24:04 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "d246f4238b71145871ae84de62a8a093"
+    },
+    {
+      "title": "Cerebras Soars on Sales; Cisco Down on Expectations Miss | Stock Movers",
+      "description": "On this episode of Stock Movers:\n\n- Shares of Cerebras Systems (CBRS) soared ahead of the US market open after the chipmaker gave a sales guidance well above estimates, while unveiling new deals with Oracle and Microsoft. A key investor concern is a ",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-13/cerebras-soars-on-sales-cisco-down-on-expectations-miss-video",
+      "publishedAt": "Fri, 13 Nov 2026 16:17:07 GMT",
+      "source": {
+        "name": "Bloomberg Technology"
+      },
+      "hash": "dec37e0a7b70da3cee7aeccd4f5f9166"
+    },
+    {
+      "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
+      "description": "Jensen Huang resigned as Nvidia CEO days after admitting to an affair following scrutiny of his relationship with a woman reportedly deemed a Chinese spy.",
+      "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+      "publishedAt": "Fri, 13 Nov 2026 16:03:42 GMT",
+      "source": {
+        "name": "US Top News and Analysis"
+      },
+      "hash": "a7627da383505369ebf381c681a8aee8"
+    },
+    {
+      "title": "NearLink E1.0 也有新特性！华为 MatePad Pro 13.2 2023 等平板获推支持星闪电竞专链功能",
+      "description": "<p>IT之家 11 月 13 日消息，在 6 月初的华为 nova 16 系列及全场景新品发布会上，华为终端 BG CEO 何刚带来了一款路由新品 —— <a href=\"https://www.ithome.com/0/958/271.htm\" target=\"_blank\">华为凌霄子母路由 Q7 电线版</a>。其搭载星闪技术，提供星闪电竞专链功能，支持华为手机 / 平板直连，<strong>对比传统 WiFi，可降低游戏网络卡顿率</strong>。</p><p style=\"text",
+      "url": "https://www.ithome.com/1/026/995.htm",
+      "publishedAt": "Fri, 13 Nov 2026 15:57:27 GMT",
+      "source": {
+        "name": "IT之家"
+      },
+      "hash": "0c77f78d1aafdc16d45b3997d3bfac7d"
+    }
+  ]
+}
